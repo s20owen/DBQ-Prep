@@ -1,0 +1,461 @@
+{
+  "id": "chronic-fatigue-syndrome",
+  "document_type": "Public VA DBQ",
+  "title": "Chronic Fatigue Syndrome",
+  "category": "Rheumatological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Chronic_Fatigue_Syndrome.pdf",
+    "local_pdf": "sources/dbq_pdfs/chronic-fatigue-syndrome.pdf",
+    "page_count": 5,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-08-02",
+    "version": "v24_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "If there are additional diagnoses that pertain to chronic fatigue syndrome, list using above format:",
+      "NOTE - For VA purposes, the diagnosis of chronic fatigue syndrome requires:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including onset and course or whether the condition is now completely resolved and no longer requires treatment of any type) of the",
+      "Veteran's chronic fatigue syndrome (brief summary):",
+      "Is continuous medication required for control of chronic fatigue syndrome?",
+      "If \"Yes,\" are the Veteran's symptoms controlled by continuous medication?",
+      "If \"Yes,\" list only those medications required for the Veteran's chronic fatigue syndrome:",
+      "Have other clinical conditions that may produce similar symptoms been excluded by history, physical examination and/or laboratory tests to the extent possible?",
+      "If \"No,\" describe:",
+      "Chronic Fatigue Syndrome",
+      "Did the Veteran have an acute onset of chronic fatigue syndrome?",
+      "Has the debilitating fatigue reduced daily activity level to less than 50% of pre-illness level?",
+      "If \"Yes,\" specify length of time daily activity level has been reduced to less than 50% of pre-illness level:"
+    ],
+    "symptoms_signs_findings": [
+      "If \"Yes,\" check all that apply:",
+      "Debilitating fatigue Headaches (of a type, severity or pattern that is different from headaches in",
+      "Low grade fever Migratory joint pain",
+      "Generalized muscle aches or weakness Other",
+      "Fatigue lasting 24 hours or longer after exercise",
+      "For all checked conditions, describe:",
+      "Specify frequency of symptoms:",
+      "Symptoms are nearly constant (if checked complete question 3D)",
+      "Chronic Fatigue Syndrome",
+      "If the symptoms due to chronic fatigue syndrome are nearly constant, do they restrict routine daily activities as compared to the pre-illness level?",
+      "If \"Yes,\" specify % of restriction (check all that apply)",
+      "Symptoms restrict routine daily activities almost completely and may occasionally preclude self-care",
+      "Symptoms restrict routine daily activities to less than 50 percent of the pre-illness level",
+      "Symptoms restrict daily activities from 50 to 75 percent of the pre-illness level",
+      "Symptoms restrict routine daily activities by less than 25 percent of the pre-illness level",
+      "NOTE: For VA purposes, chronic fatigue syndrome is considered incapacitating only while it requires bed rest and treatment by a physician.",
+      "Do the Veteran's symptoms due to chronic fatigue syndrome result in periods of incapacitation?",
+      "If \"Yes,\" indicate total duration of periods of incapacitation:",
+      "If \"Yes,\" also complete appropriate dermatological DBQ",
+      "NOTE: If testing has been performed and reflects the Veteran's current condition, repeat testing is not required.",
+      "Are there any significant diagnostic test findings and/or results?",
+      "If \"Yes,\" provide type of test or procedure, date and results - brief summary:"
+    ],
+    "frequency_duration_prompts": [
+      "(A) New onset of debilitating fatigue severe enough to reduce daily activity to less than 50 percent of the usual level for at least 6 months; and",
+      "Fatigue lasting 24 hours or longer after exercise",
+      "Has the debilitating fatigue reduced daily activity level to less than 50% of pre-illness level?",
+      "If \"Yes,\" specify length of time daily activity level has been reduced to less than 50% of pre-illness level:",
+      "Specify frequency of symptoms:",
+      "Symptoms are nearly constant (if checked complete question 3D)",
+      "If the symptoms due to chronic fatigue syndrome are nearly constant, do they restrict routine daily activities as compared to the pre-illness level?",
+      "Symptoms restrict routine daily activities almost completely and may occasionally preclude self-care",
+      "Symptoms restrict routine daily activities to less than 50 percent of the pre-illness level",
+      "Symptoms restrict daily activities from 50 to 75 percent of the pre-illness level",
+      "Symptoms restrict routine daily activities by less than 25 percent of the pre-illness level",
+      "NOTE: For VA purposes, chronic fatigue syndrome is considered incapacitating only while it requires bed rest and treatment by a physician.",
+      "If \"Yes,\" indicate total duration of periods of incapacitation:"
+    ],
+    "severity_prompts": [
+      "Chronic Fatigue Syndrome",
+      "If there are additional diagnoses that pertain to chronic fatigue syndrome, list using above format:",
+      "NOTE - For VA purposes, the diagnosis of chronic fatigue syndrome requires:",
+      "(A) New onset of debilitating fatigue severe enough to reduce daily activity to less than 50 percent of the usual level for at least 6 months; and",
+      "Acute onset of the condition",
+      "Headaches (of a type, severity or pattern that is different from headaches in the pre-morbid state)",
+      "Veteran's chronic fatigue syndrome (brief summary):",
+      "Is continuous medication required for control of chronic fatigue syndrome?",
+      "If \"Yes,\" list only those medications required for the Veteran's chronic fatigue syndrome:",
+      "Did the Veteran have an acute onset of chronic fatigue syndrome?",
+      "Debilitating fatigue Headaches (of a type, severity or pattern that is different from headaches in",
+      "Symptoms are nearly constant (if checked complete question 3D)",
+      "If the symptoms due to chronic fatigue syndrome are nearly constant, do they restrict routine daily activities as compared to the pre-illness level?",
+      "NOTE: For VA purposes, chronic fatigue syndrome is considered incapacitating only while it requires bed rest and treatment by a physician.",
+      "Do the Veteran's symptoms due to chronic fatigue syndrome result in periods of incapacitation?",
+      "If \"Yes,\" indicate total duration of periods of incapacitation:",
+      "If \"Yes,\" also complete appropriate dermatological DBQ",
+      "If \"Yes,\" describe the impact of the Veteran's chronic fatigue syndrome, providing one or more examples:",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": [
+      "If \"Yes,\" describe the impact of the Veteran's chronic fatigue syndrome, providing one or more examples:"
+    ]
+  },
+  "sections": [
+    {
+      "title": "PREFACE",
+      "items": [
+        "CHRONIC FATIGUE SYNDROME (CFS)"
+      ]
+    },
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "Chronic Fatigue Syndrome",
+        "If there are additional diagnoses that pertain to chronic fatigue syndrome, list using above format:",
+        "NOTE - For VA purposes, the diagnosis of chronic fatigue syndrome requires:",
+        "(A) New onset of debilitating fatigue severe enough to reduce daily activity to less than 50 percent of the usual level for at least 6 months; and",
+        "Acute onset of the condition",
+        "Low grade fever",
+        "Non-exudative pharyngitis",
+        "Palpable or tender cervical or axillary lymph nodes",
+        "Generalized muscle aches or weakness",
+        "Fatigue lasting 24 hours or longer after exercise",
+        "Headaches (of a type, severity or pattern that is different from headaches in the pre-morbid state)",
+        "Migratory joint pains",
+        "Neuropsychologic symptoms",
+        "Sleep disturbance"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including onset and course or whether the condition is now completely resolved and no longer requires treatment of any type) of the",
+        "Veteran's chronic fatigue syndrome (brief summary):",
+        "Is continuous medication required for control of chronic fatigue syndrome?",
+        "If \"Yes,\" are the Veteran's symptoms controlled by continuous medication?",
+        "If \"Yes,\" list only those medications required for the Veteran's chronic fatigue syndrome:",
+        "Have other clinical conditions that may produce similar symptoms been excluded by history, physical examination and/or laboratory tests to the extent possible?",
+        "If \"No,\" describe:",
+        "Chronic Fatigue Syndrome",
+        "Did the Veteran have an acute onset of chronic fatigue syndrome?",
+        "Has the debilitating fatigue reduced daily activity level to less than 50% of pre-illness level?",
+        "If \"Yes,\" specify length of time daily activity level has been reduced to less than 50% of pre-illness level:"
+      ]
+    },
+    {
+      "title": "SECTION III - FINDINGS, SIGNS AND SYMPTOMS",
+      "items": [
+        "If \"Yes,\" check all that apply:",
+        "Debilitating fatigue Headaches (of a type, severity or pattern that is different from headaches in",
+        "Low grade fever Migratory joint pain",
+        "Generalized muscle aches or weakness Other",
+        "Fatigue lasting 24 hours or longer after exercise",
+        "For all checked conditions, describe:",
+        "Specify frequency of symptoms:",
+        "Symptoms are nearly constant (if checked complete question 3D)",
+        "Chronic Fatigue Syndrome",
+        "If the symptoms due to chronic fatigue syndrome are nearly constant, do they restrict routine daily activities as compared to the pre-illness level?",
+        "If \"Yes,\" specify % of restriction (check all that apply)",
+        "Symptoms restrict routine daily activities almost completely and may occasionally preclude self-care",
+        "Symptoms restrict routine daily activities to less than 50 percent of the pre-illness level",
+        "Symptoms restrict daily activities from 50 to 75 percent of the pre-illness level",
+        "Symptoms restrict routine daily activities by less than 25 percent of the pre-illness level",
+        "NOTE: For VA purposes, chronic fatigue syndrome is considered incapacitating only while it requires bed rest and treatment by a physician.",
+        "Do the Veteran's symptoms due to chronic fatigue syndrome result in periods of incapacitation?",
+        "If \"Yes,\" indicate total duration of periods of incapacitation:"
+      ]
+    },
+    {
+      "title": "SECTION IV - OTHER PERTINENT PHYSICAL FINDINGS, SCARS, COMPLICATIONS, CONDITIONS, SIGNS AND/OR SYMPTOMS",
+      "items": [
+        "If \"Yes,\" also complete appropriate dermatological DBQ"
+      ]
+    },
+    {
+      "title": "SECTION V - DIAGNOSTIC TESTING",
+      "items": [
+        "NOTE: If testing has been performed and reflects the Veteran's current condition, repeat testing is not required.",
+        "Are there any significant diagnostic test findings and/or results?",
+        "If \"Yes,\" provide type of test or procedure, date and results - brief summary:",
+        "Chronic Fatigue Syndrome"
+      ]
+    },
+    {
+      "title": "SECTION VI - FUNCTIONAL IMPACT",
+      "items": [
+        "If \"Yes,\" describe the impact of the Veteran's chronic fatigue syndrome, providing one or more examples:"
+      ]
+    },
+    {
+      "title": "SECTION VII - REMARKS",
+      "items": [
+        "Remarks (if any)",
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 8B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 8D. Date Signed:",
+        "Examiner's phone/fax numbers: 8F. National Provider Identifier (NPI) number: 8G. Medical license number and state:",
+        "Examiner's address:",
+        "Chronic Fatigue Syndrome"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "neurological",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily",
+      "duration": "all day with crashes lasting one or more days",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "physical exertion, mental exertion, poor sleep, stress, infections, heat, and over-scheduling",
+      "limitation": "stamina, concentration, chores, exercise, errands, work schedule, and social activities",
+      "treatment": "pacing, rest, sleep hygiene, symptom medication if prescribed, therapy/support, and medical follow-up",
+      "flareCare": "resting, reducing stimulation, hydration, pacing, and avoiding additional exertion",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Chronic Fatigue Syndrome",
+      "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+      "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+      "mainSymptoms": "profound fatigue, post-exertional worsening, unrefreshing sleep, cognitive problems, body aches, headaches, and sore throat/tender nodes if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current neurological diagnosis/residuals, onset, course, testing, treatment, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; neurology care, medications, therapy, assistive devices, testing, and specialist follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "all day with crashes lasting one or more days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "physical exertion, mental exertion, poor sleep, stress, infections, heat, and over-scheduling",
+          "limitation": "stamina, concentration, chores, exercise, errands, work schedule, and social activities",
+          "treatment": "pacing, rest, sleep hygiene, symptom medication if prescribed, therapy/support, and medical follow-up",
+          "flareCare": "resting, reducing stimulation, hydration, pacing, and avoiding additional exertion",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Chronic Fatigue Syndrome",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "profound fatigue, post-exertional worsening, unrefreshing sleep, cognitive problems, body aches, headaches, and sore throat/tender nodes if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "all day with crashes lasting one or more days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "physical exertion, mental exertion, poor sleep, stress, infections, heat, and over-scheduling",
+          "limitation": "stamina, concentration, chores, exercise, errands, work schedule, and social activities",
+          "treatment": "pacing, rest, sleep hygiene, symptom medication if prescribed, therapy/support, and medical follow-up",
+          "flareCare": "resting, reducing stimulation, hydration, pacing, and avoiding additional exertion",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Chronic Fatigue Syndrome",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "profound fatigue, post-exertional worsening, unrefreshing sleep, cognitive problems, body aches, headaches, and sore throat/tender nodes if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "all day with crashes lasting one or more days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "physical exertion, mental exertion, poor sleep, stress, infections, heat, and over-scheduling",
+          "limitation": "stamina, concentration, chores, exercise, errands, work schedule, and social activities",
+          "treatment": "pacing, rest, sleep hygiene, symptom medication if prescribed, therapy/support, and medical follow-up",
+          "flareCare": "resting, reducing stimulation, hydration, pacing, and avoiding additional exertion",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Chronic Fatigue Syndrome",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "profound fatigue, post-exertional worsening, unrefreshing sleep, cognitive problems, body aches, headaches, and sore throat/tender nodes if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: when symptoms build, I slow down, make more mistakes, avoid unsafe tasks, and need breaks or support with {{limitation}}."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

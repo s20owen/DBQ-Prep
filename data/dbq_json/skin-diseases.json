@@ -1,0 +1,472 @@
+{
+  "id": "skin-diseases",
+  "document_type": "Public VA DBQ",
+  "title": "Skin Diseases",
+  "category": "Dermatological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Skin_Diseases.pdf",
+    "local_pdf": "sources/dbq_pdfs/skin-diseases.pdf",
+    "page_count": 12,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-07-15",
+    "version": "v24_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [],
+    "medical_history_onset_course_treatment": [
+      "DESCRIBE THE HISTORY (including onset and course) OF THE VETERAN'S CURRENT SKIN CONDITIONS (brief summary):",
+      "RESOLVED SKIN CONDITIONS - DID THE VETERAN PREVIOUSLY HAVE A SKIN CONDITION THAT IS NOW COMPLETELY RESOLVED AND NO",
+      "COMMENTS, IF ANY:"
+    ],
+    "symptoms_signs_findings": [
+      "DO ANY OF THE VETERAN'S SKIN CONDITIONS CAUSE SCARRING (REGARDLESS OF LOCATION), OR DISFIGUREMENT OF THE HEAD, FACE OR",
+      "(If \"Yes,\" complete the Scars/Disfigurement DBQ).",
+      "(If \"Yes,\" describe and complete the appropriate DBQ):",
+      "COMMENTS, IF ANY:",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 11B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 11D. Date Signed:",
+      "Examiner's phone/fax numbers: 11F. National Provider Identifier (NPI) number: 11G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "(Total duration of medication use in past 12 months): <6 weeks",
+      "6 weeks or more, but not constant",
+      "Constant/near-constant",
+      "NOTE: If a medication is used for more than one condition, provide names of all conditions, name of medication used for each condition, and frequency of use for",
+      "(Total duration of medication use in past 12 months):",
+      "<6 weeks 6 weeks or more, but not constant Constant/near-constant",
+      "Frequency of documented, vasculitis episodes occurring over the past 12 months:",
+      "If \"Yes,\" check the applicable frequency: Intermittent Continuous",
+      "Has the Veteran continued to have vasculitis episodes despite continuous systemic immunosuppressive therapy over the past",
+      "(If checked, indicate severity and frequency):",
+      "Without recurrent episodes",
+      "One to three episodes over the past 12-month period",
+      "Four or more episodes over the past 12-month period",
+      "Intermittent systemic therapy (immunosuppressives, antihistamines, or sympathomimetics)"
+    ],
+    "severity_prompts": [
+      "chronic familial pemphigus (Hailey-Hailey), and porphyria cutanea tarda)",
+      "(Total duration of medication use in past 12 months): <6 weeks",
+      "6 weeks or more, but not constant",
+      "Constant/near-constant",
+      "(Total duration of medication use in past 12 months):",
+      "<6 weeks 6 weeks or more, but not constant Constant/near-constant",
+      "INDICATE THE VETERAN'S VISIBLE CHARACTERISTIC LESIONS DUE TO THE SKIN CONDITION(S); INDICATE THE APPROXIMATE TOTAL BODY AREA",
+      "AND APPROXIMATE TOTAL EXPOSED BODY AREA (face, neck and hands) AFFECTED ON CURRENT EXAMINATION (check all that apply):",
+      "Dermatitis Total body area",
+      "Eczema Total body area",
+      "Dermatophytosis Total body area",
+      "Bullous disorders Total body area",
+      "Total body area",
+      "Psoriasis Total body area",
+      "Diseases of keratinization Total body area",
+      "Discoid lupus erythematosus Total body area",
+      "(If checked, indicate severity and location (check all that apply)):",
+      "(If checked, indicate severity):",
+      "Urticaria, chronic",
+      "If \"Yes,\" check the applicable frequency: Intermittent Continuous",
+      "NOTE: Treatment failure is defined as either disease progression, or less than a 25 percent reduction in the extent and severity of disease after four weeks of",
+      "(If checked, indicate severity and frequency):",
+      "Intermittent systemic therapy (immunosuppressives, antihistamines, or sympathomimetics)",
+      "(If \"Yes,\" complete the Scars/Disfigurement DBQ).",
+      "(If \"Yes,\" describe and complete the appropriate DBQ):",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [
+      "Frequency of documented, vasculitis episodes occurring over the past 12 months:",
+      "Has the Veteran continued to have vasculitis episodes despite continuous systemic immunosuppressive therapy over the past",
+      "Without recurrent episodes",
+      "One to three episodes over the past 12-month period",
+      "Four or more episodes over the past 12-month period"
+    ],
+    "functional_impact_prompts": [
+      "DO ANY OF THE VETERAN'S SKIN CONDITIONS IMPACT HIS OR HER ABILITY TO WORK?"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "(onychomycosis); of inguinal area (jock itch), tinea cruris; tinea versicolor)",
+        "chronic familial pemphigus (Hailey-Hailey), and porphyria cutanea tarda)"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "DESCRIBE THE HISTORY (including onset and course) OF THE VETERAN'S CURRENT SKIN CONDITIONS (brief summary):",
+        "RESOLVED SKIN CONDITIONS - DID THE VETERAN PREVIOUSLY HAVE A SKIN CONDITION THAT IS NOW COMPLETELY RESOLVED AND NO",
+        "COMMENTS, IF ANY:"
+      ]
+    },
+    {
+      "title": "SECTION III - TREATMENT",
+      "items": [
+        "HAS THE VETERAN BEEN TREATED WITH MEDICATION IN THE PAST 12 MONTHS FOR ANY SKIN CONDITION?",
+        "(Total duration of medication use in past 12 months): <6 weeks",
+        "6 weeks or more, but not constant",
+        "Constant/near-constant",
+        "NOTE: If a medication is used for more than one condition, provide names of all conditions, name of medication used for each condition, and frequency of use for",
+        "HAS THE VETERAN HAD ANY TREATMENTS OR PROCEDURES OTHER THAN SYSTEMIC OR TOPICAL MEDICATIONS IN THE PAST 12 MONTHS FOR",
+        "(Total duration of medication use in past 12 months):",
+        "<6 weeks 6 weeks or more, but not constant Constant/near-constant"
+      ]
+    },
+    {
+      "title": "SECTION IV - PHYSICAL EXAM",
+      "items": [
+        "INDICATE THE VETERAN'S VISIBLE CHARACTERISTIC LESIONS DUE TO THE SKIN CONDITION(S); INDICATE THE APPROXIMATE TOTAL BODY AREA",
+        "AND APPROXIMATE TOTAL EXPOSED BODY AREA (face, neck and hands) AFFECTED ON CURRENT EXAMINATION (check all that apply):",
+        "Dermatitis Total body area",
+        "Eczema Total body area",
+        "Dermatophytosis Total body area",
+        "Bullous disorders Total body area",
+        "listed elsewhere",
+        "Total body area",
+        "Psoriasis Total body area",
+        "Diseases of keratinization Total body area",
+        "Discoid lupus erythematosus Total body area",
+        "FOR EACH SKIN CONDITION CHECKED IN ITEM 4A, GIVE SPECIFIC DIAGNOSIS AND DESCRIBE APPEARANCE AND LOCATION:"
+      ]
+    },
+    {
+      "title": "SECTION V - SPECIFIC SKIN CONDITIONS",
+      "items": [
+        "(If checked, indicate severity and location (check all that apply)):",
+        "(If checked, indicate amount of hair loss):",
+        "Hair loss limited to scalp and face Loss of all body hair Other, describe:",
+        "(If checked, indicate severity):",
+        "Urticaria, chronic",
+        "Has the Veteran ever had a break in treatment?",
+        "If \"Yes,\" did he/she experience symptoms at least twice a week for six weeks or more?",
+        "Indicate the type of treatment the Veteran is currently receiving:",
+        "Frequency of documented, vasculitis episodes occurring over the past 12 months:",
+        "Has the Veteran required the use of systemic immunosuppressive therapy over the past 12",
+        "If \"Yes,\" check the applicable frequency: Intermittent Continuous",
+        "Has the Veteran continued to have vasculitis episodes despite continuous systemic immunosuppressive therapy over the past",
+        "Generalized involvement of the skin with systemic manifestations (such as fever, weight loss, or hypoproteinemia)",
+        "NOTE: Treatment failure is defined as either disease progression, or less than a 25 percent reduction in the extent and severity of disease after four weeks of",
+        "(If checked, indicate severity and frequency):",
+        "Without recurrent episodes",
+        "One to three episodes over the past 12-month period",
+        "Four or more episodes over the past 12-month period",
+        "Impairing ambulation",
+        "Not impairing ambulation",
+        "Intermittent systemic therapy (immunosuppressives, antihistamines, or sympathomimetics)"
+      ]
+    },
+    {
+      "title": "SECTION VI - TUMORS AND NEOPLASMS",
+      "items": [
+        "Is the neoplasm:",
+        "If checked, describe:",
+        "If checked, describe procedure:",
+        "If checked, describe treatment:",
+        "If there are additional benign or malignant neoplasms or metastases related to any of the diagnoses in the diagnosis section, describe using the above format:"
+      ]
+    },
+    {
+      "title": "SECTION VII - SCARRING AND DISFIGUREMENT",
+      "items": [
+        "DO ANY OF THE VETERAN'S SKIN CONDITIONS CAUSE SCARRING (REGARDLESS OF LOCATION), OR DISFIGUREMENT OF THE HEAD, FACE OR",
+        "(If \"Yes,\" complete the Scars/Disfigurement DBQ)."
+      ]
+    },
+    {
+      "title": "SECTION VIII - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS AND/OR SYMPTOMS",
+      "items": [
+        "(If \"Yes,\" describe and complete the appropriate DBQ):",
+        "COMMENTS, IF ANY:"
+      ]
+    },
+    {
+      "title": "SECTION IX - FUNCTIONAL IMPACT",
+      "items": [
+        "DO ANY OF THE VETERAN'S SKIN CONDITIONS IMPACT HIS OR HER ABILITY TO WORK?"
+      ]
+    },
+    {
+      "title": "SECTION X - REMARKS",
+      "items": [
+        "REMARKS (If any):"
+      ]
+    },
+    {
+      "title": "SECTION XI - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 11B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 11D. Date Signed:",
+        "Examiner's phone/fax numbers: 11F. National Provider Identifier (NPI) number: 11G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "skin",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or during recurring flares",
+      "duration": "days to weeks during flares",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "several times per month",
+      "triggers": "heat, sweating, friction, shaving, chemicals, sun exposure, stress, or clothing irritation",
+      "limitation": "clothing choices, sleep, movement, shaving, work tasks, social comfort, and avoiding irritation",
+      "treatment": "topical medication, oral medication if prescribed, dressings, moisturizers, procedures, and avoiding triggers",
+      "flareCare": "topicals, dressings, keeping the area clean/dry, avoiding friction or heat, and rest if painful",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Skin Diseases",
+      "workImpact": "I avoid heat, friction, chemicals, uniforms, or tasks that irritate the area and may need breaks to manage symptoms.",
+      "dailyImpact": "Sleep, clothing, bathing, shaving, exercise, intimacy, and social situations are affected during flares.",
+      "mainSymptoms": "itching, pain, burning, rash, lesions, scarring, skin breakdown, sensitivity, or disfigurement if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current skin/scar diagnosis, onset, affected areas, treatment, medication, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; topical/oral medication, dressings, procedures, dermatology care, scar care, and trigger avoidance",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or during recurring flares",
+          "duration": "days to weeks during flares",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "heat, sweating, friction, shaving, chemicals, sun exposure, stress, or clothing irritation",
+          "limitation": "clothing choices, sleep, movement, shaving, work tasks, social comfort, and avoiding irritation",
+          "treatment": "topical medication, oral medication if prescribed, dressings, moisturizers, procedures, and avoiding triggers",
+          "flareCare": "topicals, dressings, keeping the area clean/dry, avoiding friction or heat, and rest if painful",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Skin Diseases",
+          "workImpact": "I avoid heat, friction, chemicals, uniforms, or tasks that irritate the area and may need breaks to manage symptoms.",
+          "dailyImpact": "Sleep, clothing, bathing, shaving, exercise, intimacy, and social situations are affected during flares.",
+          "mainSymptoms": "itching, pain, burning, rash, lesions, scarring, skin breakdown, sensitivity, or disfigurement if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "pain, itching, instability, skin breakdown, exposed/total body area, disfigurement, clothing limits, sleep, and work impact",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, skin or scar symptoms are {{frequency}}, with flares lasting {{duration}} and worsening after {{triggers}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or during recurring flares",
+          "duration": "days to weeks during flares",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "heat, sweating, friction, shaving, chemicals, sun exposure, stress, or clothing irritation",
+          "limitation": "clothing choices, sleep, movement, shaving, work tasks, social comfort, and avoiding irritation",
+          "treatment": "topical medication, oral medication if prescribed, dressings, moisturizers, procedures, and avoiding triggers",
+          "flareCare": "topicals, dressings, keeping the area clean/dry, avoiding friction or heat, and rest if painful",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Skin Diseases",
+          "workImpact": "I avoid heat, friction, chemicals, uniforms, or tasks that irritate the area and may need breaks to manage symptoms.",
+          "dailyImpact": "Sleep, clothing, bathing, shaving, exercise, intimacy, and social situations are affected during flares.",
+          "mainSymptoms": "itching, pain, burning, rash, lesions, scarring, skin breakdown, sensitivity, or disfigurement if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, skin or scar symptoms are {{frequency}}, with flares lasting {{duration}} and worsening after {{triggers}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Skin/scar symptoms: pain, itching, burning, rash, drainage, breakdown, tenderness, numbness if true",
+          "Area: location, size, exposed area, number of scars/lesions, painful or unstable if true",
+          "Triggers: heat, sweat, friction, clothing/uniform, shaving, sun, chemicals",
+          "Treatment: topical/oral meds, dressings, procedures, systemic therapy if true"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "pain, itching, instability, skin breakdown, exposed/total body area, disfigurement, clothing limits, sleep, and work impact",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, itching, pain, burning, skin breakdown, or sensitivity worsens, so I {{flareCare}} while avoiding friction or triggers.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or during recurring flares",
+          "duration": "days to weeks during flares",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "heat, sweating, friction, shaving, chemicals, sun exposure, stress, or clothing irritation",
+          "limitation": "clothing choices, sleep, movement, shaving, work tasks, social comfort, and avoiding irritation",
+          "treatment": "topical medication, oral medication if prescribed, dressings, moisturizers, procedures, and avoiding triggers",
+          "flareCare": "topicals, dressings, keeping the area clean/dry, avoiding friction or heat, and rest if painful",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Skin Diseases",
+          "workImpact": "I avoid heat, friction, chemicals, uniforms, or tasks that irritate the area and may need breaks to manage symptoms.",
+          "dailyImpact": "Sleep, clothing, bathing, shaving, exercise, intimacy, and social situations are affected during flares.",
+          "mainSymptoms": "itching, pain, burning, rash, lesions, scarring, skin breakdown, sensitivity, or disfigurement if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: clothing, heat, friction, uniforms, chemicals, or movement can irritate the area and force me to modify tasks or take breaks."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, itching, pain, burning, skin breakdown, or sensitivity worsens, so I {{flareCare}} while avoiding friction or triggers."
+          }
+        ],
+        "bullet_templates": [
+          "Work: uniforms/gear, heat/sweat, gloves/boots, chemicals, appearance/social comfort",
+          "Daily life: sleep, clothing, bathing, shaving, exercise, intimacy, movement",
+          "Worst days: cover area, avoid friction/heat, change dressings, rest if painful",
+          "Safety/hygiene: skin breakdown, infection concern, frequent cleaning if true"
+        ]
+      }
+    ]
+  }
+}

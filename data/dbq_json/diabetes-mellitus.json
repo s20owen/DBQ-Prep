@@ -1,0 +1,446 @@
+{
+  "id": "diabetes-mellitus",
+  "document_type": "Public VA DBQ",
+  "title": "Diabetes Mellitus",
+  "category": "Endocrinological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Diabetes_Mellitus.pdf",
+    "local_pdf": "sources/dbq_pdfs/diabetes-mellitus.pdf",
+    "page_count": 6,
+    "verified_on": "2026-07-20",
+    "updated_on": "2026-03-16",
+    "version": "v26_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "Is there an official diagnosis of Diabetes Mellitus Type I?",
+      "Is there an official diagnosis of Diabetes Mellitus Type II?",
+      "Does not meet criteria for diagnosis of diabetes",
+      "If there are additional diagnoses that pertain to Diabetes Mellitus list using above format"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Treatment (Check all that apply)",
+      "Describe other:",
+      "Regulation of activities",
+      "NOTE - For VA purposes, regulation of activities can be defined as avoidance of strenuous occupational and recreational activities with the intention of avoiding",
+      "hypoglycemic episodes.",
+      "Frequency of diabetic care",
+      "Less than 2 times per month 2 times per month Weekly",
+      "Hospitalization for episodes of ketoacidosis or hypoglycemic reactions",
+      "How many episodes of ketoacidosis required hospitalization over the past 12 months?",
+      "How many episodes of hypoglycemic reactions required hospitalization over the past 12 months?",
+      "Loss of strength and weight",
+      "Has the Veteran had progressive unintentional weight loss and loss of strength attributable to Diabetes Mellitus?"
+    ],
+    "symptoms_signs_findings": [
+      "Test results used to make the diagnosis of Diabetes Mellitus (if known) (check all that apply)",
+      "Note: If laboratory test results are in the medical record, repeat testing is not required. A glucose tolerance test is not required for VA purposes; report this test only if",
+      "Describe other:",
+      "Current test results",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete, and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 8B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 8D. Date signed:",
+      "Examiner's phone/fax numbers: 8F. National Provider Identifier (NPI) number: 8G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "hypoglycemic episodes.",
+      "Frequency of diabetic care",
+      "Less than 2 times per month 2 times per month Weekly",
+      "Hospitalization for episodes of ketoacidosis or hypoglycemic reactions",
+      "How many episodes of ketoacidosis required hospitalization over the past 12 months?",
+      "How many episodes of hypoglycemic reactions required hospitalization over the past 12 months?",
+      "Note: Female Sexual Arousal Disorder (FSAD) refers to the continual or recurrent physical inability of a woman to accomplish or maintain an"
+    ],
+    "severity_prompts": [
+      "NOTE - For all checked boxes, also complete appropriate Questionnaire(s). (Eye Questionnaire must be completed by an ophthalmologist or optometrist)",
+      "Note: If a condition listed below exists and is not the result of Diabetes Mellitus, also complete 3C.",
+      "Cardiac condition(s) (If checked also complete the Heart Conditions Questionnaire)",
+      "Hypertension (in the presence of diabetic renal disease) (If checked also complete Hypertension Questionnaire)",
+      "Peripheral vascular disease (If checked also complete Arteries and Veins Questionnaire)",
+      "Stroke (If checked also complete appropriate neurological Questionnaire(s): Central Nervous System and Neuromuscular Diseases, Cranial",
+      "Skin conditions (If checked also complete Skin Conditions Questionnaire)",
+      "Eye conditions other than diabetic retinopathy (If checked also complete Eye Questionnaire. Eye Questionnaire must be completed by an",
+      "Note: Aggravation means any increase in severity of a nonservice-connected disease or injury that would not have occurred but for the Diabetes Mellitus, or where",
+      "the nonservice-connected condition would have been less severe but for the Diabetes Mellitus.",
+      "Hypertension (If checked also complete Hypertension Questionnaire)",
+      "Renal disease other than diabetic nephropathy or renal dysfunction caused by diabetes mellitus (If checked, also complete Kidney Questionnaire)",
+      "Peripheral vascular disease (If checked also complete Artery and Vein Questionnaire)",
+      "Eye condition(s) other than diabetic retinopathy.(If checked also complete Eye Questionnaire. Eye Questionnaire must be completed by an",
+      "Skin conditions (If checked, also complete Skin Conditions Questionnaire)",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete, and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [
+      "hypoglycemic episodes.",
+      "Hospitalization for episodes of ketoacidosis or hypoglycemic reactions",
+      "How many episodes of ketoacidosis required hospitalization over the past 12 months?",
+      "How many episodes of hypoglycemic reactions required hospitalization over the past 12 months?"
+    ],
+    "functional_impact_prompts": [
+      "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+      "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of occupational",
+      "task (such as standing, walking, lifting, sitting, etc.)?"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION 1 - DIAGNOSIS",
+      "items": [
+        "Select the Veteran's condition:",
+        "Is there an official diagnosis of Diabetes Mellitus Type I?",
+        "Is there an official diagnosis of Diabetes Mellitus Type II?",
+        "Does not meet criteria for diagnosis of diabetes",
+        "If there are additional diagnoses that pertain to Diabetes Mellitus list using above format"
+      ]
+    },
+    {
+      "title": "SECTION 2 - MEDICAL HISTORY",
+      "items": [
+        "Treatment (Check all that apply)",
+        "Describe other:",
+        "Regulation of activities",
+        "NOTE - For VA purposes, regulation of activities can be defined as avoidance of strenuous occupational and recreational activities with the intention of avoiding",
+        "hypoglycemic episodes.",
+        "Frequency of diabetic care",
+        "Less than 2 times per month 2 times per month Weekly",
+        "Hospitalization for episodes of ketoacidosis or hypoglycemic reactions",
+        "How many episodes of ketoacidosis required hospitalization over the past 12 months?",
+        "How many episodes of hypoglycemic reactions required hospitalization over the past 12 months?",
+        "Loss of strength and weight",
+        "Has the Veteran had progressive unintentional weight loss and loss of strength attributable to Diabetes Mellitus?"
+      ]
+    },
+    {
+      "title": "SECTION 3 - COMPLICATIONS OF DIABETES MELLITUS",
+      "items": [
+        "NOTE - For all checked boxes, also complete appropriate Questionnaire(s). (Eye Questionnaire must be completed by an ophthalmologist or optometrist)",
+        "Secondary Complications",
+        "Note: If a condition listed below exists and is not the result of Diabetes Mellitus, also complete 3C.",
+        "Erectile dysfunction",
+        "Note: Female Sexual Arousal Disorder (FSAD) refers to the continual or recurrent physical inability of a woman to accomplish or maintain an",
+        "ample lubrication-swelling reaction during sexual intercourse. Decreased blood flow to the genital area is believed to contribute to FSAD similar to",
+        "the role of vascular disease in male erectile dysfunction. Other causes may include nerve and/or tissue damage",
+        "Cardiac condition(s) (If checked also complete the Heart Conditions Questionnaire)",
+        "Hypertension (in the presence of diabetic renal disease) (If checked also complete Hypertension Questionnaire)",
+        "Peripheral vascular disease (If checked also complete Arteries and Veins Questionnaire)",
+        "Stroke (If checked also complete appropriate neurological Questionnaire(s): Central Nervous System and Neuromuscular Diseases, Cranial",
+        "Skin conditions (If checked also complete Skin Conditions Questionnaire)",
+        "Eye conditions other than diabetic retinopathy (If checked also complete Eye Questionnaire. Eye Questionnaire must be completed by an",
+        "Describe other complication(s):",
+        "Aggravated Complications",
+        "Note: Aggravation means any increase in severity of a nonservice-connected disease or injury that would not have occurred but for the Diabetes Mellitus, or where",
+        "the nonservice-connected condition would have been less severe but for the Diabetes Mellitus.",
+        "Aggravation may include but is not limited to: the nonservice-connected condition has worsened due to Diabetes Mellitus; treatment for Diabetes Mellitus has",
+        "Hypertension (If checked also complete Hypertension Questionnaire)",
+        "Renal disease other than diabetic nephropathy or renal dysfunction caused by diabetes mellitus (If checked, also complete Kidney Questionnaire)",
+        "Peripheral vascular disease (If checked also complete Artery and Vein Questionnaire)",
+        "Eye condition(s) other than diabetic retinopathy.(If checked also complete Eye Questionnaire. Eye Questionnaire must be completed by an",
+        "Skin conditions (If checked, also complete Skin Conditions Questionnaire)",
+        "Describe other permanently aggravated condition(s):"
+      ]
+    },
+    {
+      "title": "SECTION 4 - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": []
+    },
+    {
+      "title": "SECTION 5 - DIAGNOSTIC TESTING",
+      "items": [
+        "Test results used to make the diagnosis of Diabetes Mellitus (if known) (check all that apply)",
+        "Note: If laboratory test results are in the medical record, repeat testing is not required. A glucose tolerance test is not required for VA purposes; report this test only if",
+        "Describe other:",
+        "Current test results"
+      ]
+    },
+    {
+      "title": "SECTION 6 - FUNCTIONAL IMPACT",
+      "items": [
+        "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+        "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of occupational",
+        "task (such as standing, walking, lifting, sitting, etc.)?"
+      ]
+    },
+    {
+      "title": "SECTION 7 - REMARKS",
+      "items": [
+        "Remarks (if any – please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION 8 - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete, and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 8B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 8D. Date signed:",
+        "Examiner's phone/fax numbers: 8F. National Provider Identifier (NPI) number: 8G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "endocrine",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or when levels are not controlled",
+      "duration": "hours to all day depending on symptoms",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "several times per month",
+      "triggers": "missed meals, activity, illness, stress, medication timing, and diet changes",
+      "limitation": "meal planning, medication timing, glucose monitoring, appointments, energy, driving safety during lows, and work reliability",
+      "treatment": "diabetes medication or insulin if prescribed, glucose monitoring, diet changes, exercise as advised, labs, and follow-up care",
+      "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Diabetes Mellitus",
+      "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+      "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+      "mainSymptoms": "blood sugar highs/lows, fatigue, thirst/urination changes, vision changes, neuropathy symptoms if true, and medication effects",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current endocrine/nutritional diagnosis, onset, treatment, medication, monitoring/labs, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; medication, monitoring/labs, diet changes, specialist care, supplements if prescribed, and follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "missed meals, activity, illness, stress, medication timing, and diet changes",
+          "limitation": "meal planning, medication timing, glucose monitoring, appointments, energy, driving safety during lows, and work reliability",
+          "treatment": "diabetes medication or insulin if prescribed, glucose monitoring, diet changes, exercise as advised, labs, and follow-up care",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Diabetes Mellitus",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "blood sugar highs/lows, fatigue, thirst/urination changes, vision changes, neuropathy symptoms if true, and medication effects",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "fatigue, weakness, weight/appetite changes, monitoring needs, medication timing, diet restrictions, complications, and work/daily impact",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms or monitoring needs are {{frequency}} and can last {{duration}} when levels, meals, medication timing, or stress are off.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "missed meals, activity, illness, stress, medication timing, and diet changes",
+          "limitation": "meal planning, medication timing, glucose monitoring, appointments, energy, driving safety during lows, and work reliability",
+          "treatment": "diabetes medication or insulin if prescribed, glucose monitoring, diet changes, exercise as advised, labs, and follow-up care",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Diabetes Mellitus",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "blood sugar highs/lows, fatigue, thirst/urination changes, vision changes, neuropathy symptoms if true, and medication effects",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms or monitoring needs are {{frequency}} and can last {{duration}} when levels, meals, medication timing, or stress are off."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "fatigue, weakness, weight/appetite changes, monitoring needs, medication timing, diet restrictions, complications, and work/daily impact",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, fatigue, weakness, blood sugar/hormone symptoms, or medication side effects worsen and I use {{flareCare}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "missed meals, activity, illness, stress, medication timing, and diet changes",
+          "limitation": "meal planning, medication timing, glucose monitoring, appointments, energy, driving safety during lows, and work reliability",
+          "treatment": "diabetes medication or insulin if prescribed, glucose monitoring, diet changes, exercise as advised, labs, and follow-up care",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Diabetes Mellitus",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "blood sugar highs/lows, fatigue, thirst/urination changes, vision changes, neuropathy symptoms if true, and medication effects",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: fatigue, monitoring, medication timing, meals, appointments, or complications require planning and can reduce pace or reliability."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, fatigue, weakness, blood sugar/hormone symptoms, or medication side effects worsen and I use {{flareCare}}."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

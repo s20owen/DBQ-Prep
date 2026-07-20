@@ -1,0 +1,568 @@
+{
+  "id": "als-lou-gehrig-s-disease",
+  "document_type": "Public VA DBQ",
+  "title": "ALS (Lou Gehrig's Disease)",
+  "category": "Neurological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/ALS_Lou_Gehrigs_Disease.pdf",
+    "local_pdf": "sources/dbq_pdfs/als-lou-gehrig-s-disease.pdf",
+    "page_count": 12,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-11-08",
+    "version": "v24_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "If \"Yes,\" provide only diagnoses that pertain to ALS:",
+      "If there are additional diagnoses that pertain to amyotrophic lateral sclerosis, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including onset and course) of the Veteran's ALS (brief summary):",
+      "Dominant hand"
+    ],
+    "symptoms_signs_findings": [
+      "Constant inability to communicate by speech",
+      "Requiring daily medication to control dysphagia",
+      "ALS (see Note 1) (If checked indicate if recurrent or refractory)",
+      "Has the esophageal stricture(s) been recurrent or",
+      "Without daily symptoms",
+      "Note 2: Recurrent esophageal stricture is defined as the inability to maintain target esophageal",
+      "Without requirement for daily medications",
+      "Requiring dilatation (if checked indicate frequency and list",
+      "Was there dilatation utilizing steroids at least 1 time",
+      "Substantial weight loss (see Note 4)",
+      "healthy tissues. Signs and symptoms may include: loss of subcutaneous tissue, edema,",
+      "peripheral neuropathy, muscle wasting, weakness, abdominal distention, ascites, and Body",
+      "Note 4: “Substantial weight loss” means involuntary loss greater than 20 percent of an",
+      "individual's baseline weight sustained for three months with diminished quality of self-care or",
+      "work tasks. \"Baseline weight” means the clinically documented average weight for the two-year",
+      "Note: If signs and/or symptoms of sleep apnea or sleep apnea-like condition are due to ALS, these symptoms are due to weakness in the palatal, pharyngeal,",
+      "Persistent daytime hypersomnolence",
+      "Requires use of breathing assistance device",
+      "Chronic respiratory failure with carbon dioxide retention or cor pulmonale",
+      "Note: Complete or partial loss of sphincter control refers to the inability to retain or expel stool at an appropriate time and place.",
+      "If \"Yes,\" indicate severity:",
+      "History of loss of sphincter control, currently asymptomatic",
+      "Complete loss of sphincter control",
+      "Partial loss of sphincter control",
+      "If \"Yes,\" indicate frequency:",
+      "Indicate the bowel program requirements (Check all that apply)",
+      "If checked, provide the date of surgery or anticipated date of surgery:",
+      "Change in stool frequency Change in stool form Altered stool passage (straining and/or urgency) Mucorrhea",
+      "Abdominal bloating Subjective distention Constipation",
+      "Abdominal pain related to defecation (if checked, indicate frequency during the previous 3 months)",
+      "Does not require/does not use absorbent material",
+      "(If checked, is hesitancy marked?)",
+      "Recurrent urinary tract infections secondary to obstruction",
+      "Urinary retention requiring intermittent or continuous catheterization",
+      "Lasting 6 months or longer For less than 6 months",
+      "(If checked, indicate frequency of hospitalization) 1 or 2 per year More than 2 per year",
+      "For all options checked above, list medications/management/treatments used for urinary tract infection and indicate dates for courses of treatment over the past 12",
+      "Note: Female Sexual Arousal Disorder (FSAD) refers to the continual or recurrent physical inability of a woman to accomplish or maintain an ample lubrication-",
+      "swelling reaction during sexual intercourse. Decreased blood flow to the genital area is believed to contribute to FSAD similar to the role of vascular disease in male",
+      "erectile dysfunction. Other causes may include nerve and/or tissue damage.",
+      "If \"Yes,\" also complete the appropriate dermatological questionnaire.",
+      "Comments, if any:",
+      "(If \"Yes,\" identify assistive device(s) used (check all that apply and indicate frequency)):",
+      "Wheelchair Frequency of use: occasional regular constant",
+      "Brace(s) Frequency of use: occasional regular constant",
+      "Crutch(es) Frequency of use: occasional regular constant",
+      "Cane(s) Frequency of use: occasional regular constant",
+      "Walker Frequency of use: occasional regular constant",
+      "Other: Frequency of use: occasional regular constant",
+      "If the Veteran uses any assistive devices, specify the condition and identify the assistive device used for each condition:",
+      "weakness due to ALS.",
+      "Have PFTs been performed?",
+      "If PFTs have been performed, is the flow-volume loop compatible with upper airway obstruction?",
+      "Are there any other significant diagnostic test findings and/or results?",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 16B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 16D. Date Signed:",
+      "Examiner's phone/fax numbers: 16F. National Provider Identifier (NPI) number: 16G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "Constant inability to communicate by speech",
+      "Requiring daily medication to control dysphagia",
+      "ALS (see Note 1) (If checked indicate if recurrent or refractory)",
+      "Has the esophageal stricture(s) been recurrent or",
+      "Without daily symptoms",
+      "Note 2: Recurrent esophageal stricture is defined as the inability to maintain target esophageal",
+      "Without requirement for daily medications",
+      "Requiring dilatation (if checked indicate frequency and list",
+      "If \"Yes,\" indicate frequency:",
+      "Change in stool frequency Change in stool form Altered stool passage (straining and/or urgency) Mucorrhea",
+      "Abdominal pain related to defecation (if checked, indicate frequency during the previous 3 months)",
+      "Recurrent urinary tract infections secondary to obstruction",
+      "Urinary retention requiring intermittent or continuous catheterization",
+      "Lasting 6 months or longer For less than 6 months",
+      "(If checked, indicate frequency of hospitalization) 1 or 2 per year More than 2 per year",
+      "Note: Female Sexual Arousal Disorder (FSAD) refers to the continual or recurrent physical inability of a woman to accomplish or maintain an ample lubrication-",
+      "(If \"Yes,\" describe how often per day or week and under what circumstances the Veteran is able to leave the home or immediate premises):",
+      "hazards and/or dangers incident to his or her daily environment?",
+      "(If \"Yes,\" identify assistive device(s) used (check all that apply and indicate frequency)):",
+      "Wheelchair Frequency of use: occasional regular constant",
+      "Brace(s) Frequency of use: occasional regular constant",
+      "Crutch(es) Frequency of use: occasional regular constant",
+      "Cane(s) Frequency of use: occasional regular constant",
+      "Walker Frequency of use: occasional regular constant",
+      "Other: Frequency of use: occasional regular constant"
+    ],
+    "severity_prompts": [
+      "Constant inability to communicate by speech",
+      "Persistent daytime hypersomnolence",
+      "Chronic respiratory failure with carbon dioxide retention or cor pulmonale",
+      "Note: Complete or partial loss of sphincter control refers to the inability to retain or expel stool at an appropriate time and place.",
+      "If \"Yes,\" indicate severity:",
+      "Complete loss of sphincter control",
+      "(If checked, is hesitancy marked?)",
+      "Urinary retention requiring intermittent or continuous catheterization",
+      "Strength - Rate strength according to the following scale:",
+      "Deep tendon reflexes (DTRs) - Rate reflexes according to the following scale:",
+      "None Mild Moderate Severe Complete (no remaining function) With atrophy",
+      "If \"Yes,\" also complete the appropriate dermatological questionnaire.",
+      "Wheelchair Frequency of use: occasional regular constant",
+      "Brace(s) Frequency of use: occasional regular constant",
+      "Crutch(es) Frequency of use: occasional regular constant",
+      "Cane(s) Frequency of use: occasional regular constant",
+      "Walker Frequency of use: occasional regular constant",
+      "Other: Frequency of use: occasional regular constant",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": []
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "If \"Yes,\" provide only diagnoses that pertain to ALS:",
+        "If there are additional diagnoses that pertain to amyotrophic lateral sclerosis, list using above format:"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including onset and course) of the Veteran's ALS (brief summary):",
+        "Dominant hand"
+      ]
+    },
+    {
+      "title": "SECTION III - CONDITIONS, SIGNS AND SYMPTOMS DUE TO ALS",
+      "items": [
+        "Constant inability to communicate by speech",
+        "Requiring daily medication to control dysphagia",
+        "ALS (see Note 1) (If checked indicate if recurrent or refractory)",
+        "Has the esophageal stricture(s) been recurrent or",
+        "Without daily symptoms",
+        "Note 2: Recurrent esophageal stricture is defined as the inability to maintain target esophageal",
+        "Without requirement for daily medications",
+        "Requiring dilatation (if checked indicate frequency and list",
+        "Was there dilatation utilizing steroids at least 1 time",
+        "Substantial weight loss (see Note 4)",
+        "healthy tissues. Signs and symptoms may include: loss of subcutaneous tissue, edema,",
+        "peripheral neuropathy, muscle wasting, weakness, abdominal distention, ascites, and Body",
+        "Note 4: “Substantial weight loss” means involuntary loss greater than 20 percent of an",
+        "individual's baseline weight sustained for three months with diminished quality of self-care or",
+        "work tasks. \"Baseline weight” means the clinically documented average weight for the two-year",
+        "Note: If signs and/or symptoms of sleep apnea or sleep apnea-like condition are due to ALS, these symptoms are due to weakness in the palatal, pharyngeal,",
+        "Persistent daytime hypersomnolence",
+        "Requires use of breathing assistance device",
+        "Chronic respiratory failure with carbon dioxide retention or cor pulmonale",
+        "Note: Complete or partial loss of sphincter control refers to the inability to retain or expel stool at an appropriate time and place.",
+        "If \"Yes,\" indicate severity:",
+        "History of loss of sphincter control, currently asymptomatic",
+        "Complete loss of sphincter control",
+        "Partial loss of sphincter control",
+        "If \"Yes,\" indicate frequency:",
+        "Indicate the bowel program requirements (Check all that apply)",
+        "If checked, provide the date of surgery or anticipated date of surgery:",
+        "Change in stool frequency Change in stool form Altered stool passage (straining and/or urgency) Mucorrhea",
+        "Abdominal bloating Subjective distention Constipation",
+        "Abdominal pain related to defecation (if checked, indicate frequency during the previous 3 months)",
+        "Does not require/does not use absorbent material",
+        "(If checked, is hesitancy marked?)",
+        "Recurrent urinary tract infections secondary to obstruction",
+        "Urinary retention requiring intermittent or continuous catheterization",
+        "Lasting 6 months or longer For less than 6 months",
+        "(If checked, indicate frequency of hospitalization) 1 or 2 per year More than 2 per year",
+        "For all options checked above, list medications/management/treatments used for urinary tract infection and indicate dates for courses of treatment over the past 12",
+        "Note: Female Sexual Arousal Disorder (FSAD) refers to the continual or recurrent physical inability of a woman to accomplish or maintain an ample lubrication-",
+        "swelling reaction during sexual intercourse. Decreased blood flow to the genital area is believed to contribute to FSAD similar to the role of vascular disease in male",
+        "erectile dysfunction. Other causes may include nerve and/or tissue damage."
+      ]
+    },
+    {
+      "title": "SECTION IV - NEUROLOGIC EXAM",
+      "items": [
+        "Strength - Rate strength according to the following scale:",
+        "Deep tendon reflexes (DTRs) - Rate reflexes according to the following scale:",
+        "(If muscle atrophy is present, indicate location):",
+        "Summary of muscle weakness in the upper and/or lower extremities attributable to ALS (check all that apply):",
+        "Right upper extremity muscle weakness:",
+        "None Mild Moderate Severe Complete (no remaining function) With atrophy",
+        "Left upper extremity muscle weakness:",
+        "Right lower extremity muscle weakness:",
+        "Left lower extremity muscle weakness:",
+        "Note: If the Veteran has more than one medical condition contributing to the muscle weakness, identify the condition(s) and describe each condition's contribution to",
+        "the muscle weakness:"
+      ]
+    },
+    {
+      "title": "SECTION V - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS AND/OR SYMPTOMS",
+      "items": [
+        "If \"Yes,\" also complete the appropriate dermatological questionnaire.",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION VI - MENTAL HEALTH MANIFESTATIONS DUE TO ALS OR ITS TREATMENT",
+      "items": []
+    },
+    {
+      "title": "SECTION VII - HOUSEBOUND",
+      "items": [
+        "(If \"Yes,\" describe how often per day or week and under what circumstances the Veteran is able to leave the home or immediate premises):"
+      ]
+    },
+    {
+      "title": "SECTION VIII - AID AND ATTENDANCE",
+      "items": [
+        "Note: Responses in this section should only relate to impairments or limitations that are due to ALS.",
+        "Note: For VA purposes, \"bedridden\" will be that condition which actually requires that the claimant remain in bed. The fact that claimant has voluntarily taken to bed",
+        "hazards and/or dangers incident to his or her daily environment?",
+        "List any condition(s), in addition to the Veteran's ALS, that causes any of the above limitations:"
+      ]
+    },
+    {
+      "title": "SECTION IX - NEED FOR HIGHER LEVEL (i.e., more skilled) AID & ATTENDANCE (A&A)",
+      "items": [
+        "Note: For VA purposes, this skilled, higher level care includes (but is not limited to) health-care services such as physical therapy, administration of injections,"
+      ]
+    },
+    {
+      "title": "SECTION X - ASSISTIVE DEVICES",
+      "items": [
+        "(If \"Yes,\" identify assistive device(s) used (check all that apply and indicate frequency)):",
+        "Wheelchair Frequency of use: occasional regular constant",
+        "Brace(s) Frequency of use: occasional regular constant",
+        "Crutch(es) Frequency of use: occasional regular constant",
+        "Cane(s) Frequency of use: occasional regular constant",
+        "Walker Frequency of use: occasional regular constant",
+        "Other: Frequency of use: occasional regular constant",
+        "If the Veteran uses any assistive devices, specify the condition and identify the assistive device used for each condition:"
+      ]
+    },
+    {
+      "title": "SECTION XI - REMAINING EFFECTIVE FUNCTION OF THE EXTREMITIES",
+      "items": [
+        "Note: The intention of this section is to permit the examiner to quantify the level of remaining function; it is not intended to inquire whether the Veteran should undergo",
+        "an amputation with fitting of a prosthesis. For example, if the functions of grasping (hand) or propulsion (foot) are as limited as if the Veteran had an amputation and",
+        "prosthesis, the examiner should check \"yes\" and describe the diminished functioning. The question simply asks whether the functional loss is to the same degree as",
+        "if there were an amputation of the affected limb.",
+        "Due to the ALS condition, is there functional impairment of an extremity such that no effective function remains other than that which would be equally well",
+        "If \"Yes,\" indicate extremity(ies) (Check all extremities for which this applies)",
+        "(For each checked extremity, describe loss of effective function, identify the condition causing loss of function, and provide specific examples) (brief summary):"
+      ]
+    },
+    {
+      "title": "SECTION XII - FINANCIAL RESPONSIBILITY",
+      "items": []
+    },
+    {
+      "title": "SECTION XIII - DIAGNOSTIC TESTING",
+      "items": [
+        "weakness due to ALS.",
+        "Have PFTs been performed?",
+        "If PFTs have been performed, is the flow-volume loop compatible with upper airway obstruction?",
+        "Are there any other significant diagnostic test findings and/or results?"
+      ]
+    },
+    {
+      "title": "SECTION XIV - FUNCTIONAL IMPACT",
+      "items": []
+    },
+    {
+      "title": "SECTION XV - REMARKS",
+      "items": [
+        "Remarks (if any - please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION XVI - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 16B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 16D. Date Signed:",
+        "Examiner's phone/fax numbers: 16F. National Provider Identifier (NPI) number: 16G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "neurological",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or most days",
+      "duration": "hours at a time, with worse episodes lasting the rest of the day",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "fatigue, heat, stress, activity, poor sleep, or overexertion",
+      "limitation": "walking, transfers, gripping, speaking, swallowing, breathing endurance, self-care, and work ability",
+      "treatment": "neurology care, medication, therapy, assistive devices, respiratory support if prescribed, and caregiver support",
+      "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "ALS (Lou Gehrig's Disease)",
+      "workImpact": "Progressive weakness and fatigue make regular work unsafe or impossible when tasks require mobility, communication, or sustained effort.",
+      "dailyImpact": "Transfers, bathing, dressing, eating, mobility, and communication may require equipment or help.",
+      "mainSymptoms": "progressive weakness, muscle cramping, swallowing or speech changes, breathing issues, fatigue, and loss of function if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current neurological diagnosis/residuals, onset, course, testing, treatment, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; neurology care, medications, therapy, assistive devices, testing, and specialist follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "fatigue, heat, stress, activity, poor sleep, or overexertion",
+          "limitation": "walking, transfers, gripping, speaking, swallowing, breathing endurance, self-care, and work ability",
+          "treatment": "neurology care, medication, therapy, assistive devices, respiratory support if prescribed, and caregiver support",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "ALS (Lou Gehrig's Disease)",
+          "workImpact": "Progressive weakness and fatigue make regular work unsafe or impossible when tasks require mobility, communication, or sustained effort.",
+          "dailyImpact": "Transfers, bathing, dressing, eating, mobility, and communication may require equipment or help.",
+          "mainSymptoms": "progressive weakness, muscle cramping, swallowing or speech changes, breathing issues, fatigue, and loss of function if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "fatigue, heat, stress, activity, poor sleep, or overexertion",
+          "limitation": "walking, transfers, gripping, speaking, swallowing, breathing endurance, self-care, and work ability",
+          "treatment": "neurology care, medication, therapy, assistive devices, respiratory support if prescribed, and caregiver support",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "ALS (Lou Gehrig's Disease)",
+          "workImpact": "Progressive weakness and fatigue make regular work unsafe or impossible when tasks require mobility, communication, or sustained effort.",
+          "dailyImpact": "Transfers, bathing, dressing, eating, mobility, and communication may require equipment or help.",
+          "mainSymptoms": "progressive weakness, muscle cramping, swallowing or speech changes, breathing issues, fatigue, and loss of function if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "fatigue, heat, stress, activity, poor sleep, or overexertion",
+          "limitation": "walking, transfers, gripping, speaking, swallowing, breathing endurance, self-care, and work ability",
+          "treatment": "neurology care, medication, therapy, assistive devices, respiratory support if prescribed, and caregiver support",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "ALS (Lou Gehrig's Disease)",
+          "workImpact": "Progressive weakness and fatigue make regular work unsafe or impossible when tasks require mobility, communication, or sustained effort.",
+          "dailyImpact": "Transfers, bathing, dressing, eating, mobility, and communication may require equipment or help.",
+          "mainSymptoms": "progressive weakness, muscle cramping, swallowing or speech changes, breathing issues, fatigue, and loss of function if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: when symptoms build, I slow down, make more mistakes, avoid unsafe tasks, and need breaks or support with {{limitation}}."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

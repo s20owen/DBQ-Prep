@@ -1,0 +1,589 @@
+{
+  "id": "foot-conditions-including-flatfoot-pes-planus",
+  "document_type": "Public VA DBQ",
+  "title": "Foot Conditions Including Flatfoot (Pes Planus)",
+  "category": "Musculoskeletal",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Foot_Conditions_Including_Flatfoot_Pes_Planus.pdf",
+    "local_pdf": "sources/dbq_pdfs/foot-conditions-including-flatfoot-pes-planus.pdf",
+    "page_count": 16,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-09-03",
+    "version": "v24_2"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+      "If there are additional diagnoses that pertain to foot conditions, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including onset and course) of the Veteran's foot condition (brief summary):",
+      "If so, ask the Veteran to describe the flare-ups he or she experiences, including the frequency, duration, characteristics, precipitating and alleviating",
+      "factors, severity and/or extent of functional impairment he or she experiences during a flare-up of symptoms.",
+      "limited to repeated use over time?"
+    ],
+    "symptoms_signs_findings": [
+      "Comments, if any:",
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace Frequency of use: Occasional Regular Constant",
+      "Crutches Frequency of use: Occasional Regular Constant",
+      "Cane Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Other: Frequency of use: Occasional Regular Constant",
+      "If the Veteran uses any assistive devices, specify the condition, indicate the side, and identify the assistive device used for each condition:",
+      "Note: Testing listed below is not indicated for every condition. Plain or weight-bearing foot x-rays are not required to make the diagnosis of flatfoot. The diagnosis of",
+      "Have imaging studies been performed in conjunction with this examination?",
+      "Are there any other significant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in conjunction with",
+      "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 21B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 21D. Date Signed:",
+      "Examiner's phone/fax numbers: 21F. National Provider Identifier (NPI) number: 21G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "If so, ask the Veteran to describe the flare-ups he or she experiences, including the frequency, duration, characteristics, precipitating and alleviating",
+      "factors, severity and/or extent of functional impairment he or she experiences during a flare-up of symptoms.",
+      "functional ability during flare-ups and/or after repeated use over time?",
+      "Is there any other functional loss during flare-ups and/or after repeated use over time?",
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace Frequency of use: Occasional Regular Constant",
+      "Crutches Frequency of use: Occasional Regular Constant",
+      "Cane Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Other: Frequency of use: Occasional Regular Constant"
+    ],
+    "severity_prompts": [
+      "Note: If any condition is checked below, complete all of Section 1, Section 2, and also the applicable Section(s) 3 through 11 with which the condition is most",
+      "factors, severity and/or extent of functional impairment he or she experiences during a flare-up of symptoms.",
+      "Effecting Complete Relief of Symptoms",
+      "Is there objective evidence of marked deformity of one or both feet (pronation, abduction, etc.)?",
+      "Is there marked pronation of one foot or both feet?",
+      "Is the marked inward displacement and severe spasm of the Achilles' tendon improved by orthopedic shoes or appliances?",
+      "Mild or moderate symptoms",
+      "Severe symptoms, with function equivalent to amputation of great toe",
+      "Marked tenderness under metatarsal heads Right Left Both",
+      "Marked contraction of plantar fascia with dropped forefoot Right Left Both",
+      "Marked varus deformity Right Left Both",
+      "Indicate severity and side affected for malunion or nonunion of tarsal or metatarsal bones:",
+      "Moderate Right Left Both",
+      "Moderately severe Right Left Both",
+      "Severe Right Left Both",
+      "Note: Complete this section if the Veteran has any foot injuries or other foot conditions listed in Section 1B not already described above in Sections 3 through 10.",
+      "Indicate severity and side affected.",
+      "Mild Right Left Both",
+      "Note: Complete this section if the Veteran has had any surgical procedures for the claimed condition that have not already been described.",
+      "or impairment (regardless of repetitive use) or to additional limitation of range of motion (ROM) after repetitive use for the joint or extremity being evaluated on this",
+      "motion measurements in degrees do not need to be documented.",
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace Frequency of use: Occasional Regular Constant",
+      "Crutches Frequency of use: Occasional Regular Constant",
+      "Cane Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Other: Frequency of use: Occasional Regular Constant",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [
+      "If so, ask the Veteran to describe the flare-ups he or she experiences, including the frequency, duration, characteristics, precipitating and alleviating",
+      "factors, severity and/or extent of functional impairment he or she experiences during a flare-up of symptoms.",
+      "functional ability during flare-ups and/or after repeated use over time?",
+      "Is there any other functional loss during flare-ups and/or after repeated use over time?"
+    ],
+    "functional_impact_prompts": [
+      "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+      "Regardless of the Veteran's current employment status, do the condition(s) listed in the diagnosis section impact his or her ability to perform any type of",
+      "occupational task (such as standing, walking, lifting, sitting, etc.)?"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "Note: These are condition(s) for which an evaluation has been requested on an exam request form (Internal VA) or for which the Veteran has requested medical",
+        "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+        "reported history.",
+        "Note: If any condition is checked below, complete all of Section 1, Section 2, and also the applicable Section(s) 3 through 11 with which the condition is most",
+        "If there are additional diagnoses that pertain to foot conditions, list using above format:"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including onset and course) of the Veteran's foot condition (brief summary):",
+        "If so, ask the Veteran to describe the flare-ups he or she experiences, including the frequency, duration, characteristics, precipitating and alleviating",
+        "factors, severity and/or extent of functional impairment he or she experiences during a flare-up of symptoms.",
+        "limited to repeated use over time?"
+      ]
+    },
+    {
+      "title": "SECTION III - FLATFOOT (PES PLANUS)",
+      "items": [
+        "Note: Indicate all signs and symptoms that apply to the Veteran's flatfoot (pes planus) condition, regardless of whether similar signs and symptoms appear more than",
+        "Is there indication of swelling on use?",
+        "Effects of use of arch supports or built-up shoes",
+        "Effecting Complete Relief of Symptoms",
+        "Device Side Relieved Device Side Not Relieved",
+        "Is the tenderness improved by orthopedic shoes or appliances?",
+        "Is there objective evidence of marked deformity of one or both feet (pronation, abduction, etc.)?",
+        "Is there marked pronation of one foot or both feet?",
+        "Is the condition improved by orthopedic shoes or appliances?",
+        "For one or both feet, is the weight-bearing line over or medial to the great toe?",
+        "Is there a lower extremity deformity other than pes planus, causing alteration of the weight-bearing line?",
+        "Describe lower extremity deformity other than pes planus causing alteration of the weight-bearing line:",
+        "Is the marked inward displacement and severe spasm of the Achilles' tendon improved by orthopedic shoes or appliances?",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION IV - PLANTAR FASCIITIS",
+      "items": [
+        "Has the Veteran undergone non-surgical treatment for plantar fasciitis?",
+        "Has the Veteran undergone surgical treatment for plantar fasciitis?",
+        "Describe the functional loss of the foot/feet due to plantar fasciitis:",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION V - MORTON'S NEUROMA (MORTON'S DISEASE) AND METATARSALGIA",
+      "items": [
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION VI - HAMMER TOE",
+      "items": [
+        "If the Veteran has hammer toes, which toes are affected?",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION VII - HALLUX VALGUS",
+      "items": [
+        "Mild or moderate symptoms",
+        "Severe symptoms, with function equivalent to amputation of great toe",
+        "Has the Veteran had surgery for hallux valgus?",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION VIII - HALLUX RIGIDUS",
+      "items": [
+        "Mild or moderate symptoms",
+        "Severe symptoms, with function equivalent to amputation of great toe",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION IX - ACQUIRED PES CAVUS (CLAW FOOT)",
+      "items": [
+        "Effect on toes due to pes cavus (check all that apply):",
+        "Pain and tenderness due to pes cavus (check all that apply):",
+        "Definite tenderness under metatarsal heads Right Left Both",
+        "Marked tenderness under metatarsal heads Right Left Both",
+        "Other, describe (if the Veteran has pain and tenderness due to etiology other than pes cavus, indicate other etiology):",
+        "Effect on plantar fascia due to pes cavus (check all that apply):",
+        "Marked contraction of plantar fascia with dropped forefoot Right Left Both",
+        "Dorsiflexion and varus deformity due to pes cavus (check all that apply):",
+        "Some limitation of dorsiflexion at ankle Right Left Both",
+        "Limitation of dorsiflexion at ankle to right angle Right Left Both",
+        "Marked varus deformity Right Left Both",
+        "Other, describe (if the Veteran has dorsiflexion and varus deformity due to etiology other than pes cavus, indicate other etiology):",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION X - MALUNION OR NONUNION OF TARSAL OR METATARSAL BONES",
+      "items": [
+        "Indicate severity and side affected for malunion or nonunion of tarsal or metatarsal bones:",
+        "Moderate Right Left Both",
+        "Moderately severe Right Left Both",
+        "Severe Right Left Both",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION XI - FOOT INJURIES AND OTHER CONDITIONS",
+      "items": [
+        "Note: Complete this section if the Veteran has any foot injuries or other foot conditions listed in Section 1B not already described above in Sections 3 through 10.",
+        "Note: For VA purposes \"bilateral weak foot\" describes a symptomatic condition secondary to many constitutional conditions, and is characterized by atrophy of the",
+        "musculature, disturbed circulation and weakness.",
+        "Indicate severity and side affected.",
+        "Mild Right Left Both",
+        "Moderate Right Left Both",
+        "Moderately severe Right Left Both",
+        "Severe Right Left Both",
+        "Does the foot condition chronically compromise weight-bearing?",
+        "Does the foot condition require arch supports, custom orthotic inserts or shoe modifications?",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION XII - SURGICAL PROCEDURES",
+      "items": [
+        "Note: Complete this section if the Veteran has had any surgical procedures for the claimed condition that have not already been described.",
+        "Has the Veteran had foot surgery (arthroscopic or open)?"
+      ]
+    },
+    {
+      "title": "SECTION XIII - PAIN",
+      "items": [
+        "does the pain contribute to functional",
+        "loss or additional limitations), explain why:",
+        "describe these limitations in"
+      ]
+    },
+    {
+      "title": "SECTION XIV - FUNCTIONAL LOSS",
+      "items": [
+        "Note: VA defines functional loss as the inability, due to damage or infection in parts of the system, to perform normal working movements of the body with normal",
+        "treatment records when applicable and lay evidence), the examiner's medical expertise, and physical exam, select the factors below that contribute to functional loss",
+        "or impairment (regardless of repetitive use) or to additional limitation of range of motion (ROM) after repetitive use for the joint or extremity being evaluated on this",
+        "Contributing factors of disability (check all that apply and indicate side affected):",
+        "No functional loss for left lower extremity attributable to claimed condition",
+        "No functional loss for right lower extremity attributable to claimed condition",
+        "Swelling Right Left Both",
+        "Deformity Right Left Both",
+        "Atrophy of disuse Right Left Both",
+        "Instability of station Right Left Both",
+        "Interference with sitting Right Left Both",
+        "Interference with standing Right Left Both",
+        "Pain Right Left Both",
+        "Fatigue Right Left Both",
+        "Weakness Right Left Both",
+        "Does procured evidence (statements from the Veteran) suggest pain, fatigability, weakness, lack of endurance, or incoordination which significantly limits",
+        "functional ability during flare-ups and/or after repeated use over time?",
+        "Is there any other functional loss during flare-ups and/or after repeated use over time?",
+        "Note: For any joint condition, unless medically contraindicated, the examiner should address pain on both passive and active motion, and on both weight-bearing and",
+        "motion measurements in degrees do not need to be documented.",
+        "Is there evidence of pain on any of the following? (check all that apply)",
+        "If unable to assess, a rationale is required (e.g., the foot is in a cast; the contralateral unclaimed foot is damaged; etc.):"
+      ]
+    },
+    {
+      "title": "SECTION XV - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS AND SCARS",
+      "items": []
+    },
+    {
+      "title": "SECTION XVI - ASSISTIVE DEVICES",
+      "items": [
+        "Wheelchair Frequency of use: Occasional Regular Constant",
+        "Brace Frequency of use: Occasional Regular Constant",
+        "Crutches Frequency of use: Occasional Regular Constant",
+        "Cane Frequency of use: Occasional Regular Constant",
+        "Walker Frequency of use: Occasional Regular Constant",
+        "Other: Frequency of use: Occasional Regular Constant",
+        "If the Veteran uses any assistive devices, specify the condition, indicate the side, and identify the assistive device used for each condition:"
+      ]
+    },
+    {
+      "title": "SECTION XVII - REMAINING EFFECTIVE FUNCTION OF THE EXTREMITIES",
+      "items": [
+        "Note: The intention of this section is to permit the examiner to quantify the level of remaining function; it is not intended to inquire whether the Veteran should undergo",
+        "an amputation with fitting of a prosthesis. For example, if the functions of grasping (hand) or propulsion (foot) are as limited as if the Veteran had an amputation and",
+        "prosthesis, the examiner should check \"yes\" and describe the diminished functioning. The question simply asks whether the functional loss is to the same degree as",
+        "if there were an amputation of the affected limb.",
+        "Due to the Veteran's foot condition(s), is there functional impairment of an extremity such that no effective functions remain other than that which would be",
+        "For each checked extremity, identify the condition causing loss of function, describe loss of effective function and provide specific examples (brief"
+      ]
+    },
+    {
+      "title": "SECTION XVIII - DIAGNOSTIC TESTING",
+      "items": [
+        "Note: Testing listed below is not indicated for every condition. Plain or weight-bearing foot x-rays are not required to make the diagnosis of flatfoot. The diagnosis of",
+        "Have imaging studies been performed in conjunction with this examination?",
+        "Are there any other significant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in conjunction with",
+        "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:"
+      ]
+    },
+    {
+      "title": "SECTION XIX - FUNCTIONAL IMPACT",
+      "items": [
+        "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+        "Regardless of the Veteran's current employment status, do the condition(s) listed in the diagnosis section impact his or her ability to perform any type of",
+        "occupational task (such as standing, walking, lifting, sitting, etc.)?"
+      ]
+    },
+    {
+      "title": "SECTION XX - REMARKS",
+      "items": [
+        "Remarks (if any - please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION XXI - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 21B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 21D. Date Signed:",
+        "Examiner's phone/fax numbers: 21F. National Provider Identifier (NPI) number: 21G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "musculoskeletal",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily with a constant baseline and worse periods",
+      "duration": "constant baseline pain with flares lasting hours to days",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "standing, walking, stairs, uneven ground, hard floors, footwear, and repeated use",
+      "limitation": "standing tolerance, walking distance, stairs, shopping, work shifts, exercise, and chores",
+      "treatment": "orthotics/inserts, supportive shoes, medication, stretching, ice/heat, podiatry care, and rest",
+      "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Foot Conditions Including Flatfoot (Pes Planus)",
+      "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+      "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+      "mainSymptoms": "foot pain, arch or heel pain, swelling, calluses, tenderness, weakness, altered gait, and fatigue with walking",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current diagnosis, onset, course, affected joint/body part, treatment history, and whether symptoms are still present; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; medications, physical therapy, braces/supports, imaging, injections/surgery if true, and activity restrictions",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily with a constant baseline and worse periods",
+          "duration": "constant baseline pain with flares lasting hours to days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "standing, walking, stairs, uneven ground, hard floors, footwear, and repeated use",
+          "limitation": "standing tolerance, walking distance, stairs, shopping, work shifts, exercise, and chores",
+          "treatment": "orthotics/inserts, supportive shoes, medication, stretching, ice/heat, podiatry care, and rest",
+          "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Foot Conditions Including Flatfoot (Pes Planus)",
+          "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+          "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+          "mainSymptoms": "foot pain, arch or heel pain, swelling, calluses, tenderness, weakness, altered gait, and fatigue with walking",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "painful motion, weakness, fatigability, lack of endurance, instability, repeated use over time, flare-ups, and additional functional loss",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, my pain is present daily, gets worse after about {{limitBeforeStopping}} of use, and is aggravated by {{triggers}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily with a constant baseline and worse periods",
+          "duration": "constant baseline pain with flares lasting hours to days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "standing, walking, stairs, uneven ground, hard floors, footwear, and repeated use",
+          "limitation": "standing tolerance, walking distance, stairs, shopping, work shifts, exercise, and chores",
+          "treatment": "orthotics/inserts, supportive shoes, medication, stretching, ice/heat, podiatry care, and rest",
+          "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Foot Conditions Including Flatfoot (Pes Planus)",
+          "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+          "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+          "mainSymptoms": "foot pain, arch or heel pain, swelling, calluses, tenderness, weakness, altered gait, and fatigue with walking",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, my pain is present daily, gets worse after about {{limitBeforeStopping}} of use, and is aggravated by {{triggers}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Pain scale: best day {{bestPain}}, worst day {{worstPain}}",
+          "Motion/use: pain with bending, lifting, stairs, squatting, gripping, reaching, or walking if true",
+          "Repeated use: worse after {{limitBeforeStopping}} of activity",
+          "Signs to mention: swelling, locking, instability, weakness, stiffness, spasms, numbness, or altered gait if true"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "painful motion, weakness, fatigability, lack of endurance, instability, repeated use over time, flare-ups, and additional functional loss",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, pain reaches {{worstPain}}, motion and strength drop, I avoid {{limitation}}, and I use {{flareCare}} until it settles.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily with a constant baseline and worse periods",
+          "duration": "constant baseline pain with flares lasting hours to days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "standing, walking, stairs, uneven ground, hard floors, footwear, and repeated use",
+          "limitation": "standing tolerance, walking distance, stairs, shopping, work shifts, exercise, and chores",
+          "treatment": "orthotics/inserts, supportive shoes, medication, stretching, ice/heat, podiatry care, and rest",
+          "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Foot Conditions Including Flatfoot (Pes Planus)",
+          "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+          "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+          "mainSymptoms": "foot pain, arch or heel pain, swelling, calluses, tenderness, weakness, altered gait, and fatigue with walking",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: after about {{limitBeforeStopping}} of {{limitation}}, pain and stiffness build and I need to sit, stand, stretch, brace, ice/heat, or stop the task."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, pain reaches {{worstPain}}, motion and strength drop, I avoid {{limitation}}, and I use {{flareCare}} until it settles."
+          }
+        ],
+        "bullet_templates": [
+          "Work tasks: lifting, carrying, standing, walking, typing/tools, kneeling, stairs, or overhead work",
+          "Daily tasks: dressing, bathing, cooking, cleaning, shopping, driving, yard work, or sleep position",
+          "Limits: can stand/walk/sit/use joint about {{limitBeforeStopping}} before stopping",
+          "Flare care: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

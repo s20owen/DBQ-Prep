@@ -1,0 +1,724 @@
+{
+  "source_inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+  "verified_on": "2026-07-20",
+  "public_documents_count": 70,
+  "public_dbq_count_excluding_guidance": 69,
+  "documents": [
+    {
+      "id": "separation-health-assessment-dbq-part-a",
+      "document_type": "Public VA DBQ",
+      "title": "Separation Health Assessment DBQ - Part A",
+      "category": "General",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/SHA_DBQ_Part_A_Self-Assessment.pdf",
+      "json_file": "data/dbq_json/separation-health-assessment-dbq-part-a.json"
+    },
+    {
+      "id": "guidance-for-separation-health-assessment-dbq-part-a",
+      "document_type": "DBQ guidance",
+      "title": "Guidance for Separation Health Assessment DBQ - Part A",
+      "category": "General",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/SHA_DBQ_Part_A_Guidance.pdf",
+      "json_file": "data/dbq_json/guidance-for-separation-health-assessment-dbq-part-a.json"
+    },
+    {
+      "id": "artery-and-vein-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Artery and Vein Conditions",
+      "category": "Cardiovascular",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Artery_and_Vein.pdf",
+      "json_file": "data/dbq_json/artery-and-vein-conditions.json"
+    },
+    {
+      "id": "heart-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Heart Conditions",
+      "category": "Cardiovascular",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Heart.pdf",
+      "json_file": "data/dbq_json/heart-conditions.json"
+    },
+    {
+      "id": "hypertension",
+      "document_type": "Public VA DBQ",
+      "title": "Hypertension",
+      "category": "Cardiovascular",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/hypertension.pdf",
+      "json_file": "data/dbq_json/hypertension.json"
+    },
+    {
+      "id": "oral-and-dental",
+      "document_type": "Public VA DBQ",
+      "title": "Oral and Dental",
+      "category": "Dental & Oral",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/oral-and-dental.pdf",
+      "json_file": "data/dbq_json/oral-and-dental.json"
+    },
+    {
+      "id": "scars",
+      "document_type": "Public VA DBQ",
+      "title": "Scars",
+      "category": "Dermatological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/scars.pdf",
+      "json_file": "data/dbq_json/scars.json"
+    },
+    {
+      "id": "skin-diseases",
+      "document_type": "Public VA DBQ",
+      "title": "Skin Diseases",
+      "category": "Dermatological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Skin_Diseases.pdf",
+      "json_file": "data/dbq_json/skin-diseases.json"
+    },
+    {
+      "id": "diabetes-mellitus",
+      "document_type": "Public VA DBQ",
+      "title": "Diabetes Mellitus",
+      "category": "Endocrinological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Diabetes_Mellitus.pdf",
+      "json_file": "data/dbq_json/diabetes-mellitus.json"
+    },
+    {
+      "id": "endocrine-other-than-thyroid-parathyroid-or-diabetes-mellitus",
+      "document_type": "Public VA DBQ",
+      "title": "Endocrine (Other than Thyroid, Parathyroid or Diabetes Mellitus)",
+      "category": "Endocrinological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Endocrine_Other_than_Thyroid_Parathyroid_and_Diabetes_Mellitus.pdf",
+      "json_file": "data/dbq_json/endocrine-other-than-thyroid-parathyroid-or-diabetes-mellitus.json"
+    },
+    {
+      "id": "thyroid-and-parathyroid",
+      "document_type": "Public VA DBQ",
+      "title": "Thyroid and Parathyroid",
+      "category": "Endocrinological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Thyroid_and_Parathyroid.pdf",
+      "json_file": "data/dbq_json/thyroid-and-parathyroid.json"
+    },
+    {
+      "id": "ear-including-vestibular-and-infectious",
+      "document_type": "Public VA DBQ",
+      "title": "Ear (including Vestibular and Infectious)",
+      "category": "Ear, Nose, Throat",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Ear_Including_Vestibular_and_Infectious.pdf",
+      "json_file": "data/dbq_json/ear-including-vestibular-and-infectious.json"
+    },
+    {
+      "id": "loss-of-sense-of-smell-and-or-taste",
+      "document_type": "Public VA DBQ",
+      "title": "Loss of Sense of Smell and or Taste",
+      "category": "Ear, Nose, Throat",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Loss_of_Sense_of_Smell_and_or_Taste.pdf",
+      "json_file": "data/dbq_json/loss-of-sense-of-smell-and-or-taste.json"
+    },
+    {
+      "id": "sinusitis-rhinitis-and-other-conditions-of-the-nose-throat-larynx-and-pharynx",
+      "document_type": "Public VA DBQ",
+      "title": "Sinusitis, Rhinitis and Other Conditions of the Nose, Throat, Larynx and Pharynx",
+      "category": "Ear, Nose, Throat",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Sinusitis_Rhinitis_and_Other_Conditions_of_the_Nose_Throat_Larynx_and_Pharynx.pdf",
+      "json_file": "data/dbq_json/sinusitis-rhinitis-and-other-conditions-of-the-nose-throat-larynx-and-pharynx.json"
+    },
+    {
+      "id": "esophageal-disorders",
+      "document_type": "Public VA DBQ",
+      "title": "Esophageal Disorders",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/esophageal-disorders.pdf",
+      "json_file": "data/dbq_json/esophageal-disorders.json"
+    },
+    {
+      "id": "gallbladder",
+      "document_type": "Public VA DBQ",
+      "title": "Gallbladder",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/gallbladder.pdf",
+      "json_file": "data/dbq_json/gallbladder.json"
+    },
+    {
+      "id": "hernias-including-abdominal-inguinal-and-femoral-hernias",
+      "document_type": "Public VA DBQ",
+      "title": "Hernias (Including Abdominal, Inguinal and Femoral Hernias)",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/hernias-including-abdominal-inguinal-and-femoral-hernias.pdf",
+      "json_file": "data/dbq_json/hernias-including-abdominal-inguinal-and-femoral-hernias.json"
+    },
+    {
+      "id": "intestinal-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Intestinal Conditions",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/intestines.pdf",
+      "json_file": "data/dbq_json/intestinal-conditions.json"
+    },
+    {
+      "id": "liver-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Liver Conditions",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/liver-conditions.pdf",
+      "json_file": "data/dbq_json/liver-conditions.json"
+    },
+    {
+      "id": "pancreas",
+      "document_type": "Public VA DBQ",
+      "title": "Pancreas",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/pancreas.pdf",
+      "json_file": "data/dbq_json/pancreas.json"
+    },
+    {
+      "id": "peritoneal-adhesions",
+      "document_type": "Public VA DBQ",
+      "title": "Peritoneal Adhesions",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/peritoneal-adhesions.pdf",
+      "json_file": "data/dbq_json/peritoneal-adhesions.json"
+    },
+    {
+      "id": "rectum-anus",
+      "document_type": "Public VA DBQ",
+      "title": "Rectum & Anus",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/rectum-and-anus.pdf",
+      "json_file": "data/dbq_json/rectum-anus.json"
+    },
+    {
+      "id": "stomach-and-duodenum",
+      "document_type": "Public VA DBQ",
+      "title": "Stomach and Duodenum",
+      "category": "Gastrointestinal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/stomach-and-duodenum.pdf",
+      "json_file": "data/dbq_json/stomach-and-duodenum.json"
+    },
+    {
+      "id": "kidney-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Kidney Conditions",
+      "category": "Genitourinary",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/kidney.pdf",
+      "json_file": "data/dbq_json/kidney-conditions.json"
+    },
+    {
+      "id": "male-reproductive-organ-conditions-including-prostate-cancer",
+      "document_type": "Public VA DBQ",
+      "title": "Male Reproductive Organ Conditions (Including Prostate Cancer)",
+      "category": "Genitourinary",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Male_Reproductive_Organ.pdf",
+      "json_file": "data/dbq_json/male-reproductive-organ-conditions-including-prostate-cancer.json"
+    },
+    {
+      "id": "urinary-tract-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Urinary Tract Conditions",
+      "category": "Genitourinary",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Urinary_Tract_Conditions.pdf",
+      "json_file": "data/dbq_json/urinary-tract-conditions.json"
+    },
+    {
+      "id": "breast",
+      "document_type": "Public VA DBQ",
+      "title": "Breast",
+      "category": "Gynecological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Breast_Conditions.pdf",
+      "json_file": "data/dbq_json/breast.json"
+    },
+    {
+      "id": "gynecological-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Gynecological Conditions",
+      "category": "Gynecological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Gynecological_Conditions.pdf",
+      "json_file": "data/dbq_json/gynecological-conditions.json"
+    },
+    {
+      "id": "hematologic-and-lymphatic-conditions-including-leukemia",
+      "document_type": "Public VA DBQ",
+      "title": "Hematologic and Lymphatic Conditions, Including Leukemia",
+      "category": "Hematologic & Lymphatic",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Hematologic_and_Lymphatic_Conditions_Including_Leukemia.pdf",
+      "json_file": "data/dbq_json/hematologic-and-lymphatic-conditions-including-leukemia.json"
+    },
+    {
+      "id": "hiv-related-illnesses",
+      "document_type": "Public VA DBQ",
+      "title": "HIV-Related Illnesses",
+      "category": "Infectious Diseases",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/HIV_Related_Illnesses.pdf",
+      "json_file": "data/dbq_json/hiv-related-illnesses.json"
+    },
+    {
+      "id": "infectious-diseases-other-than-hiv-related-illness-chronic-fatigue-syndrome-and-tuberculosis",
+      "document_type": "Public VA DBQ",
+      "title": "Infectious Diseases (other than HIV-related illness chronic fatigue syndrome and tuberculosis)",
+      "category": "Infectious Diseases",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Infectious_Diseases_Other_than_HIV_Related_Illness_Chronic_Fatigue_Syndrome_and_Tuberculosis.pdf",
+      "json_file": "data/dbq_json/infectious-diseases-other-than-hiv-related-illness-chronic-fatigue-syndrome-and-tuberculosis.json"
+    },
+    {
+      "id": "persian-gulf-afghanistan-infectious-diseases",
+      "document_type": "Public VA DBQ",
+      "title": "Persian Gulf/Afghanistan Infectious Diseases",
+      "category": "Infectious Diseases",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Persian_Gulf_Afghanistan_Infectious_Diseases.pdf",
+      "json_file": "data/dbq_json/persian-gulf-afghanistan-infectious-diseases.json"
+    },
+    {
+      "id": "tuberculosis",
+      "document_type": "Public VA DBQ",
+      "title": "Tuberculosis",
+      "category": "Infectious Diseases",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Tuberculosis.pdf",
+      "json_file": "data/dbq_json/tuberculosis.json"
+    },
+    {
+      "id": "amputations",
+      "document_type": "Public VA DBQ",
+      "title": "Amputations",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/amputations.pdf",
+      "json_file": "data/dbq_json/amputations.json"
+    },
+    {
+      "id": "ankle",
+      "document_type": "Public VA DBQ",
+      "title": "Ankle",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/ankle.pdf",
+      "json_file": "data/dbq_json/ankle.json"
+    },
+    {
+      "id": "back-thoracolumbar-spine",
+      "document_type": "Public VA DBQ",
+      "title": "Back (Thoracolumbar Spine)",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Back_Thoracolumbar_Spine.pdf",
+      "json_file": "data/dbq_json/back-thoracolumbar-spine.json"
+    },
+    {
+      "id": "bones-and-other-skeletal-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Bones and Other Skeletal Conditions",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Bones_and_Other_Skeletal_Conditions.pdf",
+      "json_file": "data/dbq_json/bones-and-other-skeletal-conditions.json"
+    },
+    {
+      "id": "elbow-forearm",
+      "document_type": "Public VA DBQ",
+      "title": "Elbow & Forearm",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Elbow_and_Forearm.pdf",
+      "json_file": "data/dbq_json/elbow-forearm.json"
+    },
+    {
+      "id": "foot-conditions-including-flatfoot-pes-planus",
+      "document_type": "Public VA DBQ",
+      "title": "Foot Conditions Including Flatfoot (Pes Planus)",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Foot_Conditions_Including_Flatfoot_Pes_Planus.pdf",
+      "json_file": "data/dbq_json/foot-conditions-including-flatfoot-pes-planus.json"
+    },
+    {
+      "id": "hand-and-finger",
+      "document_type": "Public VA DBQ",
+      "title": "Hand and Finger",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Hand_and_Finger.pdf",
+      "json_file": "data/dbq_json/hand-and-finger.json"
+    },
+    {
+      "id": "hip-and-thigh",
+      "document_type": "Public VA DBQ",
+      "title": "Hip and Thigh",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Hip_and_Thigh.pdf",
+      "json_file": "data/dbq_json/hip-and-thigh.json"
+    },
+    {
+      "id": "knee-and-lower-leg",
+      "document_type": "Public VA DBQ",
+      "title": "Knee and Lower Leg",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Knee_and_Lower_Leg.pdf",
+      "json_file": "data/dbq_json/knee-and-lower-leg.json"
+    },
+    {
+      "id": "muscle-injuries",
+      "document_type": "Public VA DBQ",
+      "title": "Muscle Injuries",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Muscle_Injuries.pdf",
+      "json_file": "data/dbq_json/muscle-injuries.json"
+    },
+    {
+      "id": "neck-cervical-spine",
+      "document_type": "Public VA DBQ",
+      "title": "Neck (Cervical Spine)",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Neck_Conditions_Cervical_Spine.pdf",
+      "json_file": "data/dbq_json/neck-cervical-spine.json"
+    },
+    {
+      "id": "osteomyelitis",
+      "document_type": "Public VA DBQ",
+      "title": "Osteomyelitis",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Osteomyelitis.pdf",
+      "json_file": "data/dbq_json/osteomyelitis.json"
+    },
+    {
+      "id": "shoulder-and-or-arm",
+      "document_type": "Public VA DBQ",
+      "title": "Shoulder and/or Arm",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Shoulder_and_or_Arm.pdf",
+      "json_file": "data/dbq_json/shoulder-and-or-arm.json"
+    },
+    {
+      "id": "temporomandibular-disorders",
+      "document_type": "Public VA DBQ",
+      "title": "Temporomandibular Disorders",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Temporomandibular_Disorders.pdf",
+      "json_file": "data/dbq_json/temporomandibular-disorders.json"
+    },
+    {
+      "id": "wrist",
+      "document_type": "Public VA DBQ",
+      "title": "Wrist",
+      "category": "Musculoskeletal",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/wrist.pdf",
+      "json_file": "data/dbq_json/wrist.json"
+    },
+    {
+      "id": "als-lou-gehrig-s-disease",
+      "document_type": "Public VA DBQ",
+      "title": "ALS (Lou Gehrig's Disease)",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/ALS_Lou_Gehrigs_Disease.pdf",
+      "json_file": "data/dbq_json/als-lou-gehrig-s-disease.json"
+    },
+    {
+      "id": "central-nervous-system-and-neuromuscular-diseases",
+      "document_type": "Public VA DBQ",
+      "title": "Central Nervous System and Neuromuscular Diseases",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Central_Nervous_System_and_Neuromuscular_Diseases.pdf",
+      "json_file": "data/dbq_json/central-nervous-system-and-neuromuscular-diseases.json"
+    },
+    {
+      "id": "cranial-nerve-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Cranial Nerve Conditions",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Cranial_Nerve_Conditions.pdf",
+      "json_file": "data/dbq_json/cranial-nerve-conditions.json"
+    },
+    {
+      "id": "diabetic-peripheral-neuropathy",
+      "document_type": "Public VA DBQ",
+      "title": "Diabetic Peripheral Neuropathy",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Diabetic_Peripheral_Neuropathy.pdf",
+      "json_file": "data/dbq_json/diabetic-peripheral-neuropathy.json"
+    },
+    {
+      "id": "fibromyalgia",
+      "document_type": "Public VA DBQ",
+      "title": "Fibromyalgia",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Fibromyalgia.pdf",
+      "json_file": "data/dbq_json/fibromyalgia.json"
+    },
+    {
+      "id": "headaches-including-migraines",
+      "document_type": "Public VA DBQ",
+      "title": "Headaches (including Migraines)",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Headaches_Including_Migraines.pdf",
+      "json_file": "data/dbq_json/headaches-including-migraines.json"
+    },
+    {
+      "id": "multiple-sclerosis-ms",
+      "document_type": "Public VA DBQ",
+      "title": "Multiple Sclerosis (MS)",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Multiple_Sclerosis.pdf",
+      "json_file": "data/dbq_json/multiple-sclerosis-ms.json"
+    },
+    {
+      "id": "narcolepsy",
+      "document_type": "Public VA DBQ",
+      "title": "Narcolepsy",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Narcolepsy.pdf",
+      "json_file": "data/dbq_json/narcolepsy.json"
+    },
+    {
+      "id": "parkinson-s-disease",
+      "document_type": "Public VA DBQ",
+      "title": "Parkinson's Disease",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Parkinsons_Disease.pdf",
+      "json_file": "data/dbq_json/parkinson-s-disease.json"
+    },
+    {
+      "id": "peripheral-nerves",
+      "document_type": "Public VA DBQ",
+      "title": "Peripheral Nerves",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Peripheral_Nerves.pdf",
+      "json_file": "data/dbq_json/peripheral-nerves.json"
+    },
+    {
+      "id": "seizure-disorders-epilepsy",
+      "document_type": "Public VA DBQ",
+      "title": "Seizure Disorders (Epilepsy)",
+      "category": "Neurological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Seizure_Disorders_Epilepsy.pdf",
+      "json_file": "data/dbq_json/seizure-disorders-epilepsy.json"
+    },
+    {
+      "id": "nutritional-deficiencies",
+      "document_type": "Public VA DBQ",
+      "title": "Nutritional Deficiencies",
+      "category": "Nutrition",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Nutritional_Deficiencies.pdf",
+      "json_file": "data/dbq_json/nutritional-deficiencies.json"
+    },
+    {
+      "id": "eye-conditions",
+      "document_type": "Public VA DBQ",
+      "title": "Eye Conditions",
+      "category": "Ophthalmological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Eye_Conditions.pdf",
+      "json_file": "data/dbq_json/eye-conditions.json"
+    },
+    {
+      "id": "eating-disorders",
+      "document_type": "Public VA DBQ",
+      "title": "Eating Disorders",
+      "category": "Psychological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Eating_Disorders.pdf",
+      "json_file": "data/dbq_json/eating-disorders.json"
+    },
+    {
+      "id": "mental-disorders",
+      "document_type": "Public VA DBQ",
+      "title": "Mental Disorders",
+      "category": "Psychological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Mental_Disorders.pdf",
+      "json_file": "data/dbq_json/mental-disorders.json"
+    },
+    {
+      "id": "ptsd-review",
+      "document_type": "Public VA DBQ",
+      "title": "PTSD Review",
+      "category": "Psychological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/PTSD_Review.pdf",
+      "json_file": "data/dbq_json/ptsd-review.json"
+    },
+    {
+      "id": "respiratory-conditions-other-than-tuberculosis-and-sleep-apnea",
+      "document_type": "Public VA DBQ",
+      "title": "Respiratory Conditions (other than tuberculosis and sleep apnea)",
+      "category": "Respiratory",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Respiratory_Conditions_Other_than_Tuberculosis_and_Sleep_Apnea.pdf",
+      "json_file": "data/dbq_json/respiratory-conditions-other-than-tuberculosis-and-sleep-apnea.json"
+    },
+    {
+      "id": "sleep-apnea",
+      "document_type": "Public VA DBQ",
+      "title": "Sleep Apnea",
+      "category": "Respiratory",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Sleep_Apnea.pdf",
+      "json_file": "data/dbq_json/sleep-apnea.json"
+    },
+    {
+      "id": "arthritis",
+      "document_type": "Public VA DBQ",
+      "title": "Arthritis",
+      "category": "Rheumatological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Arthritis.pdf",
+      "json_file": "data/dbq_json/arthritis.json"
+    },
+    {
+      "id": "chronic-fatigue-syndrome",
+      "document_type": "Public VA DBQ",
+      "title": "Chronic Fatigue Syndrome",
+      "category": "Rheumatological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Chronic_Fatigue_Syndrome.pdf",
+      "json_file": "data/dbq_json/chronic-fatigue-syndrome.json"
+    },
+    {
+      "id": "systemic-lupus-erythematosus-sle-and-other-autoimmune-diseases",
+      "document_type": "Public VA DBQ",
+      "title": "Systemic Lupus Erythematosus (SLE) and other Autoimmune Diseases",
+      "category": "Rheumatological",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Systemic_Lupus_Erythematosus_and_Other_Autoimmune_Diseases.pdf",
+      "json_file": "data/dbq_json/systemic-lupus-erythematosus-sle-and-other-autoimmune-diseases.json"
+    },
+    {
+      "id": "spina-bifida",
+      "document_type": "Public VA DBQ",
+      "title": "Spina Bifida",
+      "category": "Spina Bifida (natural child of a Veteran exposed to herbicides)",
+      "pdf_url": "https://www.benefits.va.gov/compensation/docs/Spina_Bifida.pdf",
+      "json_file": "data/dbq_json/spina-bifida.json"
+    },
+    {
+      "id": "non-public-cold-injury-residuals",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Cold Injury Residuals - Research-Derived Non-Public DBQ Substitute",
+      "category": "Cardiovascular / Skin / Neurological",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-cold-injury-residuals.json"
+    },
+    {
+      "id": "non-public-former-pow-protocol",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Former POW Protocol - Research-Derived Non-Public DBQ Substitute",
+      "category": "Former POW / Multi-system",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-former-pow-protocol.json"
+    },
+    {
+      "id": "non-public-general-medical-compensation",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "General Medical - Compensation - Research-Derived Non-Public DBQ Substitute",
+      "category": "General Medical",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-general-medical-compensation.json"
+    },
+    {
+      "id": "non-public-general-medical-pension",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "General Medical - Pension - Research-Derived Non-Public DBQ Substitute",
+      "category": "Pension / General Medical",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-general-medical-pension.json"
+    },
+    {
+      "id": "non-public-gulf-war-general-medical-examination",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Gulf War General Medical Examination - Research-Derived Non-Public DBQ Substitute",
+      "category": "Gulf War / Multi-system",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-gulf-war-general-medical-examination.json"
+    },
+    {
+      "id": "non-public-medical-opinion",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Medical Opinion - Research-Derived Non-Public DBQ Substitute",
+      "category": "Medical Opinion / Nexus",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-medical-opinion.json"
+    },
+    {
+      "id": "non-public-separation-health-assessment-part-b",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Separation Health Assessment - Part B - Research-Derived Non-Public DBQ Substitute",
+      "category": "Separation Health Assessment",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-separation-health-assessment-part-b.json"
+    },
+    {
+      "id": "non-public-initial-ptsd",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Initial PTSD - Research-Derived Non-Public DBQ Substitute",
+      "category": "Psychological",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-initial-ptsd.json"
+    },
+    {
+      "id": "non-public-hearing-loss-and-tinnitus",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Hearing Loss and Tinnitus - Research-Derived Non-Public DBQ Substitute",
+      "category": "Audiology",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-hearing-loss-and-tinnitus.json"
+    },
+    {
+      "id": "non-public-initial-tbi-residuals",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Initial Evaluation of Residuals of TBI - Research-Derived Non-Public DBQ Substitute",
+      "category": "Neurological / TBI",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-initial-tbi-residuals.json"
+    },
+    {
+      "id": "non-public-review-tbi-residuals",
+      "document_type": "Research-derived non-public DBQ substitute",
+      "title": "Review Evaluation of Residuals of TBI - Research-Derived Non-Public DBQ Substitute",
+      "category": "Neurological / TBI",
+      "pdf_url": null,
+      "json_file": "data/dbq_json/non-public-review-tbi-residuals.json"
+    }
+  ],
+  "not_available_for_public_use": [
+    "Cold Injury Residuals",
+    "Former POW Protocol",
+    "General Medical &ndash; Compensation",
+    "General Medical &ndash; Pension",
+    "Gulf War General Medical Examination",
+    "Medical Opinion",
+    "Separation Health Assessment &ndash; Part B",
+    "Initial Post Traumatic Stress Disorder (PTSD)",
+    "Hearing Loss and Tinnitus",
+    "Initial Evaluation of Residuals of Traumatic Brain Injury",
+    "Review Evaluation of Residuals of Traumatic Brain Injury&nbsp;",
+    "Appeals Modernization",
+    "Military Sexual Trauma Coordinators",
+    "Agent and Attorney Fee Coordinators",
+    "Appeals",
+    "Benefits A-Z",
+    "Federal Benefits Guide",
+    "Benefit Rates",
+    "VA Code of Federal Regulations",
+    "New/Update Military ID Card",
+    "Claims Adjudication Procedures Manual/Live Manual",
+    "Link to subscribe to receive email notice of changes to the Live Manual",
+    "5103 Notice Acknowledgement",
+    "Notices",
+    "Privacy",
+    "Regulations",
+    "Web Policies",
+    "No FEAR Act",
+    "Site Index",
+    "USA.gov",
+    "White House",
+    "Inspector General",
+    "Apply for Benefits",
+    "Apply for Health Care",
+    "My Health e Vet",
+    "Life Insurance Online Applications",
+    "VA Forms",
+    "State and Local Resources",
+    "VA Plans, Budget, &amp; Performance",
+    "VA Claims Representation",
+    "Careers at VA",
+    "Employment Center",
+    "Veteran Readiness &amp; Employment",
+    "Homeless Veterans",
+    "Women Veterans",
+    "Minority Veterans",
+    "Plain Language",
+    "Surviving Spouses &amp; Dependents",
+    "Adaptive Sports Program",
+    "Veterans Health Administration",
+    "Veterans Benefits Administration",
+    "National Cemetery Administration",
+    "Call 988 (Press 1)",
+    "Text to 838255",
+    "Chat confidentially now"
+  ],
+  "notes": [
+    "Files are generated from VA public DBQ PDFs listed on the inventory page.",
+    "The JSON summarizes DBQ examination prompts and observed symptom/sign language; it is not a rating calculator or medical/legal advice.",
+    "Some DBQs ask clinician-only objective testing questions that a veteran should not self-diagnose.",
+    "Research-derived non-public files are not official VA DBQs and should be used only as preparation aids."
+  ],
+  "research_derived_non_public_count": 11,
+  "public_and_derived_documents_count": 81,
+  "generatedOn": "2026-07-20",
+  "totalRecords": 81,
+  "scriptTemplateSchemaVersion": "3.0"
+}

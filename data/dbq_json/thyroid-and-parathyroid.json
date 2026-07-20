@@ -1,0 +1,506 @@
+{
+  "id": "thyroid-and-parathyroid",
+  "document_type": "Public VA DBQ",
+  "title": "Thyroid and Parathyroid",
+  "category": "Endocrinological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Thyroid_and_Parathyroid.pdf",
+    "local_pdf": "sources/dbq_pdfs/thyroid-and-parathyroid.pdf",
+    "page_count": 10,
+    "verified_on": "2026-07-20",
+    "updated_on": "2025-04-15",
+    "version": "v25_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+      "If there are additional diagnoses that pertain to thyroid or parathyroid condition(s) list using above format."
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including onset and course) of the veteran's thyroid and/or parathyroid condition (brief summary).",
+      "Has the Veteran had radioactive iodine treatment for a thyroid condition?",
+      "Has the Veteran had any other type of treatment for a thyroid or parathyroid condition?",
+      "Was a prophylactic thyroidectomy performed (based on genetic testing?)"
+    ],
+    "symptoms_signs_findings": [
+      "If \"Yes\", select the type of thyroid enlargement:",
+      "If \"Yes\", is the thyroid function normal?",
+      "If \"No\" (the thyroid function is not normal), select the thyroiditis manifestation:",
+      "Note: For VA purposes, myxedema, often referred to as myxedema coma or myxedema crisis, is defined as a rare, life-threatening condition from severe",
+      "If \"Yes\", has the myxedema (coma or crisis) stabilized?",
+      "If \"Yes\", provide the date of stabilization as determined by the examining physician:",
+      "Please select the body system(s) affected by the thyroid diagnoses identified in Section 1B:",
+      "Musculoskeletal symptoms (complete appropriate musculoskeletal questionnaire)",
+      "Respiratory/ENT symptoms (complete appropriate respiratory/ENT questionnaire)",
+      "Cardiovascular symptoms (complete appropriate cardiovascular questionnaire)",
+      "Gastrointestinal symptoms (complete appropriate gastrointestinal questionnaire)",
+      "Genitourinary symptoms (complete appropriate genitourinary questionnaire)",
+      "Reproductive symptoms (complete appropriate gynecological or male reproductive organ questionnaire)",
+      "Skin symptoms (complete appropriate dermatological questionnaire)",
+      "Eye involvement (complete appropriate ophthalmological questionnaire)",
+      "Neurological symptoms (complete appropriate neurological questionnaire)",
+      "Mental and psychological symptoms (complete appropriate psychological questionnaire)",
+      "Dental and oral conditions (complete appropriate dental and oral questionnaire)",
+      "Is the condition currently asymptomatic?",
+      "Has the Veteran undergone surgery for a hyperparathyroid condition?",
+      "Constipation",
+      "Hypercalcemia (indicated by total Ca greater than 12 mg/dL (3-3.5 mmol/L)",
+      "Note: Where surgical intervention is not indicated, six months following when pharmacologic treatment began, please evaluate residuals with the appropriate",
+      "Please select the body system(s) affected by the parathyroid diagnoses identified in Section 1B:",
+      "Respiratory symptoms/ENT (complete appropriate respiratory questionnaire)",
+      "If \"Yes\", describe (brief summary):",
+      "If \"Yes\", also complete the appropriate dermatological questionnaire.",
+      "Note: If diagnostic test results are in the medical record and reflect the Veteran's current thyroid or parathyroid condition, repeat testing is not required.",
+      "Have clinically relevant imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+      "Has clinically relevant laboratory testing been performed or reviewed in conjunction with this examination?",
+      "Has a biopsy been performed?",
+      "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in conjunction",
+      "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 12B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 12D. Date signed:",
+      "Examiner's phone/fax numbers: 12F. National Provider Identifier (NPI) number: 12G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [],
+    "severity_prompts": [
+      "Note: For VA purposes, myxedema, often referred to as myxedema coma or myxedema crisis, is defined as a rare, life-threatening condition from severe",
+      "Musculoskeletal symptoms (complete appropriate musculoskeletal questionnaire)",
+      "Respiratory/ENT symptoms (complete appropriate respiratory/ENT questionnaire)",
+      "Cardiovascular symptoms (complete appropriate cardiovascular questionnaire)",
+      "Gastrointestinal symptoms (complete appropriate gastrointestinal questionnaire)",
+      "Genitourinary symptoms (complete appropriate genitourinary questionnaire)",
+      "Reproductive symptoms (complete appropriate gynecological or male reproductive organ questionnaire)",
+      "Skin symptoms (complete appropriate dermatological questionnaire)",
+      "Eye involvement (complete appropriate ophthalmological questionnaire)",
+      "Neurological symptoms (complete appropriate neurological questionnaire)",
+      "Mental and psychological symptoms (complete appropriate psychological questionnaire)",
+      "Dental and oral conditions (complete appropriate dental and oral questionnaire)",
+      "Hypercalcemia (indicated by total Ca greater than 12 mg/dL (3-3.5 mmol/L)",
+      "Respiratory symptoms/ENT (complete appropriate respiratory questionnaire)",
+      "(If \"Abnormal\", complete the appropriate ophthalmological questionnaire)",
+      "(If \"Yes\", check all that apply and provide the approximate combined total area in centimeters squared for each characteristic selected)",
+      "Complete loss Side:",
+      "Reflexes (Rate deep tendon reflexes (DTRs) according to the following scale):",
+      "If \"Yes\", list residuals or complications (brief summary), and also complete the appropriate questionnaire:",
+      "If \"Yes\", also complete the appropriate dermatological questionnaire.",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": [
+      "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+      "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of",
+      "occupational task (such as standing, walking, lifting, sitting, etc.)?",
+      "If \"Yes\", describe the functional impact of each condition, providing one or more examples:"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION 1 - DIAGNOSIS",
+      "items": [
+        "Note: These are condition(s) for which an evaluation has been requested on the exam request form (Internal VA) or for which the Veteran has requested medical",
+        "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+        "If there are additional diagnoses that pertain to thyroid or parathyroid condition(s) list using above format."
+      ]
+    },
+    {
+      "title": "SECTION 2 - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including onset and course) of the veteran's thyroid and/or parathyroid condition (brief summary).",
+        "Has the Veteran had radioactive iodine treatment for a thyroid condition?",
+        "Has the Veteran had any other type of treatment for a thyroid or parathyroid condition?",
+        "Was a prophylactic thyroidectomy performed (based on genetic testing?)"
+      ]
+    },
+    {
+      "title": "SECTION 3 - THYROID: FINDINGS, SIGNS, AND SYMPTOMS",
+      "items": [
+        "If \"Yes\", select the type of thyroid enlargement:",
+        "If \"Yes\", is the thyroid function normal?",
+        "If \"No\" (the thyroid function is not normal), select the thyroiditis manifestation:",
+        "Note: For VA purposes, myxedema, often referred to as myxedema coma or myxedema crisis, is defined as a rare, life-threatening condition from severe",
+        "If \"Yes\", has the myxedema (coma or crisis) stabilized?",
+        "If \"Yes\", provide the date of stabilization as determined by the examining physician:",
+        "Please select the body system(s) affected by the thyroid diagnoses identified in Section 1B:",
+        "Musculoskeletal symptoms (complete appropriate musculoskeletal questionnaire)",
+        "Respiratory/ENT symptoms (complete appropriate respiratory/ENT questionnaire)",
+        "Cardiovascular symptoms (complete appropriate cardiovascular questionnaire)",
+        "Gastrointestinal symptoms (complete appropriate gastrointestinal questionnaire)",
+        "Genitourinary symptoms (complete appropriate genitourinary questionnaire)",
+        "Reproductive symptoms (complete appropriate gynecological or male reproductive organ questionnaire)",
+        "Skin symptoms (complete appropriate dermatological questionnaire)",
+        "Eye involvement (complete appropriate ophthalmological questionnaire)",
+        "Neurological symptoms (complete appropriate neurological questionnaire)",
+        "Mental and psychological symptoms (complete appropriate psychological questionnaire)",
+        "Dental and oral conditions (complete appropriate dental and oral questionnaire)"
+      ]
+    },
+    {
+      "title": "SECTION 4 - PARATHYROID: FINDINGS, SIGNS, AND SYMPTOMS",
+      "items": [
+        "Is the condition currently asymptomatic?",
+        "Has the Veteran undergone surgery for a hyperparathyroid condition?",
+        "Constipation",
+        "Hypercalcemia (indicated by total Ca greater than 12 mg/dL (3-3.5 mmol/L)",
+        "Note: Where surgical intervention is not indicated, six months following when pharmacologic treatment began, please evaluate residuals with the appropriate",
+        "Please select the body system(s) affected by the parathyroid diagnoses identified in Section 1B:",
+        "Musculoskeletal symptoms (complete appropriate musculoskeletal questionnaire)",
+        "Respiratory symptoms/ENT (complete appropriate respiratory questionnaire)",
+        "Cardiovascular symptoms (complete appropriate cardiovascular questionnaire)",
+        "Gastrointestinal symptoms (complete appropriate gastrointestinal questionnaire)",
+        "Genitourinary symptoms (complete appropriate genitourinary questionnaire)",
+        "Reproductive symptoms (complete appropriate gynecological or male reproductive organ questionnaire)",
+        "Skin symptoms (complete appropriate dermatological questionnaire)",
+        "Eye involvement (complete appropriate ophthalmological questionnaire)",
+        "Neurological symptoms (complete appropriate neurological questionnaire)",
+        "Mental and psychological symptoms (complete appropriate psychological questionnaire)",
+        "Dental and oral conditions (complete appropriate dental and oral questionnaire)"
+      ]
+    },
+    {
+      "title": "SECTION 5 - PHYSICAL EXAM",
+      "items": [
+        "(If \"Abnormal\", complete the appropriate ophthalmological questionnaire)",
+        "Is there abnormal pigmentation or texture or missing underlying soft tissue of the head, face, or neck due to the thyroid enlargement?",
+        "(If \"Yes\", check all that apply and provide the approximate combined total area in centimeters squared for each characteristic selected)",
+        "Is there visible or palpable tissue loss and either gross distortion or asymmetry of facial features as a result of treatment for, or due to enlargement of",
+        "Tissue loss/distortion of eyelid Side:",
+        "Tissue loss/distortion of eye Side:",
+        "Anatomical loss of eye Side:",
+        "Complete loss Side:",
+        "Loss of one-third or more of the substance Side:",
+        "Loss of less than one-third of the substance Side:",
+        "For all checked features, provide brief description of the tissue loss, gross distortion and/or asymmetry of facial features:",
+        "Blood pressure",
+        "Blood pressure:"
+      ]
+    },
+    {
+      "title": "SECTION 6 - REFLEX EXAM",
+      "items": [
+        "Reflexes (Rate deep tendon reflexes (DTRs) according to the following scale):"
+      ]
+    },
+    {
+      "title": "SECTION 7 - TUMORS AND NEOPLASMS",
+      "items": [
+        "Is the neoplasm:",
+        "If \"Yes\", indicate type of treatment the Veteran is currently undergoing or has completed (check all that apply):",
+        "If checked, describe:",
+        "If checked, describe procedure:",
+        "If checked, describe treatment:",
+        "If \"Yes\", list residuals or complications (brief summary), and also complete the appropriate questionnaire:",
+        "If there are additional benign or malignant neoplasms or metastases related to any of the diagnoses in the diagnosis section, describe using the above format:"
+      ]
+    },
+    {
+      "title": "SECTION 8 - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": [
+        "If \"Yes\", describe (brief summary):",
+        "If \"Yes\", also complete the appropriate dermatological questionnaire."
+      ]
+    },
+    {
+      "title": "SECTION 9 - DIAGNOSTIC TESTING",
+      "items": [
+        "Note: If diagnostic test results are in the medical record and reflect the Veteran's current thyroid or parathyroid condition, repeat testing is not required.",
+        "Have clinically relevant imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+        "Has clinically relevant laboratory testing been performed or reviewed in conjunction with this examination?",
+        "Has a biopsy been performed?",
+        "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in conjunction",
+        "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:"
+      ]
+    },
+    {
+      "title": "SECTION 10 - FUNCTIONAL IMPACT",
+      "items": [
+        "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+        "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of",
+        "occupational task (such as standing, walking, lifting, sitting, etc.)?",
+        "If \"Yes\", describe the functional impact of each condition, providing one or more examples:"
+      ]
+    },
+    {
+      "title": "SECTION 11 - REMARKS",
+      "items": [
+        "Remarks (if any - please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION 12 - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 12B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 12D. Date signed:",
+        "Examiner's phone/fax numbers: 12F. National Provider Identifier (NPI) number: 12G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "endocrine",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or when levels are not controlled",
+      "duration": "hours to all day depending on symptoms",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "several times per month",
+      "triggers": "hormone level changes, medication timing, stress, heat/cold, and illness",
+      "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+      "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+      "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Thyroid and Parathyroid",
+      "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+      "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+      "mainSymptoms": "fatigue, weight change, heat/cold intolerance, palpitations, tremor, mood changes, sleep changes, or weakness if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current endocrine/nutritional diagnosis, onset, treatment, medication, monitoring/labs, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; medication, monitoring/labs, diet changes, specialist care, supplements if prescribed, and follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "hormone level changes, medication timing, stress, heat/cold, and illness",
+          "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+          "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Thyroid and Parathyroid",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "fatigue, weight change, heat/cold intolerance, palpitations, tremor, mood changes, sleep changes, or weakness if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "fatigue, weakness, weight/appetite changes, monitoring needs, medication timing, diet restrictions, complications, and work/daily impact",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms or monitoring needs are {{frequency}} and can last {{duration}} when levels, meals, medication timing, or stress are off.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "hormone level changes, medication timing, stress, heat/cold, and illness",
+          "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+          "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Thyroid and Parathyroid",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "fatigue, weight change, heat/cold intolerance, palpitations, tremor, mood changes, sleep changes, or weakness if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms or monitoring needs are {{frequency}} and can last {{duration}} when levels, meals, medication timing, or stress are off."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "fatigue, weakness, weight/appetite changes, monitoring needs, medication timing, diet restrictions, complications, and work/daily impact",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, fatigue, weakness, blood sugar/hormone symptoms, or medication side effects worsen and I use {{flareCare}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "hormone level changes, medication timing, stress, heat/cold, and illness",
+          "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+          "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Thyroid and Parathyroid",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "fatigue, weight change, heat/cold intolerance, palpitations, tremor, mood changes, sleep changes, or weakness if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: fatigue, monitoring, medication timing, meals, appointments, or complications require planning and can reduce pace or reliability."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, fatigue, weakness, blood sugar/hormone symptoms, or medication side effects worsen and I use {{flareCare}}."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

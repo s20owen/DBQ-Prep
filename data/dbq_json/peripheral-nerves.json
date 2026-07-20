@@ -1,0 +1,569 @@
+{
+  "id": "peripheral-nerves",
+  "document_type": "Public VA DBQ",
+  "title": "Peripheral Nerves",
+  "category": "Neurological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Peripheral_Nerves.pdf",
+    "local_pdf": "sources/dbq_pdfs/peripheral-nerves.pdf",
+    "page_count": 14,
+    "verified_on": "2026-07-20",
+    "updated_on": "2026-06-01",
+    "version": "v26_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "Provide only diagnoses that pertain to a peripheral nerve condition and/or peripheral neuropathy:",
+      "If there are additional diagnoses that pertain to a peripheral nerve condition and/or peripheral neuropathy, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including onset and course) of the Veteran's peripheral nerve condition (brief summary):",
+      "Dominant hand"
+    ],
+    "symptoms_signs_findings": [
+      "Constant pain (may be excruciating at times)",
+      "Right upper extremity: None Mild Moderate Severe",
+      "Left upper extremity: None Mild Moderate Severe",
+      "Right lower extremity: None Mild Moderate Severe",
+      "Left lower extremity: None Mild Moderate Severe",
+      "Intermittent pain (usually dull)",
+      "Other symptoms (describe symptoms, location and severity):",
+      "Rate strength according to the following scale:",
+      "If muscle atrophy is present, indicate location:",
+      "For each instance of muscle atrophy, provide measurements in centimeters of normal side and atrophied side, measured at maximum muscle bulk:",
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace(s) Frequency of use: Occasional Regular Constant",
+      "Crutch(es) Frequency of use: Occasional Regular Constant",
+      "Cane(s) Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Frequency of use: Occasional Regular Constant",
+      "If the Veteran uses any assistive devices, specify the condition and identify the assistive device used for each condition:",
+      "NOTE: An \"unstable scar\" is one where, for any reason, there is frequent loss of covering of the skin over the scar. If there are multiple scars, enter additional",
+      "locations and measurements in Comment section below. It is not necessary to also complete a Scars DBQ.",
+      "Comments, if any:",
+      "NOTE: For the purpose of this examination, electromyography (EMG) studies are usually rarely required to diagnose specific peripheral nerve conditions in the",
+      "Have EMG studies been performed?",
+      "If abnormal, describe:",
+      "Are there any other significant diagnostic test findings and/or results?",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 18B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 18D. Date Signed:",
+      "Examiner's phone/fax numbers: 18F. National Provider Identifier (NPI) number: 18G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "Definitions: For VA purposes, neuralgia indicates a condition characterized by a dull and intermittent pain of typical distribution so as to identify the nerve, while",
+      "neuritis is characterized by loss of reflexes, muscle atrophy, sensory disturbances and constant pain, at times excruciating.",
+      "Constant pain (may be excruciating at times)",
+      "Intermittent pain (usually dull)",
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace(s) Frequency of use: Occasional Regular Constant",
+      "Crutch(es) Frequency of use: Occasional Regular Constant",
+      "Cane(s) Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Frequency of use: Occasional Regular Constant"
+    ],
+    "severity_prompts": [
+      "Definitions: For VA purposes, neuralgia indicates a condition characterized by a dull and intermittent pain of typical distribution so as to identify the nerve, while",
+      "neuritis is characterized by loss of reflexes, muscle atrophy, sensory disturbances and constant pain, at times excruciating.",
+      "Constant pain (may be excruciating at times)",
+      "Right upper extremity: None Mild Moderate Severe",
+      "Left upper extremity: None Mild Moderate Severe",
+      "Right lower extremity: None Mild Moderate Severe",
+      "Left lower extremity: None Mild Moderate Severe",
+      "Intermittent pain (usually dull)",
+      "Other symptoms (describe symptoms, location and severity):",
+      "Rate strength according to the following scale:",
+      "Rate deep tendon reflexes (DTRs) according to the following scale:",
+      "NOTE: For VA purposes, the term “incomplete paralysis\" indicates a degree of lost or impaired function substantially less than the description of complete paralysis",
+      "If the nerve is completely paralyzed, check the box for “complete paralysis.” If the nerve is not completely paralyzed, check the box for “incomplete paralysis” and",
+      "indicate severity. For VA purposes, when nerve impairment is wholly sensory, the evaluation should be mild, or at most, moderate.",
+      "Note: Indicate the affected nerves, side affected and severity of condition.",
+      "Note: Complete paralysis (hand and fingers drop, wrist and fingers flexed; cannot extend hand at wrist, extend proximal phalanges of fingers, extend",
+      "Right: Normal Incomplete paralysis Complete paralysis",
+      "If Incomplete paralysis is checked, indicate severity:",
+      "Mild Moderate Severe",
+      "Left: Normal Incomplete paralysis Complete paralysis",
+      "Note: Complete paralysis (hand inclined to the ulnar side, index and middle fingers extended, atrophy of thenar eminence, cannot make fist, defective",
+      "Note: Complete paralysis (\"griffin claw\" deformity, atrophy in dorsal interspaces, thenar and hypothenar eminences; cannot extend ring and little finger,",
+      "Note: Complete paralysis (weakened flexion of elbow and supination of forearm)",
+      "Note: Complete paralysis (innervates deltoid and teres minor; cannot abduct arm, outward rotation is weakened)",
+      "Note: Complete paralysis (inability to raise arm above shoulder level, winged scapula deformity)",
+      "Note: Complete paralysis (all shoulder and elbow movements lost; hand and wrist movements not affected)",
+      "Note: Complete paralysis (adduction, abduction, rotation of arm, flexion of elbow and extension of wrist lost)",
+      "Note: Complete paralysis (intrinsic hand muscles, wrist and finger flexors paralyzed; substantial loss of use of hand)",
+      "Note: Complete paralysis (foot dangles and drops, no active movement of muscles below the knee, flexion of knee weakened or lost)",
+      "Mild Moderate Moderately severe Severe, with marked muscular atrophy",
+      "Note: Complete paralysis (foot drop, cannot dorsiflex foot or extend toes; dorsum of foot and toes are numb)",
+      "Note: Complete paralysis (eversion of foot weakened)",
+      "Note: Complete paralysis (dorsiflexion of foot lost)",
+      "Note: Complete paralysis (plantar flexion lost, frank adduction of foot impossible, flexion and separation of toes abolished; no muscle in sole can move;",
+      "Note: Complete paralysis (paralysis of all muscles of sole of foot, frequently with painful paralysis of a causalgic nature; loss of toe flexion; adduction",
+      "Note: Complete paralysis (paralysis of quadriceps extensor muscles)",
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace(s) Frequency of use: Occasional Regular Constant",
+      "Crutch(es) Frequency of use: Occasional Regular Constant",
+      "Cane(s) Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Frequency of use: Occasional Regular Constant",
+      "locations and measurements in Comment section below. It is not necessary to also complete a Scars DBQ.",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": []
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "Provide only diagnoses that pertain to a peripheral nerve condition and/or peripheral neuropathy:",
+        "If there are additional diagnoses that pertain to a peripheral nerve condition and/or peripheral neuropathy, list using above format:",
+        "Definitions: For VA purposes, neuralgia indicates a condition characterized by a dull and intermittent pain of typical distribution so as to identify the nerve, while",
+        "neuritis is characterized by loss of reflexes, muscle atrophy, sensory disturbances and constant pain, at times excruciating."
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including onset and course) of the Veteran's peripheral nerve condition (brief summary):",
+        "Dominant hand"
+      ]
+    },
+    {
+      "title": "SECTION III - SYMPTOMS",
+      "items": [
+        "Constant pain (may be excruciating at times)",
+        "Right upper extremity: None Mild Moderate Severe",
+        "Left upper extremity: None Mild Moderate Severe",
+        "Right lower extremity: None Mild Moderate Severe",
+        "Left lower extremity: None Mild Moderate Severe",
+        "Intermittent pain (usually dull)",
+        "Other symptoms (describe symptoms, location and severity):"
+      ]
+    },
+    {
+      "title": "SECTION IV - MUSCLE STRENGTH TESTING",
+      "items": [
+        "Rate strength according to the following scale:",
+        "If muscle atrophy is present, indicate location:",
+        "For each instance of muscle atrophy, provide measurements in centimeters of normal side and atrophied side, measured at maximum muscle bulk:"
+      ]
+    },
+    {
+      "title": "SECTION V - REFLEX EXAM",
+      "items": [
+        "Rate deep tendon reflexes (DTRs) according to the following scale:"
+      ]
+    },
+    {
+      "title": "SECTION VI - SENSORY EXAM",
+      "items": [
+        "Indicate results for sensation testing for light touch:"
+      ]
+    },
+    {
+      "title": "SECTION VII - TROPHIC CHANGES",
+      "items": []
+    },
+    {
+      "title": "SECTION VIII - GAIT",
+      "items": [
+        "Provide etiology of abnormal gait:"
+      ]
+    },
+    {
+      "title": "SECTION IX - SPECIAL TESTS FOR MEDIAN NERVE",
+      "items": [
+        "Were special tests indicated and performed for median nerve evaluation?"
+      ]
+    },
+    {
+      "title": "SECTION X - NERVES AFFECTED: Severity Evaluation for Upper Extremity Nerves and Radicular Groups",
+      "items": [
+        "NOTE: For VA purposes, the term “incomplete paralysis\" indicates a degree of lost or impaired function substantially less than the description of complete paralysis",
+        "If the nerve is completely paralyzed, check the box for “complete paralysis.” If the nerve is not completely paralyzed, check the box for “incomplete paralysis” and",
+        "indicate severity. For VA purposes, when nerve impairment is wholly sensory, the evaluation should be mild, or at most, moderate.",
+        "Note: Indicate the affected nerves, side affected and severity of condition.",
+        "Radial nerve (musculospiral nerve)",
+        "Note: Complete paralysis (hand and fingers drop, wrist and fingers flexed; cannot extend hand at wrist, extend proximal phalanges of fingers, extend",
+        "Right: Normal Incomplete paralysis Complete paralysis",
+        "If Incomplete paralysis is checked, indicate severity:",
+        "Mild Moderate Severe",
+        "Left: Normal Incomplete paralysis Complete paralysis",
+        "Median nerve",
+        "Note: Complete paralysis (hand inclined to the ulnar side, index and middle fingers extended, atrophy of thenar eminence, cannot make fist, defective",
+        "Note: Complete paralysis (\"griffin claw\" deformity, atrophy in dorsal interspaces, thenar and hypothenar eminences; cannot extend ring and little finger,",
+        "Musculocutaneous nerve",
+        "Note: Complete paralysis (weakened flexion of elbow and supination of forearm)",
+        "Circumflex nerve",
+        "Note: Complete paralysis (innervates deltoid and teres minor; cannot abduct arm, outward rotation is weakened)",
+        "Long thoracic nerve",
+        "Note: Complete paralysis (inability to raise arm above shoulder level, winged scapula deformity)",
+        "Upper radicular group (5th & 6th cervicals)",
+        "Note: Complete paralysis (all shoulder and elbow movements lost; hand and wrist movements not affected)",
+        "Middle radicular group",
+        "Note: Complete paralysis (adduction, abduction, rotation of arm, flexion of elbow and extension of wrist lost)",
+        "Lower radicular group",
+        "Note: Complete paralysis (intrinsic hand muscles, wrist and finger flexors paralyzed; substantial loss of use of hand)"
+      ]
+    },
+    {
+      "title": "SECTION XI - NERVES AFFECTED: Severity Evaluation for Lower Extremity Nerves",
+      "items": [
+        "NOTE: For VA purposes, the term “incomplete paralysis\" indicates a degree of lost or impaired function substantially less than the description of complete paralysis",
+        "If the nerve is completely paralyzed, check the box for “complete paralysis.” If the nerve is not completely paralyzed, check the box for “incomplete paralysis” and",
+        "indicate severity. For VA purposes, when nerve impairment is wholly sensory, the evaluation should be mild, or at most, moderate.",
+        "Note: Indicate the affected nerves, side affected and severity of condition.",
+        "Sciatic nerve",
+        "Note: Complete paralysis (foot dangles and drops, no active movement of muscles below the knee, flexion of knee weakened or lost)",
+        "Right: Normal Incomplete paralysis Complete paralysis",
+        "If Incomplete paralysis is checked, indicate severity:",
+        "Mild Moderate Moderately severe Severe, with marked muscular atrophy",
+        "Left: Normal Incomplete paralysis Complete paralysis",
+        "External popliteal (common peroneal) nerve",
+        "Note: Complete paralysis (foot drop, cannot dorsiflex foot or extend toes; dorsum of foot and toes are numb)",
+        "Mild Moderate Severe",
+        "Musculocutaneous (superficial peroneal) nerve",
+        "Note: Complete paralysis (eversion of foot weakened)",
+        "Anterior tibial (deep peroneal) nerve",
+        "Note: Complete paralysis (dorsiflexion of foot lost)",
+        "Internal popliteal (tibial) nerve",
+        "Note: Complete paralysis (plantar flexion lost, frank adduction of foot impossible, flexion and separation of toes abolished; no muscle in sole can move;",
+        "Posterior tibial nerve",
+        "Note: Complete paralysis (paralysis of all muscles of sole of foot, frequently with painful paralysis of a causalgic nature; loss of toe flexion; adduction",
+        "Anterior crural (femoral) nerve",
+        "Note: Complete paralysis (paralysis of quadriceps extensor muscles)",
+        "Internal saphenous nerve",
+        "Obturator nerve",
+        "External cutaneous nerve of the thigh",
+        "Illio-inguinal nerve"
+      ]
+    },
+    {
+      "title": "SECTION XII - ASSISTIVE DEVICES",
+      "items": [
+        "Wheelchair Frequency of use: Occasional Regular Constant",
+        "Brace(s) Frequency of use: Occasional Regular Constant",
+        "Crutch(es) Frequency of use: Occasional Regular Constant",
+        "Cane(s) Frequency of use: Occasional Regular Constant",
+        "Walker Frequency of use: Occasional Regular Constant",
+        "Frequency of use: Occasional Regular Constant",
+        "If the Veteran uses any assistive devices, specify the condition and identify the assistive device used for each condition:"
+      ]
+    },
+    {
+      "title": "SECTION XIII - REMAINING EFFECTIVE FUNCTION OF THE EXTREMITIES",
+      "items": [
+        "Note: The intention of this section is to permit the examiner to quantify the level of remaining function; it is not intended to inquire whether the Veteran should undergo",
+        "an amputation with fitting of a prosthesis. For example, if the functions of grasping (hand) or propulsion (foot) are as limited as if the Veteran had an amputation and",
+        "prosthesis, the examiner should check \"yes\" and describe the diminished functioning. The question simply asks whether the functional loss is to the same degree as",
+        "if there were an amputation of the affected limb.",
+        "Due to peripheral nerve conditions, is there functional impairment of an extremity such that no effective function remains other than that which would be equally",
+        "For each checked extremity, describe loss of effective function, identify the condition causing loss of function, and provide specific examples (brief summary):"
+      ]
+    },
+    {
+      "title": "SECTION XIV - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS AND/OR SYMPTOMS",
+      "items": [
+        "NOTE: An \"unstable scar\" is one where, for any reason, there is frequent loss of covering of the skin over the scar. If there are multiple scars, enter additional",
+        "locations and measurements in Comment section below. It is not necessary to also complete a Scars DBQ.",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION XV - DIAGNOSTIC TESTING",
+      "items": [
+        "NOTE: For the purpose of this examination, electromyography (EMG) studies are usually rarely required to diagnose specific peripheral nerve conditions in the",
+        "Have EMG studies been performed?",
+        "If abnormal, describe:",
+        "Are there any other significant diagnostic test findings and/or results?"
+      ]
+    },
+    {
+      "title": "SECTION XVI - FUNCTIONAL IMPACT",
+      "items": []
+    },
+    {
+      "title": "SECTION XVII - REMARKS",
+      "items": [
+        "Remarks (If any)"
+      ]
+    },
+    {
+      "title": "SECTION XVIII - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 18B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 18D. Date Signed:",
+        "Examiner's phone/fax numbers: 18F. National Provider Identifier (NPI) number: 18G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "neurological",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or most days",
+      "duration": "hours at a time, with worse episodes lasting the rest of the day",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "standing, walking, repetitive use, cold, prolonged positions, and activity",
+      "limitation": "walking, standing, stairs, gripping, fine motor tasks, driving, safety, and sleep",
+      "treatment": "neurology care, medication, braces/supports if used, therapy, foot/skin checks, and medical follow-up",
+      "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Peripheral Nerves",
+      "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+      "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+      "mainSymptoms": "numbness, tingling, burning pain, weakness, decreased sensation, balance problems, and reduced grip or foot control if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current neurological diagnosis/residuals, onset, course, testing, treatment, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; neurology care, medications, therapy, assistive devices, testing, and specialist follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "standing, walking, repetitive use, cold, prolonged positions, and activity",
+          "limitation": "walking, standing, stairs, gripping, fine motor tasks, driving, safety, and sleep",
+          "treatment": "neurology care, medication, braces/supports if used, therapy, foot/skin checks, and medical follow-up",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Peripheral Nerves",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "numbness, tingling, burning pain, weakness, decreased sensation, balance problems, and reduced grip or foot control if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "standing, walking, repetitive use, cold, prolonged positions, and activity",
+          "limitation": "walking, standing, stairs, gripping, fine motor tasks, driving, safety, and sleep",
+          "treatment": "neurology care, medication, braces/supports if used, therapy, foot/skin checks, and medical follow-up",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Peripheral Nerves",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "numbness, tingling, burning pain, weakness, decreased sensation, balance problems, and reduced grip or foot control if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "standing, walking, repetitive use, cold, prolonged positions, and activity",
+          "limitation": "walking, standing, stairs, gripping, fine motor tasks, driving, safety, and sleep",
+          "treatment": "neurology care, medication, braces/supports if used, therapy, foot/skin checks, and medical follow-up",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Peripheral Nerves",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "numbness, tingling, burning pain, weakness, decreased sensation, balance problems, and reduced grip or foot control if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: when symptoms build, I slow down, make more mistakes, avoid unsafe tasks, and need breaks or support with {{limitation}}."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

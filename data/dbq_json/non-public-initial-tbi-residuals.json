@@ -1,0 +1,393 @@
+{
+  "id": "non-public-initial-tbi-residuals",
+  "document_type": "Research-derived non-public DBQ substitute",
+  "title": "Initial Evaluation of Residuals of TBI - Research-Derived Non-Public DBQ Substitute",
+  "category": "Neurological / TBI",
+  "public_availability": {
+    "status": "Not available for public use according to VA public DBQ inventory",
+    "official_dbq_pdf_available": false,
+    "caveat": "This is not an official VA DBQ and should not be presented as one. It is a structured research aid built from public VA/eCFR criteria and adjacent public examination concepts."
+  },
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs / eCFR",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "source_urls": [
+      "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+      "https://www.benefits.va.gov/compensation/dbq_disabilityexams.asp",
+      "https://www.ecfr.gov/current/title-38/chapter-I/part-3",
+      "https://www.ecfr.gov/current/title-38/chapter-I/part-4"
+    ],
+    "regulatory_references": [
+      "38 CFR § 4.124a, Diagnostic Code 8045",
+      "38 CFR § 3.303",
+      "38 CFR § 3.304",
+      "38 CFR §§ 4.125, 4.126, 4.130"
+    ],
+    "verified_on": "2026-07-20",
+    "local_pdf": null,
+    "research_method": "Derived from VA public non-available DBQ list, public DBQs with similar exam structure, and 38 CFR Parts 3 and 4 criteria."
+  },
+  "purpose": "Prepare for initial TBI residuals evaluation where VA restricts the official DBQ.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition, diagnosis, residual, or claimed symptom pattern is currently present?",
+      "When did it begin, who diagnosed or treated it, and what medications, devices, procedures, therapy, testing, or hospitalizations are documented?",
+      "What current objective findings, records, labs, imaging, audiology, neuropsychological testing, or clinician observations support it?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, captivity, deployment, hazardous duty, blast, acoustic trauma, or aggravation is claimed?",
+      "What dates, locations, units, MOS/duties, incidents, STR entries, personnel records, buddy statements, or exposure records support the event?",
+      "If secondary or aggravated, what service-connected condition caused or worsened this condition, and what medical evidence supports that relationship?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition affect work attendance, task performance, concentration, communication, mobility, self-care, sleep, relationships, and daily activities?",
+      "What are baseline limitations versus flare-up or episode limitations?",
+      "Use truthful examples with frequency, duration, severity, triggers, treatment response, and missed/modified work."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms/episodes occur and how long they last.",
+      "severity_scale": "Best, typical, and worst severity; use 0-10 only when clinically sensible, especially pain.",
+      "work_daily_life_impact": "Concrete examples such as missed work, accommodations, difficulty hearing speech, memory problems, lifting/sitting/standing limits, ADLs, or relationship effects.",
+      "flare_ups": "Triggers, frequency, duration, what worsens, what functional loss occurs, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "Identify each traumatic brain injury event: date, mechanism, blast/blow/fall/MVA, loss/alteration of consciousness, post-traumatic amnesia, acute symptoms, treatment, and line-of-duty/records.",
+      "List current TBI residual diagnoses/symptoms and distinguish overlapping mental health, migraine, vestibular, sleep, vision, hearing, or neurologic conditions where possible.",
+      "Document treatment, rehab, medications, hospitalizations, neuropsychology, imaging, and specialist care."
+    ],
+    "medical_history_onset_course_treatment": [
+      "Document acute injury severity and symptom course from injury to present."
+    ],
+    "nexus_service_connection_prompts": [
+      "Connect each TBI event to service records, blast/combat/vehicle/fall/sports/training incident facts, witness statements, and continuity of residuals."
+    ],
+    "symptoms_signs_findings": [
+      "Cognitive symptoms: memory, attention, concentration, executive function, slowed processing, word-finding, judgment, planning, multitasking.",
+      "Subjective symptoms: headaches, dizziness/vertigo, insomnia, fatigue, tinnitus, sound/light sensitivity, blurred/double vision, balance issues.",
+      "Emotional/behavioral symptoms: irritability, impulsivity, mood swings, anxiety, depression, apathy, social inappropriateness.",
+      "Neurologic symptoms: seizures, motor/sensory deficits, coordination, gait, speech/swallowing, cranial nerve, autonomic, endocrine, or other residuals.",
+      "Frequency, duration, severity, triggers, recovery time, and episodes that impair work or daily tasks."
+    ],
+    "diagnostic_testing_objective_findings": [
+      "TBI-specialist examination using DC 8045 facets: memory/attention/concentration/executive function, judgment, social interaction, orientation, motor activity, visual spatial orientation, subjective symptoms, neurobehavioral effects, communication, consciousness.",
+      "Neuropsychological testing, imaging, vestibular/vision/audiology testing, headache evaluation, seizure evaluation, mental health evaluation, or sleep evaluation as indicated.",
+      "Review acute injury records, deployment/blast logs, STRs, buddy statements, post-service treatment, and prior TBI screens."
+    ],
+    "frequency_duration_prompts": [
+      "Frequency, duration, severity, triggers, recovery time, and episodes that impair work or daily tasks.",
+      "Headache/dizziness/fatigue episodes causing missed work or inability to complete tasks."
+    ],
+    "severity_prompts": [
+      "Frequency, duration, severity, triggers, recovery time, and episodes that impair work or daily tasks.",
+      "Headache/dizziness/fatigue episodes causing missed work or inability to complete tasks."
+    ],
+    "flare_up_prompts": [
+      "Frequency, duration, severity, triggers, recovery time, and episodes that impair work or daily tasks.",
+      "Headache/dizziness/fatigue episodes causing missed work or inability to complete tasks."
+    ],
+    "functional_impact_prompts": [
+      "Work errors from memory/concentration/executive dysfunction.",
+      "Need for reminders, lists, supervision, reduced multitasking, quiet environment, or extra time.",
+      "Driving, balance, safety, communication, social judgment, anger/impulse control, and relationship effects.",
+      "Headache/dizziness/fatigue episodes causing missed work or inability to complete tasks.",
+      "ADL and independent-living effects such as medication management, finances, appointments, cooking, navigation, or childcare."
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION 1 - SOURCE AND AVAILABILITY",
+      "items": [
+        "VA lists this DBQ as not available for public use.",
+        "Use this JSON as a preparation aid, not as a completed DBQ."
+      ]
+    },
+    {
+      "title": "SECTION 2 - DIAGNOSIS / CURRENT CONDITION",
+      "items": [
+        "Identify each traumatic brain injury event: date, mechanism, blast/blow/fall/MVA, loss/alteration of consciousness, post-traumatic amnesia, acute symptoms, treatment, and line-of-duty/records.",
+        "List current TBI residual diagnoses/symptoms and distinguish overlapping mental health, migraine, vestibular, sleep, vision, hearing, or neurologic conditions where possible.",
+        "Document treatment, rehab, medications, hospitalizations, neuropsychology, imaging, and specialist care."
+      ]
+    },
+    {
+      "title": "SECTION 3 - MEDICAL HISTORY AND NEXUS FACTS",
+      "items": [
+        "Document acute injury severity and symptom course from injury to present.",
+        "Connect each TBI event to service records, blast/combat/vehicle/fall/sports/training incident facts, witness statements, and continuity of residuals."
+      ]
+    },
+    {
+      "title": "SECTION 4 - SYMPTOMS, SIGNS, AND FINDINGS",
+      "items": [
+        "Cognitive symptoms: memory, attention, concentration, executive function, slowed processing, word-finding, judgment, planning, multitasking.",
+        "Subjective symptoms: headaches, dizziness/vertigo, insomnia, fatigue, tinnitus, sound/light sensitivity, blurred/double vision, balance issues.",
+        "Emotional/behavioral symptoms: irritability, impulsivity, mood swings, anxiety, depression, apathy, social inappropriateness.",
+        "Neurologic symptoms: seizures, motor/sensory deficits, coordination, gait, speech/swallowing, cranial nerve, autonomic, endocrine, or other residuals.",
+        "Frequency, duration, severity, triggers, recovery time, and episodes that impair work or daily tasks."
+      ]
+    },
+    {
+      "title": "SECTION 5 - TESTING / OBJECTIVE FINDINGS",
+      "items": [
+        "TBI-specialist examination using DC 8045 facets: memory/attention/concentration/executive function, judgment, social interaction, orientation, motor activity, visual spatial orientation, subjective symptoms, neurobehavioral effects, communication, consciousness.",
+        "Neuropsychological testing, imaging, vestibular/vision/audiology testing, headache evaluation, seizure evaluation, mental health evaluation, or sleep evaluation as indicated.",
+        "Review acute injury records, deployment/blast logs, STRs, buddy statements, post-service treatment, and prior TBI screens."
+      ]
+    },
+    {
+      "title": "SECTION 6 - FUNCTIONAL IMPACT",
+      "items": [
+        "Work errors from memory/concentration/executive dysfunction.",
+        "Need for reminders, lists, supervision, reduced multitasking, quiet environment, or extra time.",
+        "Driving, balance, safety, communication, social judgment, anger/impulse control, and relationship effects.",
+        "Headache/dizziness/fatigue episodes causing missed work or inability to complete tasks.",
+        "ADL and independent-living effects such as medication management, finances, appointments, cooking, navigation, or childcare."
+      ]
+    },
+    {
+      "title": "SECTION 7 - SPECIAL NOTES",
+      "items": [
+        "Many TBI residuals may be rated under separate body-system criteria when appropriate; avoid double-counting the same symptom under multiple diagnoses."
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Current diagnosis or claimed symptom/residual pattern",
+      "Exact onset date/timeframe and in-service event/exposure/injury/captivity/deployment/acoustic/blast facts",
+      "Treatment history, medications, devices, therapy, surgeries, hospitalizations, specialist care, tests, and records",
+      "Baseline symptoms with frequency, duration, severity, and daily functional impact",
+      "Flare-ups/episodes/attacks with triggers, duration, severity, and what activities become impossible or limited",
+      "Work impact, accommodations, missed work, safety issues, communication limits, memory/concentration issues, ADL limits, and relationship effects"
+    ],
+    "truthfulness_guardrail": "Use only accurate personal facts. Do not invent symptoms, diagnoses, stressors, captivity details, exposures, test results, or medical nexus opinions."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "tbi",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or most days",
+      "duration": "hours at a time, with bad episodes affecting the rest of the day",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "several times per week",
+      "triggers": "screens, reading, bright light, noise, crowds, stress, poor sleep, driving, multitasking, or physical exertion",
+      "limitation": "memory, concentration, task completion, driving, reading/screens, balance, headaches, communication, mood, and work reliability",
+      "treatment": "TBI/neurology care, primary care, headache medication if prescribed, therapy/rehab, memory aids, sleep treatment, vestibular/vision therapy if prescribed, and pacing",
+      "flareCare": "stop the task, reduce light/noise, rest in a quiet place, use medication if prescribed, use notes/reminders, avoid driving, and ask for help if needed",
+      "limitBeforeStopping": "20–30 minutes of screens, reading, multitasking, or busy/noisy settings",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[blast exposure, vehicle accident, fall, head strike, concussion, loss/alteration of consciousness, or other in-service head injury]",
+      "currentDiagnosis": "Initial TBI residuals",
+      "workImpact": "At work I need written instructions, repeat reminders, reduced distractions, extra time for multi-step tasks, and breaks from screens/noise; interruptions can cause mistakes or missed steps.",
+      "dailyImpact": "At home I use phone alarms, notes, GPS, calendars, and routines; I may forget appointments, misplace items, lose my place in conversations, avoid night/busy driving, and need quiet rest after headaches or dizziness.",
+      "mainSymptoms": "memory lapses, poor concentration, slowed thinking, headaches, dizziness, light/noise sensitivity, irritability, sleep disruption, balance problems, and fatigue if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": "TBI traumatic brain injury concussion head injury blast injury initial evaluation residuals DC 8045 cognitive impairment"
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current diagnosis or claimed condition, onset, course, treatment history, medications, testing, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; treatment records, medications, tests, imaging/labs, specialist care, therapy, devices, and supporting evidence",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with bad episodes affecting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per week",
+          "triggers": "screens, reading, bright light, noise, crowds, stress, poor sleep, driving, multitasking, or physical exertion",
+          "limitation": "memory, concentration, task completion, driving, reading/screens, balance, headaches, communication, mood, and work reliability",
+          "treatment": "TBI/neurology care, primary care, headache medication if prescribed, therapy/rehab, memory aids, sleep treatment, vestibular/vision therapy if prescribed, and pacing",
+          "flareCare": "stop the task, reduce light/noise, rest in a quiet place, use medication if prescribed, use notes/reminders, avoid driving, and ask for help if needed",
+          "limitBeforeStopping": "20–30 minutes of screens, reading, multitasking, or busy/noisy settings",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[blast exposure, vehicle accident, fall, head strike, concussion, loss/alteration of consciousness, or other in-service head injury]",
+          "currentDiagnosis": "Initial TBI residuals",
+          "workImpact": "At work I need written instructions, repeat reminders, reduced distractions, extra time for multi-step tasks, and breaks from screens/noise; interruptions can cause mistakes or missed steps.",
+          "dailyImpact": "At home I use phone alarms, notes, GPS, calendars, and routines; I may forget appointments, misplace items, lose my place in conversations, avoid night/busy driving, and need quiet rest after headaches or dizziness.",
+          "mainSymptoms": "memory lapses, poor concentration, slowed thinking, headaches, dizziness, light/noise sensitivity, irritability, sleep disruption, balance problems, and fatigue if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": "TBI traumatic brain injury concussion head injury blast injury initial evaluation residuals DC 8045 cognitive impairment"
+        },
+        "bullet_templates": [
+          "TBI event: blast, fall, head strike, vehicle accident, concussion, loss/altered consciousness, or memory gap",
+          "Immediate symptoms: confusion, dazed feeling, headache, dizziness, nausea, vomiting, ringing ears, vision changes, or amnesia",
+          "Testing/treatment: CT/MRI, neuropsych testing, neurology/TBI clinic, vestibular/vision therapy, headache treatment",
+          "Timeline: what changed since the injury or since the last TBI review exam"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "frequency, duration, severity, flare-ups, treatment, work impact, and daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, memory, focus, headache, dizziness, or brain-fog symptoms happen {{frequency}}, worsen with {{triggers}}, and can last {{duration}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with bad episodes affecting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per week",
+          "triggers": "screens, reading, bright light, noise, crowds, stress, poor sleep, driving, multitasking, or physical exertion",
+          "limitation": "memory, concentration, task completion, driving, reading/screens, balance, headaches, communication, mood, and work reliability",
+          "treatment": "TBI/neurology care, primary care, headache medication if prescribed, therapy/rehab, memory aids, sleep treatment, vestibular/vision therapy if prescribed, and pacing",
+          "flareCare": "stop the task, reduce light/noise, rest in a quiet place, use medication if prescribed, use notes/reminders, avoid driving, and ask for help if needed",
+          "limitBeforeStopping": "20–30 minutes of screens, reading, multitasking, or busy/noisy settings",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[blast exposure, vehicle accident, fall, head strike, concussion, loss/alteration of consciousness, or other in-service head injury]",
+          "currentDiagnosis": "Initial TBI residuals",
+          "workImpact": "At work I need written instructions, repeat reminders, reduced distractions, extra time for multi-step tasks, and breaks from screens/noise; interruptions can cause mistakes or missed steps.",
+          "dailyImpact": "At home I use phone alarms, notes, GPS, calendars, and routines; I may forget appointments, misplace items, lose my place in conversations, avoid night/busy driving, and need quiet rest after headaches or dizziness.",
+          "mainSymptoms": "memory lapses, poor concentration, slowed thinking, headaches, dizziness, light/noise sensitivity, irritability, sleep disruption, balance problems, and fatigue if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": "TBI traumatic brain injury concussion head injury blast injury initial evaluation residuals DC 8045 cognitive impairment"
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, memory, focus, headache, dizziness, or brain-fog symptoms happen {{frequency}}, worsen with {{triggers}}, and can last {{duration}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Cognitive facets: memory, attention, concentration, executive function, judgment, orientation",
+          "Daily examples: forget appointments, repeat questions, lose items, miss steps, rely on notes/alarms/GPS",
+          "Subjective residuals: headaches, dizziness/vertigo, tinnitus, light/noise sensitivity, sleep disruption, fatigue",
+          "Neurobehavioral/communication: irritability, impulsivity, social withdrawal, word-finding, trouble following conversations"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "frequency, duration, severity, flare-ups, treatment, work impact, and daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Brain fog, headache, dizziness, or concentration problems are usually around {{bestPain}}. Symptoms are worse with {{triggers}}. After about {{limitBeforeStopping}}, I may need to stop, reduce stimulation, use reminders, or get help.\n\nWorst days: My worst days happen {{flareUps}}; during them, headache, dizziness, light/noise sensitivity, or brain fog worsens to {{worstPain}}, I stop screens/driving, rest in a quiet place, use notes/reminders, and may need help with tasks or transportation.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with bad episodes affecting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per week",
+          "triggers": "screens, reading, bright light, noise, crowds, stress, poor sleep, driving, multitasking, or physical exertion",
+          "limitation": "memory, concentration, task completion, driving, reading/screens, balance, headaches, communication, mood, and work reliability",
+          "treatment": "TBI/neurology care, primary care, headache medication if prescribed, therapy/rehab, memory aids, sleep treatment, vestibular/vision therapy if prescribed, and pacing",
+          "flareCare": "stop the task, reduce light/noise, rest in a quiet place, use medication if prescribed, use notes/reminders, avoid driving, and ask for help if needed",
+          "limitBeforeStopping": "20–30 minutes of screens, reading, multitasking, or busy/noisy settings",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[blast exposure, vehicle accident, fall, head strike, concussion, loss/alteration of consciousness, or other in-service head injury]",
+          "currentDiagnosis": "Initial TBI residuals",
+          "workImpact": "At work I need written instructions, repeat reminders, reduced distractions, extra time for multi-step tasks, and breaks from screens/noise; interruptions can cause mistakes or missed steps.",
+          "dailyImpact": "At home I use phone alarms, notes, GPS, calendars, and routines; I may forget appointments, misplace items, lose my place in conversations, avoid night/busy driving, and need quiet rest after headaches or dizziness.",
+          "mainSymptoms": "memory lapses, poor concentration, slowed thinking, headaches, dizziness, light/noise sensitivity, irritability, sleep disruption, balance problems, and fatigue if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": "TBI traumatic brain injury concussion head injury blast injury initial evaluation residuals DC 8045 cognitive impairment"
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: I need written instructions, reminders, fewer distractions, extra time, and breaks from screens/noise because interruptions or multitasking can cause missed steps and mistakes."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, headache, dizziness, light/noise sensitivity, or brain fog worsens to {{worstPain}}, I stop screens/driving, rest in a quiet place, use notes/reminders, and may need help with tasks or transportation."
+          }
+        ],
+        "bullet_templates": [
+          "Work: written instructions, repeated reminders, extra time, reduced distractions, screen/noise breaks, missed steps/mistakes",
+          "Driving/safety: dizziness, getting lost, slow reaction, avoiding night/busy traffic, needing GPS even on familiar routes",
+          "Home/IADLs: bills, meds, appointments, cooking steps, chores, conversations, childcare, errands",
+          "Worst days: headache/brain fog/dizziness forces dark quiet room, no driving, no screens, help from family/coworker"
+        ]
+      }
+    ]
+  }
+}

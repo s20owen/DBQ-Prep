@@ -1,0 +1,461 @@
+{
+  "id": "endocrine-other-than-thyroid-parathyroid-or-diabetes-mellitus",
+  "document_type": "Public VA DBQ",
+  "title": "Endocrine (Other than Thyroid, Parathyroid or Diabetes Mellitus)",
+  "category": "Endocrinological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Endocrine_Other_than_Thyroid_Parathyroid_and_Diabetes_Mellitus.pdf",
+    "local_pdf": "sources/dbq_pdfs/endocrine-other-than-thyroid-parathyroid-or-diabetes-mellitus.pdf",
+    "page_count": 9,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-09-04",
+    "version": "v24_2"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "IF THERE ARE ADDITIONAL DIAGNOSES THAT PERTAIN TO ENDOCRINE CONDITION(S), LIST USING ABOVE FORMAT:",
+      "PLEASE SELECT THE BODY SYSTEMS AFFECTED BY THE DIAGNOSES LISTED IN SECTION 1B."
+    ],
+    "medical_history_onset_course_treatment": [
+      "DESCRIBE THE HISTORY (including onset and course) OF THE VETERAN'S ENDOCRINE CONDITION (brief summary):",
+      "IS CONTINUOUS MEDICATION REQUIRED FOR CONTROL OF AN ENDOCRINE CONDITION?",
+      "HAS THE VETERAN HAD SURGERY FOR AN ENDOCRINE CONDITION?",
+      "HAS THE VETERAN HAD ANY OTHER TYPE OF TREATMENT FOR AN ENDOCRINE CONDITION?"
+    ],
+    "symptoms_signs_findings": [
+      "CUSHING'S SYNDROME",
+      "Has it been more than 6 months since the initial diagnosis?",
+      "Areas of osteoporosis",
+      "Proximal upper extremity muscle wasting that results in inability to climb stairs",
+      "Proximal lower extremity muscle wasting that results in inability to climb stairs",
+      "EVIDENCE OF INCREASED INTRACRANIAL PRESSURE (such as visual field defect)",
+      "(If \"Yes,\" also complete appropriate dermatological DBQ)",
+      "COMMENTS, IF ANY:",
+      "NOTE: If diagnostic test results are in the medical record and reflect the veteran's current endocrine condition, repeat testing is not required.",
+      "HAVE IMAGING STUDIES BEEN PERFORMED?",
+      "HAS LABORATORY TESTING BEEN PERFORMED?",
+      "ARE THERE ANY OTHER SIGNIFICANT DIAGNOSTIC TEST FINDINGS AND/OR RESULTS?",
+      "If \"Yes,\" indicate type of test or procedure, date and results (brief summary):",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 13B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 13D. Date Signed:",
+      "Examiner's phone/fax numbers: 13F. National Provider Identifier (NPI) number: 13G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "(If checked, indicate frequency of Addisonian crises in past 12 months)",
+      "ADDISONIAN \"EPISODES\"",
+      "(If checked, indicate frequency of Addisonian \"episodes\" in past 12 months)"
+    ],
+    "severity_prompts": [
+      "MUSCULOSKELETAL SYMPTOMS, (complete appropriate musculoskeletal DBQ)",
+      "RESPIRATORY SYMPTOMS, (complete appropriate respiratory DBQ)",
+      "CARDIOVASCULAR SYMPTOMS, (complete appropriate cardiovascular DBQ)",
+      "GASTROINTESTINAL SYMPTOMS, (complete appropriate gastrointestinal DBQ)",
+      "GENITOURINARY SYMPTOMS, (complete appropriate genitourinary DBQ)",
+      "REPRODUCTIVE SYMPTOMS, (complete appropriate gynecological or male reproductive organ DBQ)",
+      "SKIN SYMPTOMS, (complete appropriate dermatological DBQ)",
+      "EYE INVOLVEMENT, (complete appropriate ophthalmological DBQ)",
+      "NEUROLOGICAL SYMPTOMS, (complete appropriate neurological DBQ)",
+      "MENTAL AND PSYCHOLOGICAL SYMPTOMS, (complete appropriate psychological DBQ)",
+      "DENTAL AND ORAL CONDITIONS, (complete appropriate dental and oral DBQ)",
+      "PERSISTENT POLYURIA",
+      "ADDISONIAN CRISIS (acute adrenal insufficiency)",
+      "NOTE: An Addisonian crisis consists of the rapid onset of peripheral vascular collapse (with acute hypotension and shock), with findings that may include anorexia;",
+      "For VA purposes, an Addisonian \"episode\" is a less acute and less severe event than an Addisonian crisis and may consist of anorexia, nausea, vomiting, diarrhea,",
+      "(If \"Yes,\" also complete appropriate dermatological DBQ)",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [
+      "ADDISONIAN \"EPISODES\"",
+      "(If checked, indicate frequency of Addisonian \"episodes\" in past 12 months)",
+      "For VA purposes, an Addisonian \"episode\" is a less acute and less severe event than an Addisonian crisis and may consist of anorexia, nausea, vomiting, diarrhea,"
+    ],
+    "functional_impact_prompts": []
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "SELECT THE VETERAN'S CONDITION (Check all that apply):",
+        "IF THERE ARE ADDITIONAL DIAGNOSES THAT PERTAIN TO ENDOCRINE CONDITION(S), LIST USING ABOVE FORMAT:",
+        "PLEASE SELECT THE BODY SYSTEMS AFFECTED BY THE DIAGNOSES LISTED IN SECTION 1B.",
+        "MUSCULOSKELETAL SYMPTOMS, (complete appropriate musculoskeletal DBQ)",
+        "RESPIRATORY SYMPTOMS, (complete appropriate respiratory DBQ)",
+        "CARDIOVASCULAR SYMPTOMS, (complete appropriate cardiovascular DBQ)",
+        "GASTROINTESTINAL SYMPTOMS, (complete appropriate gastrointestinal DBQ)",
+        "GENITOURINARY SYMPTOMS, (complete appropriate genitourinary DBQ)",
+        "REPRODUCTIVE SYMPTOMS, (complete appropriate gynecological or male reproductive organ DBQ)",
+        "SKIN SYMPTOMS, (complete appropriate dermatological DBQ)",
+        "EYE INVOLVEMENT, (complete appropriate ophthalmological DBQ)",
+        "NEUROLOGICAL SYMPTOMS, (complete appropriate neurological DBQ)",
+        "MENTAL AND PSYCHOLOGICAL SYMPTOMS, (complete appropriate psychological DBQ)",
+        "DENTAL AND ORAL CONDITIONS, (complete appropriate dental and oral DBQ)"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "DESCRIBE THE HISTORY (including onset and course) OF THE VETERAN'S ENDOCRINE CONDITION (brief summary):",
+        "IS CONTINUOUS MEDICATION REQUIRED FOR CONTROL OF AN ENDOCRINE CONDITION?",
+        "HAS THE VETERAN HAD SURGERY FOR AN ENDOCRINE CONDITION?",
+        "HAS THE VETERAN HAD ANY OTHER TYPE OF TREATMENT FOR AN ENDOCRINE CONDITION?"
+      ]
+    },
+    {
+      "title": "SECTION III - CUSHING'S SYNDROME",
+      "items": [
+        "CUSHING'S SYNDROME",
+        "Has it been more than 6 months since the initial diagnosis?",
+        "Areas of osteoporosis",
+        "Proximal upper extremity muscle wasting that results in inability to climb stairs",
+        "Proximal lower extremity muscle wasting that results in inability to climb stairs"
+      ]
+    },
+    {
+      "title": "SECTION IV - ACROMEGALY",
+      "items": [
+        "EVIDENCE OF INCREASED INTRACRANIAL PRESSURE (such as visual field defect)"
+      ]
+    },
+    {
+      "title": "SECTION V - DIABETES INSIPIDUS",
+      "items": [
+        "PERSISTENT POLYURIA",
+        "OTHER, DESCRIBE:"
+      ]
+    },
+    {
+      "title": "SECTION VI - ADDISON'S DISEASE (ADRENOCORTICAL INSUFFICIENCY)",
+      "items": [
+        "WEAKNESS AND FATIGABILITY",
+        "ADDISONIAN CRISIS (acute adrenal insufficiency)",
+        "(If checked, indicate frequency of Addisonian crises in past 12 months)",
+        "ADDISONIAN \"EPISODES\"",
+        "(If checked, indicate frequency of Addisonian \"episodes\" in past 12 months)",
+        "FOR ALL CHECKED CONDITIONS, DESCRIBE:",
+        "NOTE: An Addisonian crisis consists of the rapid onset of peripheral vascular collapse (with acute hypotension and shock), with findings that may include anorexia;",
+        "nausea; vomiting; dehydration; profound weakness; pain in the abdomen; legs and back; fever; apathy and depressed mentation with possible progression to coma,",
+        "For VA purposes, an Addisonian \"episode\" is a less acute and less severe event than an Addisonian crisis and may consist of anorexia, nausea, vomiting, diarrhea,",
+        "dehydration, weakness, malaise, orthostatic hypotension or hypoglycemia, but not peripheral vascular collapse."
+      ]
+    },
+    {
+      "title": "SECTION VII - OTHER ENDOCRINE CONDITIONS",
+      "items": []
+    },
+    {
+      "title": "SECTION VIII - TUMORS AND NEOPLASMS",
+      "items": [
+        "Is the neoplasm:",
+        "If checked, describe:",
+        "If checked, describe procedure:",
+        "If checked, describe treatment:",
+        "If there are additional benign or malignant neoplasms or metastases related to any of the diagnoses in the diagnosis section, describe using the above format:"
+      ]
+    },
+    {
+      "title": "SECTION IX - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, AND SYMPTOMS",
+      "items": [
+        "(If \"Yes,\" also complete appropriate dermatological DBQ)",
+        "COMMENTS, IF ANY:"
+      ]
+    },
+    {
+      "title": "SECTION X - DIAGNOSTIC TESTING",
+      "items": [
+        "NOTE: If diagnostic test results are in the medical record and reflect the veteran's current endocrine condition, repeat testing is not required.",
+        "HAVE IMAGING STUDIES BEEN PERFORMED?",
+        "HAS LABORATORY TESTING BEEN PERFORMED?",
+        "ARE THERE ANY OTHER SIGNIFICANT DIAGNOSTIC TEST FINDINGS AND/OR RESULTS?",
+        "If \"Yes,\" indicate type of test or procedure, date and results (brief summary):"
+      ]
+    },
+    {
+      "title": "SECTION XI - FUNCTIONAL IMPACT",
+      "items": []
+    },
+    {
+      "title": "SECTION XII - REMARKS",
+      "items": [
+        "REMARKS, if any:"
+      ]
+    },
+    {
+      "title": "SECTION XIII - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 13B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 13D. Date Signed:",
+        "Examiner's phone/fax numbers: 13F. National Provider Identifier (NPI) number: 13G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "endocrine",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or when levels are not controlled",
+      "duration": "hours to all day depending on symptoms",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "several times per month",
+      "triggers": "missed meals, activity, stress, illness, heat/cold, medication timing, or hormone/blood sugar changes",
+      "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+      "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+      "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Endocrine (Other than Thyroid, Parathyroid or Diabetes Mellitus)",
+      "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+      "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+      "mainSymptoms": "fatigue, weight change, heat/cold intolerance, weakness, mood changes, blood sugar symptoms, or medication side effects if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current endocrine/nutritional diagnosis, onset, treatment, medication, monitoring/labs, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; medication, monitoring/labs, diet changes, specialist care, supplements if prescribed, and follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "missed meals, activity, stress, illness, heat/cold, medication timing, or hormone/blood sugar changes",
+          "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+          "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Endocrine (Other than Thyroid, Parathyroid or Diabetes Mellitus)",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "fatigue, weight change, heat/cold intolerance, weakness, mood changes, blood sugar symptoms, or medication side effects if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "fatigue, weakness, weight/appetite changes, monitoring needs, medication timing, diet restrictions, complications, and work/daily impact",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms or monitoring needs are {{frequency}} and can last {{duration}} when levels, meals, medication timing, or stress are off.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "missed meals, activity, stress, illness, heat/cold, medication timing, or hormone/blood sugar changes",
+          "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+          "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Endocrine (Other than Thyroid, Parathyroid or Diabetes Mellitus)",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "fatigue, weight change, heat/cold intolerance, weakness, mood changes, blood sugar symptoms, or medication side effects if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms or monitoring needs are {{frequency}} and can last {{duration}} when levels, meals, medication timing, or stress are off."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "fatigue, weakness, weight/appetite changes, monitoring needs, medication timing, diet restrictions, complications, and work/daily impact",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, fatigue, weakness, blood sugar/hormone symptoms, or medication side effects worsen and I use {{flareCare}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or when levels are not controlled",
+          "duration": "hours to all day depending on symptoms",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "missed meals, activity, stress, illness, heat/cold, medication timing, or hormone/blood sugar changes",
+          "limitation": "energy, concentration, stamina, appointments, medication timing, diet planning, and work reliability",
+          "treatment": "prescribed medication, monitoring/labs, diet changes, specialist follow-up, and lifestyle adjustments",
+          "flareCare": "rest, checking levels if directed, medication as prescribed, food/hydration planning, and contacting care team if needed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Endocrine (Other than Thyroid, Parathyroid or Diabetes Mellitus)",
+          "workImpact": "I have to plan meals/medications, manage fatigue, attend monitoring visits, and take breaks when symptoms interfere.",
+          "dailyImpact": "Energy, meals, exercise, sleep, errands, and appointments require planning around symptoms and treatment.",
+          "mainSymptoms": "fatigue, weight change, heat/cold intolerance, weakness, mood changes, blood sugar symptoms, or medication side effects if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: fatigue, monitoring, medication timing, meals, appointments, or complications require planning and can reduce pace or reliability."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, fatigue, weakness, blood sugar/hormone symptoms, or medication side effects worsen and I use {{flareCare}}."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

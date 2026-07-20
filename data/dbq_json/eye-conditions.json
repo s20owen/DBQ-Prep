@@ -1,0 +1,510 @@
+{
+  "id": "eye-conditions",
+  "document_type": "Public VA DBQ",
+  "title": "Eye Conditions",
+  "category": "Ophthalmological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Eye_Conditions.pdf",
+    "local_pdf": "sources/dbq_pdfs/eye-conditions.pdf",
+    "page_count": 14,
+    "verified_on": "2026-07-20",
+    "updated_on": "2025-10-01",
+    "version": "v25_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "NOTE: The diagnosis section should be filled out AFTER the clinician has completed the examination.",
+      "If there are additional or prior diagnoses that pertain to eye conditions, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including onset and course) of the Veteran's current eye condition(s) (Brief summary):"
+    ],
+    "symptoms_signs_findings": [
+      "If \"Yes,\" complete appropriate dermatological DBQ",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 9B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 9D. Date signed:",
+      "Examiner's phone/fax numbers: 9F. National Provider Identifier (NPI) number: 9G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "d. Indicate frequency of the diplopia: Constant Occasional",
+      "If occasional, indicate frequency of diplopia and most recent occurrence:",
+      "NOTE: For the purposes of evaluation under 38 CFR 4.79, an incapacitating episode is an eye condition serious enough to require a clinic visit to a provider",
+      "During the past 12 months, has the Veteran had any incapacitating episodes attributable to an eye condition?",
+      "If \"Yes,\" specify the eye condition(s) causing incapacitating episodes:",
+      "Indicate the type of intervention that occurred during the incapacitating episode (Check all that apply):"
+    ],
+    "severity_prompts": [
+      "downward, left lateral, and right lateral) and the central fields (20 degrees or less).",
+      "Central 20 degrees 21 to 30 degrees",
+      "31 to 40 degrees",
+      "Greater than 40 degrees",
+      "d. Indicate frequency of the diplopia: Constant Occasional",
+      "If occasional, indicate frequency of diplopia and most recent occurrence:",
+      "meridians 22½-degrees apart for each eye. If additional testing is necessary to evaluate visual fields, it must be conducted using either a tangent screen or a 30-",
+      "Meridian Normal Degrees Right Eye (OD) Actual",
+      "Degrees (Cannot exceed",
+      "the normal degrees)",
+      "Complete loss of eyebrows Right Left Both",
+      "Complete loss of eyelashes Right Left Both",
+      "Partial or complete loss of eyelid Right Left Both",
+      "Chronic conjunctivitis (non trachomatous)",
+      "If \"Yes,\" complete appropriate dermatological DBQ",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [
+      "NOTE: For the purposes of evaluation under 38 CFR 4.79, an incapacitating episode is an eye condition serious enough to require a clinic visit to a provider",
+      "During the past 12 months, has the Veteran had any incapacitating episodes attributable to an eye condition?",
+      "If \"Yes,\" specify the eye condition(s) causing incapacitating episodes:",
+      "Indicate the type of intervention that occurred during the incapacitating episode (Check all that apply):"
+    ],
+    "functional_impact_prompts": [
+      "If \"Yes,\" describe the impact of each of the Veteran's eye condition(s), providing one or more examples:"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION 1 - DIAGNOSIS",
+      "items": [
+        "NOTE: The diagnosis section should be filled out AFTER the clinician has completed the examination.",
+        "If there are additional or prior diagnoses that pertain to eye conditions, list using above format:"
+      ]
+    },
+    {
+      "title": "SECTION 2 - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including onset and course) of the Veteran's current eye condition(s) (Brief summary):"
+      ]
+    },
+    {
+      "title": "SECTION 3 - PHYSICAL EXAMINATION",
+      "items": [
+        "VISUAL ACUITY",
+        "reported as 20/100. etc.). Examination of visual acuity must include central uncorrected and corrected visual acuity for distance and near vision. Evaluate visual",
+        "a. Uncorrected distance:",
+        "b. Corrected distance:",
+        "c. Uncorrected Near (Reading):",
+        "d. Corrected Near (Reading):",
+        "DIFFERENCE IN CORRECTED VISUAL ACUITY FOR DISTANCE AND NEAR VISION",
+        "b. Provide a second recording of corrected distance and near vision",
+        "c. Explain reason for the difference between distance and near corrected vision",
+        "d. Does the lens required to correct distance vision in the poorer eye differ by more than 3 diopters from the lens required to correct distance vision in the better eye?",
+        "If \"Yes,\" explain reason for the difference:",
+        "a. Pupil diameter: Right: mm Left: mm",
+        "b. Pupils are round and reactive to light? Yes No",
+        "c. Is an afferent pupillary defect present? Yes No",
+        "If \"Yes,\" indicate affected eye: Right Left Both",
+        "d. Other Describe:",
+        "ANATOMICAL LOSS, NO LIGHT PERCEPTION, LIGHT PERCEPTION ONLY, EXTREMELY POOR VISION OR BLINDNESS",
+        "If \"No,\" provide reason:",
+        "If \"Yes\", indicate in which eye(s) the Veteran's vision has no light perception Right Left Both",
+        "If \"Yes,\" indicate for which eye(s) the Veteran's vision is limited to no more than light perception Right Left Both",
+        "If \"No,\" indicate with which eye(s) the Veteran is unable to recognize test letters at 1 foot or closer Right Left Both",
+        "If \"No,\" indicate with which eye(s) the Veteran is unable to perceive objects, hand movements, or count fingers at 3 feet: Right Left Both",
+        "acuity loss (i.e. USA statutory blindness with bilateral visual acuity of 20/200 or less)?",
+        "If \"Yes,\" does using contact lenses result in more visual improvement than using the standard spectacle correction? Yes No",
+        "c. Was the corrected visual acuity determined using contact lenses? Yes No",
+        "If \"No,\" explain:",
+        "b. Provide etiology (such as traumatic injury, thyroid eye disease, myasthenia gravis, etc.):",
+        "NOTE: For VA purposes, examiners must use either a Goldmann perimeter chart or the Tangent Screen method identifying the four major quadrants (upward,",
+        "downward, left lateral, and right lateral) and the central fields (20 degrees or less).",
+        "c. Indicate the areas where diplopia is present (the fields in which the Veteran sees double using binocular vision):",
+        "Central 20 degrees 21 to 30 degrees",
+        "31 to 40 degrees",
+        "Greater than 40 degrees",
+        "d. Indicate frequency of the diplopia: Constant Occasional",
+        "If occasional, indicate frequency of diplopia and most recent occurrence:",
+        "e. Is the diplopia correctable with standard spectacle correction? Yes No",
+        "If \"No,\" is the diplopia correctable with standard spectacle correction that includes a special prismatic correction? Yes No",
+        "a. If tonometry was performed, provide results:",
+        "Right eye pressure: Left eye pressure:",
+        "b. Tonometry method used:",
+        "SLIT LAMP AND EXTERNAL EYE EXAM",
+        "a. Slit Lamp:",
+        "b. External exam/lids/lashes:",
+        "c. Conjunctiva/sclera:",
+        "e. Anterior chamber:",
+        "INTERNAL EYE EXAM (FUNDUS)",
+        "b. Optic disc:",
+        "f. Periphery",
+        "VISUAL FIELDS",
+        "NOTE: For VA purposes, examiners must perform visual field testing using either Goldmann kinetic perimetry or automated perimetry using Humphrey Model 750,",
+        "meridians 22½-degrees apart for each eye. If additional testing is necessary to evaluate visual fields, it must be conducted using either a tangent screen or a 30-",
+        "b. Was visual field testing performed? Yes No",
+        "Meridian Normal Degrees Right Eye (OD) Actual",
+        "Degrees (Cannot exceed",
+        "the normal degrees)",
+        "Loss of temporal half of visual field Right Left Both",
+        "Loss of nasal half of visual field Right Left Both",
+        "Loss of inferior half of visual field Right Left Both",
+        "Loss of superior half of visual field Right Left Both"
+      ]
+    },
+    {
+      "title": "SECTION 4 - EYE CONDITIONS",
+      "items": [
+        "EXTERNAL EYE CONDITION, INCLUDING THE EYELASH, EYELID, AND EYEBROW",
+        "a. Indicate the Veteran's condition and side affected (check all that apply):",
+        "Complete loss of eyebrows Right Left Both",
+        "Complete loss of eyelashes Right Left Both",
+        "Partial or complete loss of eyelid Right Left Both",
+        "If \"Yes,\" specify the external eye condition(s) responsible for visual impairment",
+        "If \"No,\" explain:",
+        "LACRIMAL SYSTEM CONDITIONS, including Dry Eye Syndrome",
+        "If \"Yes,\" specify condition and side affected: Right Left Both",
+        "If \"Yes,\" specify the lacrimal system condition(s) responsible for visual impairment:",
+        "d. Indicate the eye affected by dry eye syndrome: Right Left Both",
+        "e. Date dry eye syndrome began:",
+        "f. Has the Veteran ever had elective procedures, such as laser eye surgery (e.g. LASIK)? Yes No",
+        "If \"Yes,\" specify which eye, procedure, and date: Right Left Both",
+        "g. Indicate the types of treatment used to treat dry eye syndrome:",
+        "If \"Yes,\" specify the dry eye syndrome condition(s) responsible for visual impairment:",
+        "CORNEA/CONJUNCTIVA CONDITIONS",
+        "a. Indicate the Veteran's condition and side affected:",
+        "Indicate if it is active or inactive for each eye Right Active Inactive",
+        "Chronic conjunctivitis (non trachomatous)",
+        "If \"Yes,\" specify corneal condition(s) responsible for visual impairment:",
+        "c. If the Veteran had a corneal transplant, please indicate the current residual(s).",
+        "Check all that apply:",
+        "Pain Right Left Both",
+        "a. Specify the type of glaucoma:",
+        "b. Does the glaucoma require continuous medication for treatment? Yes No",
+        "If \"Yes,\" list medication(s) used for treatment of glaucoma:",
+        "UVEAL TRACT CONDITIONS",
+        "a. Indicate the Veteran's condition and eye affected:",
+        "If \"Yes,\" specify uveal tract condition(s) responsible for visual impairment:",
+        "LENS CONDITIONS, INCLUDING CATARACTS",
+        "a. Indicate cataract condition:",
+        "Is there a replacement intraocular lens? (pseudophakia) Yes No If \"Yes,\" indicate eye Right Left Both",
+        "b. Is there aphakia or dislocation of the crystalline lens? Yes No",
+        "If \"Yes,\" indicate eye: Right Left Both",
+        "If \"Yes,\" specify condition in this section responsible for visual impairment:",
+        "RETINA, MACULA, OR VITREOUS CONDITIONS",
+        "a. Indicate retina, macula, or vitreous condition and eye affected:",
+        "Localized retinal scars, atrophy, or irregularities, that are centrally located and result in an",
+        "If \"Yes,\" specify the retina, macula, or vitreous condition(s) responsible for visual impairment:",
+        "NEURO-OPHTHALMIC CONDITIONS",
+        "If there is a post-chiasmal disorder, indicate the underlying cause:",
+        "If \"Yes,\" is it central? Yes No",
+        "If \"Yes,\" specify the neuro-ophthalmic condition(s) responsible for visual impairment:",
+        "OCULAR NEOPLASMS",
+        "If \"Yes,\" specify the neoplasm condition responsible for visual impairment:",
+        "c. Is the neoplasm active or in remission?",
+        "If \"Yes,\" indicate type of treatment the Veteran is currently undergoing or has completed (check all that",
+        "Radiation therapy (to include, but not limited to x-ray therapy more extensive than to the area of the eye)",
+        "If \"Yes,\" list residual conditions and complication (brief summary):",
+        "TRAUMA / HEMORRHAGE",
+        "If \"Yes,\" specify the hemorrhage or trauma condition responsible for visual impairment:",
+        "OTHER EYE CONDITION(S) NOT COVERED BY ITEMS 2 THROUGH 11",
+        "If \"Yes,\" describe:",
+        "If \"Yes,\" specify the condition(s) responsible for visual impairment:"
+      ]
+    },
+    {
+      "title": "SECTION 5 - SCARRING AND DISFIGUREMENT",
+      "items": [
+        "If \"Yes,\" complete appropriate dermatological DBQ"
+      ]
+    },
+    {
+      "title": "SECTION 6 - INCAPACITATING EPISODES",
+      "items": [
+        "NOTE: For the purposes of evaluation under 38 CFR 4.79, an incapacitating episode is an eye condition serious enough to require a clinic visit to a provider",
+        "specifically for treatment purposes. Examples of treatment may include but are not limited to: Systematic immunosuppressants or biologic agents; intravitreal or",
+        "During the past 12 months, has the Veteran had any incapacitating episodes attributable to an eye condition?",
+        "If \"Yes,\" specify the eye condition(s) causing incapacitating episodes:",
+        "Indicate the number of DOCUMENTED medical visits for treatment of an eye condition over the past 12 months:",
+        "Indicate the type of intervention that occurred during the incapacitating episode (Check all that apply):"
+      ]
+    },
+    {
+      "title": "SECTION 7 - FUNCTIONAL IMPACT",
+      "items": [
+        "If \"Yes,\" describe the impact of each of the Veteran's eye condition(s), providing one or more examples:"
+      ]
+    },
+    {
+      "title": "SECTION 8 - REMARKS",
+      "items": [
+        "Remarks (if any – please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION 9 - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 9B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 9D. Date signed:",
+        "Examiner's phone/fax numbers: 9F. National Provider Identifier (NPI) number: 9G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "general",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily",
+      "duration": "several hours at a time",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "activity, stress, or repeated use",
+      "limitation": "work reliability, chores, driving, sleep, and daily activities",
+      "treatment": "medication, rest, and medical follow-up",
+      "flareCare": "rest, medication, pacing, and avoiding triggers",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Eye Conditions",
+      "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+      "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+      "mainSymptoms": "symptoms that are true for me",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current diagnosis or claimed condition, onset, course, treatment history, medications, testing, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; treatment records, medications, tests, imaging/labs, specialist care, therapy, devices, and supporting evidence",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "several hours at a time",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "activity, stress, or repeated use",
+          "limitation": "work reliability, chores, driving, sleep, and daily activities",
+          "treatment": "medication, rest, and medical follow-up",
+          "flareCare": "rest, medication, pacing, and avoiding triggers",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Eye Conditions",
+          "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+          "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+          "mainSymptoms": "symptoms that are true for me",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "frequency, duration, severity, flare-ups, treatment, work impact, and daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms happen {{frequency}}, last {{duration}}, and worsen with {{triggers}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "several hours at a time",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "activity, stress, or repeated use",
+          "limitation": "work reliability, chores, driving, sleep, and daily activities",
+          "treatment": "medication, rest, and medical follow-up",
+          "flareCare": "rest, medication, pacing, and avoiding triggers",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Eye Conditions",
+          "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+          "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+          "mainSymptoms": "symptoms that are true for me",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms happen {{frequency}}, last {{duration}}, and worsen with {{triggers}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "frequency, duration, severity, flare-ups, treatment, work impact, and daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, symptoms worsen to {{worstPain}}, I reduce activity, use {{flareCare}}, and may need help or time to recover.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "several hours at a time",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "activity, stress, or repeated use",
+          "limitation": "work reliability, chores, driving, sleep, and daily activities",
+          "treatment": "medication, rest, and medical follow-up",
+          "flareCare": "rest, medication, pacing, and avoiding triggers",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Eye Conditions",
+          "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+          "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+          "mainSymptoms": "symptoms that are true for me",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: symptoms affect reliability, pace, attendance, safety, or task completion, and I need breaks or modifications."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, symptoms worsen to {{worstPain}}, I reduce activity, use {{flareCare}}, and may need help or time to recover."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,472 @@
+{
+  "id": "cranial-nerve-conditions",
+  "document_type": "Public VA DBQ",
+  "title": "Cranial Nerve Conditions",
+  "category": "Neurological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Cranial_Nerve_Conditions.pdf",
+    "local_pdf": "sources/dbq_pdfs/cranial-nerve-conditions.pdf",
+    "page_count": 8,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-09-19",
+    "version": "v24_2"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "If there are additional diagnoses that pertain to cranial nerves, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including etiology, onset and course) of the Veteran's cranial nerve condition (brief summary):",
+      "Cranial Nerve I (olfactory) (If checked, complete the Loss of Sense of Smell and Taste DBQ)",
+      "Cranial Nerves II - IV, VI (If checked, complete the Eye Conditions DBQ)",
+      "Cranial Nerve VIII (If checked, complete the Hearing Loss and Tinnitus DBQ)"
+    ],
+    "symptoms_signs_findings": [
+      "A. Constant pain, at times excruciating (if checked, indicate location and severity):",
+      "Right: Mild Moderate Severe",
+      "Left Mild Moderate Severe",
+      "B. Intermittent pain (if checked indicate severity):",
+      "C. Dull pain (if checked, indicate location and severity):",
+      "D. Paresthesias and/or dysesthesias (if checked, indicate location and severity):",
+      "E. Numbness (if checked, indicate location and severity):",
+      "F. Difficulty chewing (If checked, indicate severity): Mild Moderate Severe",
+      "G. Difficulty swallowing (If checked, indicate severity): Mild Moderate Severe",
+      "H. Difficulty speaking (If checked, indicate severity): Mild Moderate Severe",
+      "I. Increased salvation (If checked, indicate severity): Mild Moderate Severe",
+      "J. Decreased salvation (If checked, indicate severity): Mild Moderate Severe",
+      "K. Gastrointestinal symptoms (If checked, indicate severity): Mild Moderate Severe",
+      "L. Other symptoms (If checked, indicate severity): Mild Moderate Severe",
+      "Muscle strength testing (Rate strength using the following levels to estimate strength of muscle groups. This summary provides useful information for VA purposes)",
+      "A. Cranial nerve V: (Motor: muscles of mastication; clench jaw, palpate masseter, temporalis)",
+      "Right: Normal Mild Moderate Severe Complete paralysis",
+      "Left: Normal Mild Moderate Severe Complete paralysis",
+      "B. Cranial nerve VII, upper portion of face: (Motor: muscles of facial expression, shuts eyes tightly)",
+      "C. Cranial nerve VII, lower portion of face: (Motor: muscles of facial expression; grins)",
+      "D. Cranial nerve IX, X: (Motor: swallow, cough, palate elevation; \"say ah\", gag reflex if indicated)",
+      "E. Cranial nerve XI: (Motor: trapezius, sternocleidomastoid; shoulder shrug, turn head against resistance)",
+      "F. Cranial nerve XII: (Motor: protrude tongue, move tongue from side to side)",
+      "Comments, if any:",
+      "Have clinically relevant diagnostic imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+      "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in conjunction",
+      "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 11B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 11D. Date Signed:",
+      "Examiner's phone/fax numbers: 11F. National Provider Identifier (NPI) number: 11G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "A. Constant pain, at times excruciating (if checked, indicate location and severity):",
+      "B. Intermittent pain (if checked indicate severity):"
+    ],
+    "severity_prompts": [
+      "Cranial Nerve I (olfactory) (If checked, complete the Loss of Sense of Smell and Taste DBQ)",
+      "Cranial Nerves II - IV, VI (If checked, complete the Eye Conditions DBQ)",
+      "Cranial Nerve VIII (If checked, complete the Hearing Loss and Tinnitus DBQ)",
+      "A. Constant pain, at times excruciating (if checked, indicate location and severity):",
+      "Right: Mild Moderate Severe",
+      "Left Mild Moderate Severe",
+      "B. Intermittent pain (if checked indicate severity):",
+      "C. Dull pain (if checked, indicate location and severity):",
+      "D. Paresthesias and/or dysesthesias (if checked, indicate location and severity):",
+      "E. Numbness (if checked, indicate location and severity):",
+      "F. Difficulty chewing (If checked, indicate severity): Mild Moderate Severe",
+      "G. Difficulty swallowing (If checked, indicate severity): Mild Moderate Severe",
+      "H. Difficulty speaking (If checked, indicate severity): Mild Moderate Severe",
+      "I. Increased salvation (If checked, indicate severity): Mild Moderate Severe",
+      "J. Decreased salvation (If checked, indicate severity): Mild Moderate Severe",
+      "K. Gastrointestinal symptoms (If checked, indicate severity): Mild Moderate Severe",
+      "L. Other symptoms (If checked, indicate severity): Mild Moderate Severe",
+      "Right: Normal Mild Moderate Severe Complete paralysis",
+      "Left: Normal Mild Moderate Severe Complete paralysis",
+      "Indicate the cranial nerve(s) affected. For each nerve, indicate severity (\"degree of paralysis\"), basing the responses on symptoms and findings from the above",
+      "exam. This section provides an estimation of the severity of the Veteran's cranial nerve condition, which is useful for VA purposes.",
+      "NOTE: For VA purposes, the term \"incomplete paralysis\" indicates a degree of lost or impaired function substantially less than the description of",
+      "complete paralysis that is given below with each nerve, whether due to a varied level of the nerve lesion or to partial regeneration.",
+      "Right: Not affected Incomplete,",
+      "Incomplete, severe Complete",
+      "Left: Not affected Incomplete,",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": [
+      "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+      "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of occupational",
+      "task (such as standing, walking, lifting, sitting, etc.)?"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "NOTE: Disabilities from conditions involving cranial nerves I, II, III, IV, VI, and VII are addressed in other questionnaires, including Eye, Hearing Loss and Tinnitus,",
+        "and Loss of Smell and Taste; if those cranial nerves are involved, the appropriate questionnaire(s) should be completed in addition or lieu of this Questionnaire.",
+        "If there are additional diagnoses that pertain to cranial nerves, list using above format:"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including etiology, onset and course) of the Veteran's cranial nerve condition (brief summary):",
+        "Cranial Nerve I (olfactory) (If checked, complete the Loss of Sense of Smell and Taste DBQ)",
+        "Cranial Nerves II - IV, VI (If checked, complete the Eye Conditions DBQ)",
+        "Cranial Nerve VIII (If checked, complete the Hearing Loss and Tinnitus DBQ)"
+      ]
+    },
+    {
+      "title": "SECTION III - FINDINGS, SIGNS AND SYMPTOMS",
+      "items": [
+        "A. Constant pain, at times excruciating (if checked, indicate location and severity):",
+        "Right: Mild Moderate Severe",
+        "Left Mild Moderate Severe",
+        "B. Intermittent pain (if checked indicate severity):",
+        "C. Dull pain (if checked, indicate location and severity):",
+        "D. Paresthesias and/or dysesthesias (if checked, indicate location and severity):",
+        "E. Numbness (if checked, indicate location and severity):",
+        "F. Difficulty chewing (If checked, indicate severity): Mild Moderate Severe",
+        "G. Difficulty swallowing (If checked, indicate severity): Mild Moderate Severe",
+        "H. Difficulty speaking (If checked, indicate severity): Mild Moderate Severe",
+        "I. Increased salvation (If checked, indicate severity): Mild Moderate Severe",
+        "J. Decreased salvation (If checked, indicate severity): Mild Moderate Severe",
+        "K. Gastrointestinal symptoms (If checked, indicate severity): Mild Moderate Severe",
+        "L. Other symptoms (If checked, indicate severity): Mild Moderate Severe"
+      ]
+    },
+    {
+      "title": "SECTION IV - MUSCLE STRENGTH TESTING",
+      "items": [
+        "Muscle strength testing (Rate strength using the following levels to estimate strength of muscle groups. This summary provides useful information for VA purposes)",
+        "A. Cranial nerve V: (Motor: muscles of mastication; clench jaw, palpate masseter, temporalis)",
+        "Right: Normal Mild Moderate Severe Complete paralysis",
+        "Left: Normal Mild Moderate Severe Complete paralysis",
+        "B. Cranial nerve VII, upper portion of face: (Motor: muscles of facial expression, shuts eyes tightly)",
+        "C. Cranial nerve VII, lower portion of face: (Motor: muscles of facial expression; grins)",
+        "D. Cranial nerve IX, X: (Motor: swallow, cough, palate elevation; \"say ah\", gag reflex if indicated)",
+        "E. Cranial nerve XI: (Motor: trapezius, sternocleidomastoid; shoulder shrug, turn head against resistance)",
+        "F. Cranial nerve XII: (Motor: protrude tongue, move tongue from side to side)"
+      ]
+    },
+    {
+      "title": "SECTION V - SENSORY EXAM",
+      "items": [
+        "Provide results for sensation testing to light touch for facial sensation:"
+      ]
+    },
+    {
+      "title": "SECTION VI - CRANIAL NERVE SUMMARY EVALUATION",
+      "items": [
+        "Indicate the cranial nerve(s) affected. For each nerve, indicate severity (\"degree of paralysis\"), basing the responses on symptoms and findings from the above",
+        "exam. This section provides an estimation of the severity of the Veteran's cranial nerve condition, which is useful for VA purposes.",
+        "NOTE: For VA purposes, the term \"incomplete paralysis\" indicates a degree of lost or impaired function substantially less than the description of",
+        "complete paralysis that is given below with each nerve, whether due to a varied level of the nerve lesion or to partial regeneration.",
+        "Right: Not affected Incomplete,",
+        "Incomplete, severe Complete",
+        "Left: Not affected Incomplete,"
+      ]
+    },
+    {
+      "title": "SECTION VII - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": [
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION VIII - DIAGNOSTIC TESTING",
+      "items": [
+        "Have clinically relevant diagnostic imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+        "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in conjunction",
+        "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:"
+      ]
+    },
+    {
+      "title": "SECTION IX - FUNCTIONAL IMPACT",
+      "items": [
+        "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+        "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of occupational",
+        "task (such as standing, walking, lifting, sitting, etc.)?"
+      ]
+    },
+    {
+      "title": "SECTION X - REMARKS",
+      "items": [
+        "Remarks (if any - please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION XI - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 11B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 11D. Date Signed:",
+        "Examiner's phone/fax numbers: 11F. National Provider Identifier (NPI) number: 11G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "neurological",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or most days",
+      "duration": "hours at a time, with worse episodes lasting the rest of the day",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "chewing, talking, cold air, touch, fatigue, stress, or flare-ups",
+      "limitation": "eating, speaking, facial expression, vision/eye comfort, concentration, and work communication",
+      "treatment": "neurology care, prescribed medication, therapy, assistive devices if prescribed, pacing, and rest",
+      "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Cranial Nerve Conditions",
+      "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+      "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+      "mainSymptoms": "facial pain or numbness, weakness, eye or mouth symptoms, speech/swallowing issues, taste changes, and sensory changes if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current neurological diagnosis/residuals, onset, course, testing, treatment, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; neurology care, medications, therapy, assistive devices, testing, and specialist follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "chewing, talking, cold air, touch, fatigue, stress, or flare-ups",
+          "limitation": "eating, speaking, facial expression, vision/eye comfort, concentration, and work communication",
+          "treatment": "neurology care, prescribed medication, therapy, assistive devices if prescribed, pacing, and rest",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Cranial Nerve Conditions",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "facial pain or numbness, weakness, eye or mouth symptoms, speech/swallowing issues, taste changes, and sensory changes if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "chewing, talking, cold air, touch, fatigue, stress, or flare-ups",
+          "limitation": "eating, speaking, facial expression, vision/eye comfort, concentration, and work communication",
+          "treatment": "neurology care, prescribed medication, therapy, assistive devices if prescribed, pacing, and rest",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Cranial Nerve Conditions",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "facial pain or numbness, weakness, eye or mouth symptoms, speech/swallowing issues, taste changes, and sensory changes if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "chewing, talking, cold air, touch, fatigue, stress, or flare-ups",
+          "limitation": "eating, speaking, facial expression, vision/eye comfort, concentration, and work communication",
+          "treatment": "neurology care, prescribed medication, therapy, assistive devices if prescribed, pacing, and rest",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Cranial Nerve Conditions",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "facial pain or numbness, weakness, eye or mouth symptoms, speech/swallowing issues, taste changes, and sensory changes if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: when symptoms build, I slow down, make more mistakes, avoid unsafe tasks, and need breaks or support with {{limitation}}."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

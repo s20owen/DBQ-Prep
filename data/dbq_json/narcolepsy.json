@@ -1,0 +1,397 @@
+{
+  "id": "narcolepsy",
+  "document_type": "Public VA DBQ",
+  "title": "Narcolepsy",
+  "category": "Neurological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Narcolepsy.pdf",
+    "local_pdf": "sources/dbq_pdfs/narcolepsy.pdf",
+    "page_count": 4,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-07-11",
+    "version": "v24_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "If there are additional diagnoses that pertain to narcolepsy, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history, including onset and course, of the Veteran's narcolepsy. Brief summary:",
+      "Is continuous medication required for control of narcolepsy?"
+    ],
+    "symptoms_signs_findings": [
+      "Excessive daytime sleepiness",
+      "Sleep attacks (strong urge to sleep followed by short nap)",
+      "Cataplexy (sudden loss of muscle tone while awake, resulting in brief inability to move)",
+      "Indicate frequency of cataplectic (narcoleptic) episodes (check all that apply):",
+      "Number of cataplectic (narcoleptic) episodes over past 6 months",
+      "(If 2 or more over the past 6 months, indicate the \"average frequency\" of narcoleptic episodes):",
+      "(If the Veteran has cataplectic (narcoleptic) episodes, describe):",
+      "Has the Veteran ever had major seizures (characterized by the generalized tonic-clonic convulsion with unconsciousness)?",
+      "Average frequency of major seizures:",
+      "Has the Veteran ever had minor seizures (characterized by a brief interruption in consciousness or conscious control associated with staring or rhythmic blinking",
+      "of the eyes or nodding of the head (\"pure\" petit mal) or sudden jerking movements of the arms, trunk or head (myoclonic type) or sudden loss of postural control",
+      "(If 2 or more over the past 6 months, indicate the average frequency of narcoleptic episodes):",
+      "Have clinically relevant diagnostic imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+      "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es) that were reviewed in conjunction",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 8B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 8D. Date Signed:",
+      "Examiner's phone/fax numbers: 8F. National Provider Identifier (NPI) number: 8G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "Sleep attacks (strong urge to sleep followed by short nap)",
+      "Indicate frequency of cataplectic (narcoleptic) episodes (check all that apply):",
+      "Number of cataplectic (narcoleptic) episodes over past 6 months",
+      "(If 2 or more over the past 6 months, indicate the \"average frequency\" of narcoleptic episodes):",
+      "(If the Veteran has cataplectic (narcoleptic) episodes, describe):",
+      "Average frequency of major seizures:",
+      "(If 2 or more over the past 6 months, indicate the average frequency of narcoleptic episodes):"
+    ],
+    "severity_prompts": [
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [
+      "Sleep attacks (strong urge to sleep followed by short nap)",
+      "Indicate frequency of cataplectic (narcoleptic) episodes (check all that apply):",
+      "Number of cataplectic (narcoleptic) episodes over past 6 months",
+      "(If 2 or more over the past 6 months, indicate the \"average frequency\" of narcoleptic episodes):",
+      "(If the Veteran has cataplectic (narcoleptic) episodes, describe):",
+      "(If 2 or more over the past 6 months, indicate the average frequency of narcoleptic episodes):"
+    ],
+    "functional_impact_prompts": [
+      "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of occupational",
+      "task (such as standing, walking, lifting, sitting, etc.)?",
+      "Remarks (if any - please identify the section to which the remark pertains when appropriate)."
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "Note: These are condition(s) for which an evaluation has been requested on the exam request form (Internal VA) or for which the Veteran has requested medical",
+        "If there are additional diagnoses that pertain to narcolepsy, list using above format:"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history, including onset and course, of the Veteran's narcolepsy. Brief summary:",
+        "Is continuous medication required for control of narcolepsy?"
+      ]
+    },
+    {
+      "title": "SECTION III - FINDINGS, SIGNS AND SYMPTOMS",
+      "items": [
+        "Excessive daytime sleepiness",
+        "Sleep attacks (strong urge to sleep followed by short nap)",
+        "Cataplexy (sudden loss of muscle tone while awake, resulting in brief inability to move)",
+        "Indicate frequency of cataplectic (narcoleptic) episodes (check all that apply):",
+        "Number of cataplectic (narcoleptic) episodes over past 6 months",
+        "(If 2 or more over the past 6 months, indicate the \"average frequency\" of narcoleptic episodes):",
+        "(If the Veteran has cataplectic (narcoleptic) episodes, describe):",
+        "Has the Veteran ever had major seizures (characterized by the generalized tonic-clonic convulsion with unconsciousness)?",
+        "Average frequency of major seizures:",
+        "Has the Veteran ever had minor seizures (characterized by a brief interruption in consciousness or conscious control associated with staring or rhythmic blinking",
+        "of the eyes or nodding of the head (\"pure\" petit mal) or sudden jerking movements of the arms, trunk or head (myoclonic type) or sudden loss of postural control",
+        "(If 2 or more over the past 6 months, indicate the average frequency of narcoleptic episodes):"
+      ]
+    },
+    {
+      "title": "SECTION IV - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": []
+    },
+    {
+      "title": "SECTION V - DIAGNOSTIC TESTING",
+      "items": [
+        "Have clinically relevant diagnostic imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+        "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es) that were reviewed in conjunction"
+      ]
+    },
+    {
+      "title": "SECTION VI - FUNCTIONAL IMPACT",
+      "items": [
+        "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of occupational",
+        "task (such as standing, walking, lifting, sitting, etc.)?",
+        "Remarks (if any - please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION VIII - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 8B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 8D. Date Signed:",
+        "Examiner's phone/fax numbers: 8F. National Provider Identifier (NPI) number: 8G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "neurological",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or most days",
+      "duration": "hours at a time, with worse episodes lasting the rest of the day",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "monotony, poor sleep, stress, meals, driving, meetings, or sedentary tasks",
+      "limitation": "driving safety, work reliability, concentration, meetings, school/work tasks, and daily scheduling",
+      "treatment": "sleep medicine care, prescribed medication, scheduled naps, sleep hygiene, and safety planning",
+      "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Narcolepsy",
+      "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+      "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+      "mainSymptoms": "excessive daytime sleepiness, sleep attacks, cataplexy if true, sleep paralysis, hallucinations around sleep, and poor concentration",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current neurological diagnosis/residuals, onset, course, testing, treatment, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; neurology care, medications, therapy, assistive devices, testing, and specialist follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "monotony, poor sleep, stress, meals, driving, meetings, or sedentary tasks",
+          "limitation": "driving safety, work reliability, concentration, meetings, school/work tasks, and daily scheduling",
+          "treatment": "sleep medicine care, prescribed medication, scheduled naps, sleep hygiene, and safety planning",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Narcolepsy",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "excessive daytime sleepiness, sleep attacks, cataplexy if true, sleep paralysis, hallucinations around sleep, and poor concentration",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "monotony, poor sleep, stress, meals, driving, meetings, or sedentary tasks",
+          "limitation": "driving safety, work reliability, concentration, meetings, school/work tasks, and daily scheduling",
+          "treatment": "sleep medicine care, prescribed medication, scheduled naps, sleep hygiene, and safety planning",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Narcolepsy",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "excessive daytime sleepiness, sleep attacks, cataplexy if true, sleep paralysis, hallucinations around sleep, and poor concentration",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms occur {{frequency}}, often worsen with {{triggers}}, and can affect safety or task completion for {{duration}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "weakness, sensory changes, balance/coordination problems, fatigue, cognitive effects, safety concerns, and work/daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or most days",
+          "duration": "hours at a time, with worse episodes lasting the rest of the day",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "monotony, poor sleep, stress, meals, driving, meetings, or sedentary tasks",
+          "limitation": "driving safety, work reliability, concentration, meetings, school/work tasks, and daily scheduling",
+          "treatment": "sleep medicine care, prescribed medication, scheduled naps, sleep hygiene, and safety planning",
+          "flareCare": "rest, cooling, medication, reducing activity, and using support or assistive devices if prescribed",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Narcolepsy",
+          "workImpact": "Symptoms slow my work pace, increase mistakes, create safety concerns, and require breaks or task changes.",
+          "dailyImpact": "I have to pace activities, avoid overexertion, and may need help with driving, chores, or detailed tasks.",
+          "mainSymptoms": "excessive daytime sleepiness, sleep attacks, cataplexy if true, sleep paralysis, hallucinations around sleep, and poor concentration",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: when symptoms build, I slow down, make more mistakes, avoid unsafe tasks, and need breaks or support with {{limitation}}."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, weakness, sensory changes, fatigue, or balance/cognitive symptoms worsen, and I need {{flareCare}} before I can resume normal activity."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

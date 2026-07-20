@@ -1,0 +1,424 @@
+{
+  "id": "amputations",
+  "document_type": "Public VA DBQ",
+  "title": "Amputations",
+  "category": "Musculoskeletal",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/amputations.pdf",
+    "local_pdf": "sources/dbq_pdfs/amputations.pdf",
+    "page_count": 6,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-07-19",
+    "version": "v24_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including etiology and course) of each amputation listed above."
+    ],
+    "symptoms_signs_findings": [
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace(s) Frequency of use: Occasional Regular Constant",
+      "Crutch(es) Frequency of use: Occasional Regular Constant",
+      "Cane(s) Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Other: Frequency of use: Occasional Regular Constant",
+      "If the Veteran uses any assistive devices, specify the condition, indicate the side, and identify the assistive device used for each condition.",
+      "Are there any significant diagnostic test findings and/or results?",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 13B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 13D. Date Signed:",
+      "Examiner's phone/fax numbers: 13F. National Provider Identifier (NPI) number: 13G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace(s) Frequency of use: Occasional Regular Constant",
+      "Crutch(es) Frequency of use: Occasional Regular Constant",
+      "Cane(s) Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Other: Frequency of use: Occasional Regular Constant"
+    ],
+    "severity_prompts": [
+      "For all checked sites, complete the corresponding sections below.",
+      "Forequarter amputation (involving complete removal of the humerus along",
+      "Disarticulation (involving complete removal of the humerus only) Left Right Both",
+      "Disarticulation (involving complete removal of the femur and intrinsic pelvic",
+      "Trans-pelvic amputation (involving complete removal of the femur and",
+      "Wheelchair Frequency of use: Occasional Regular Constant",
+      "Brace(s) Frequency of use: Occasional Regular Constant",
+      "Crutch(es) Frequency of use: Occasional Regular Constant",
+      "Cane(s) Frequency of use: Occasional Regular Constant",
+      "Walker Frequency of use: Occasional Regular Constant",
+      "Other: Frequency of use: Occasional Regular Constant",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": [
+      "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+      "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of",
+      "occupational task (such as standing, walking, lifting, sitting, etc.)?"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "Has the Veteran had any amputations?",
+        "If additional amputation(s) exist, list using above format."
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including etiology and course) of each amputation listed above."
+      ]
+    },
+    {
+      "title": "SECTION III - AMPUTATION(S) SITE(S)",
+      "items": [
+        "Amputation(s) sites(s) (Indicate affected sites):",
+        "For all checked sites, complete the corresponding sections below."
+      ]
+    },
+    {
+      "title": "SECTION IV - UPPER EXTREMITIES (NOT INCLUDING FINGERS)",
+      "items": [
+        "Forequarter amputation (involving complete removal of the humerus along",
+        "Disarticulation (involving complete removal of the humerus only) Left Right Both",
+        "Indicate if the upper extremity amputation site allows the use of a suitable prosthetic appliance.",
+        "Is there an amputation of either forearm?",
+        "Amputation resulting in loss of use of the hand Left Right Both"
+      ]
+    },
+    {
+      "title": "SECTION V - FINGERS",
+      "items": []
+    },
+    {
+      "title": "SECTION VI - LOWER EXTREMITIES (NOT INCLUDING THE TOES)",
+      "items": [
+        "Disarticulation (involving complete removal of the femur and intrinsic pelvic",
+        "Trans-pelvic amputation (involving complete removal of the femur and",
+        "Indicate if the thigh amputation site allows the use of a suitable prosthetic appliance.",
+        "than one-half of metatarsal loss)",
+        "Indicate if the lower leg amputation site allows the use of a suitable prosthetic appliance."
+      ]
+    },
+    {
+      "title": "SECTION VII - TOES",
+      "items": [
+        "Amputation of toes without metatarsal loss or transmetatarsal loss.",
+        "Amputation of toes with up to half metatarsal loss or transmetatarsal loss."
+      ]
+    },
+    {
+      "title": "SECTION VIII - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": [
+        "Wheelchair Frequency of use: Occasional Regular Constant",
+        "Brace(s) Frequency of use: Occasional Regular Constant",
+        "Crutch(es) Frequency of use: Occasional Regular Constant",
+        "Cane(s) Frequency of use: Occasional Regular Constant",
+        "Walker Frequency of use: Occasional Regular Constant",
+        "Other: Frequency of use: Occasional Regular Constant",
+        "If the Veteran uses any assistive devices, specify the condition, indicate the side, and identify the assistive device used for each condition."
+      ]
+    },
+    {
+      "title": "SECTION X - DIAGNOSTIC TESTING",
+      "items": [
+        "Are there any significant diagnostic test findings and/or results?"
+      ]
+    },
+    {
+      "title": "SECTION XI - FUNCTIONAL IMPACT",
+      "items": [
+        "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+        "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of",
+        "occupational task (such as standing, walking, lifting, sitting, etc.)?"
+      ]
+    },
+    {
+      "title": "SECTION XII - REMARKS",
+      "items": [
+        "Remarks (if any - please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION XIII - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 13B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 13D. Date Signed:",
+        "Examiner's phone/fax numbers: 13F. National Provider Identifier (NPI) number: 13G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "musculoskeletal",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily with a constant baseline and worse periods",
+      "duration": "constant baseline pain with flares lasting hours to days",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "prosthetic use, prolonged standing/walking, skin breakdown, uneven ground, heat, and repeated use",
+      "limitation": "prosthetic tolerance, walking, standing, stairs, balance, lifting, driving, and skin care",
+      "treatment": "prosthetic care, therapy, pain medication, stump/skin care, assistive devices, and follow-up care",
+      "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Amputations",
+      "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+      "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+      "mainSymptoms": "stump pain, phantom pain, skin irritation, balance problems, prosthetic fit issues, weakness, and fatigue if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current diagnosis, onset, course, affected joint/body part, treatment history, and whether symptoms are still present; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; medications, physical therapy, braces/supports, imaging, injections/surgery if true, and activity restrictions",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily with a constant baseline and worse periods",
+          "duration": "constant baseline pain with flares lasting hours to days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "prosthetic use, prolonged standing/walking, skin breakdown, uneven ground, heat, and repeated use",
+          "limitation": "prosthetic tolerance, walking, standing, stairs, balance, lifting, driving, and skin care",
+          "treatment": "prosthetic care, therapy, pain medication, stump/skin care, assistive devices, and follow-up care",
+          "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Amputations",
+          "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+          "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+          "mainSymptoms": "stump pain, phantom pain, skin irritation, balance problems, prosthetic fit issues, weakness, and fatigue if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "painful motion, weakness, fatigability, lack of endurance, instability, repeated use over time, flare-ups, and additional functional loss",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, my pain is present daily, gets worse after about {{limitBeforeStopping}} of use, and is aggravated by {{triggers}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily with a constant baseline and worse periods",
+          "duration": "constant baseline pain with flares lasting hours to days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "prosthetic use, prolonged standing/walking, skin breakdown, uneven ground, heat, and repeated use",
+          "limitation": "prosthetic tolerance, walking, standing, stairs, balance, lifting, driving, and skin care",
+          "treatment": "prosthetic care, therapy, pain medication, stump/skin care, assistive devices, and follow-up care",
+          "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Amputations",
+          "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+          "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+          "mainSymptoms": "stump pain, phantom pain, skin irritation, balance problems, prosthetic fit issues, weakness, and fatigue if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, my pain is present daily, gets worse after about {{limitBeforeStopping}} of use, and is aggravated by {{triggers}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Pain scale: best day {{bestPain}}, worst day {{worstPain}}",
+          "Motion/use: pain with bending, lifting, stairs, squatting, gripping, reaching, or walking if true",
+          "Repeated use: worse after {{limitBeforeStopping}} of activity",
+          "Signs to mention: swelling, locking, instability, weakness, stiffness, spasms, numbness, or altered gait if true"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "painful motion, weakness, fatigability, lack of endurance, instability, repeated use over time, flare-ups, and additional functional loss",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, pain reaches {{worstPain}}, motion and strength drop, I avoid {{limitation}}, and I use {{flareCare}} until it settles.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily with a constant baseline and worse periods",
+          "duration": "constant baseline pain with flares lasting hours to days",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "prosthetic use, prolonged standing/walking, skin breakdown, uneven ground, heat, and repeated use",
+          "limitation": "prosthetic tolerance, walking, standing, stairs, balance, lifting, driving, and skin care",
+          "treatment": "prosthetic care, therapy, pain medication, stump/skin care, assistive devices, and follow-up care",
+          "flareCare": "ice or heat, rest, stretching, medication, bracing, and reducing activity",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Amputations",
+          "workImpact": "I have to change positions, take breaks, avoid lifting or repetitive tasks, and I work slower during pain flares.",
+          "dailyImpact": "Chores, stairs, shopping, driving, sleep, and getting dressed take longer or require help during bad days.",
+          "mainSymptoms": "stump pain, phantom pain, skin irritation, balance problems, prosthetic fit issues, weakness, and fatigue if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: after about {{limitBeforeStopping}} of {{limitation}}, pain and stiffness build and I need to sit, stand, stretch, brace, ice/heat, or stop the task."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, pain reaches {{worstPain}}, motion and strength drop, I avoid {{limitation}}, and I use {{flareCare}} until it settles."
+          }
+        ],
+        "bullet_templates": [
+          "Work tasks: lifting, carrying, standing, walking, typing/tools, kneeling, stairs, or overhead work",
+          "Daily tasks: dressing, bathing, cooking, cleaning, shopping, driving, yard work, or sleep position",
+          "Limits: can stand/walk/sit/use joint about {{limitBeforeStopping}} before stopping",
+          "Flare care: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

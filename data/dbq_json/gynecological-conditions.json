@@ -1,0 +1,489 @@
+{
+  "id": "gynecological-conditions",
+  "document_type": "Public VA DBQ",
+  "title": "Gynecological Conditions",
+  "category": "Gynecological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Gynecological_Conditions.pdf",
+    "local_pdf": "sources/dbq_pdfs/gynecological-conditions.pdf",
+    "page_count": 10,
+    "verified_on": "2026-07-20",
+    "updated_on": "2025-10-27",
+    "version": "v25_2"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+      "List diagnoses associated with the claimed condition(s):",
+      "If there are additional gynecological diagnoses, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including cause, onset and course) of each of the Veteran’s gynecological condition(s):"
+    ],
+    "symptoms_signs_findings": [
+      "Mild pain Intermittent pain Constant pain",
+      "Moderate pain Intermittent pain Constant pain",
+      "Severe pain Intermittent pain Constant pain",
+      "Pelvic pressure",
+      "Frequent or continuous menstrual disturbances",
+      "If \"Yes,\" also complete appropriate dermatological questionnaire.",
+      "Comments, if any:",
+      "Has the Veteran had laparoscopy?",
+      "Has the Veteran been diagnosed with anemia?",
+      "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 21B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 21D. Date signed:",
+      "Examiner's phone/fax numbers: 21F. National Provider Identifier (NPI) number: 21G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "Mild pain Intermittent pain Constant pain",
+      "Moderate pain Intermittent pain Constant pain",
+      "Severe pain Intermittent pain Constant pain",
+      "Daily or more often",
+      "Note: Female Sexual Arousal Disorder (FSAD) refers to the continual or recurrent physical inability of a woman to accomplish or maintain an ample lubrication-"
+    ],
+    "severity_prompts": [
+      "Mild pain Intermittent pain Constant pain",
+      "Moderate pain Intermittent pain Constant pain",
+      "Severe pain Intermittent pain Constant pain",
+      "Has the Veteran undergone partial or complete oophorectomy?",
+      "Complete removal of an ovary",
+      "Complete atrophy of 1 ovary",
+      "Complete atrophy of both ovaries (excluding natural menopause)",
+      "Complete pelvic organ prolapse due to injury, disease, or surgical complications of pregnancy",
+      "Incomplete pelvic organ prolapse due to injury, disease, or surgical complications of pregnancy",
+      "Note - If obstetrical or gynecologic complications impact other body systems, also complete the additional appropriate Questionnaire(s)",
+      "If \"Yes,\" also complete appropriate dermatological questionnaire.",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": [
+      "Daily or more often"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION 1 - DIAGNOSIS",
+      "items": [
+        "Note: These are the condition(s) for which an evaluation has been requested on an exam request form (Internal VA) or for which the Veteran has requested medical",
+        "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+        "reported history.",
+        "List diagnoses associated with the claimed condition(s):",
+        "If there are additional gynecological diagnoses, list using above format:"
+      ]
+    },
+    {
+      "title": "SECTION 2 - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including cause, onset and course) of each of the Veteran’s gynecological condition(s):"
+      ]
+    },
+    {
+      "title": "SECTION 3 - SYMPTOMS",
+      "items": [
+        "Mild pain Intermittent pain Constant pain",
+        "Moderate pain Intermittent pain Constant pain",
+        "Severe pain Intermittent pain Constant pain",
+        "Pelvic pressure",
+        "Frequent or continuous menstrual disturbances"
+      ]
+    },
+    {
+      "title": "SECTION 4 - TREATMENT",
+      "items": [
+        "Has the Veteran had treatment for symptoms/findings for any diseases, injuries and/or adhesions of the reproductive organs?"
+      ]
+    },
+    {
+      "title": "SECTION 5 - CONDITIONS OF THE VULVA OR CLITORIS",
+      "items": [
+        "Has the Veteran been diagnosed with any diseases, injuries or other conditions of the vulva or clitoris (to include vulvovaginitis)?"
+      ]
+    },
+    {
+      "title": "SECTION 6 - CONDITIONS OF THE VAGINA",
+      "items": [
+        "Has the Veteran been diagnosed with any diseases, injuries or other conditions of the vagina?"
+      ]
+    },
+    {
+      "title": "SECTION 7 - CONDITIONS OF THE CERVIX",
+      "items": [
+        "Has the Veteran been diagnosed with any diseases, injuries, adhesions or other conditions of the cervix?"
+      ]
+    },
+    {
+      "title": "SECTION 8 - REMOVAL OF THE OVARIES OR UTERUS",
+      "items": [
+        "Has the Veteran had a hysterectomy?",
+        "Has the Veteran undergone partial or complete oophorectomy?",
+        "Complete removal of an ovary"
+      ]
+    },
+    {
+      "title": "SECTION 9 - CONDITIONS OF THE FALLOPIAN TUBES",
+      "items": [
+        "Has the Veteran been diagnosed with any diseases, injuries, adhesions or other conditions of the fallopian tubes (to include pelvic inflammatory disease)?"
+      ]
+    },
+    {
+      "title": "SECTION 10 - CONDITIONS OF THE OVARIES",
+      "items": [
+        "Has the Veteran undergone menopause?",
+        "Partial atrophy of 1 or both ovaries",
+        "Complete atrophy of 1 ovary",
+        "Complete atrophy of both ovaries (excluding natural menopause)",
+        "Has the Veteran been diagnosed with any other diseases, injuries, adhesions and/or other conditions of the ovaries?"
+      ]
+    },
+    {
+      "title": "SECTION 11 - INCONTINENCE",
+      "items": [
+        "Does not require/does not use absorbent material",
+        "If checked, describe appliance:"
+      ]
+    },
+    {
+      "title": "SECTION 12 - FISTULAE",
+      "items": [
+        "Daily or more often",
+        "If one or more urethrovaginal fistulas, cause:",
+        "Does not require/does not use absorbent material",
+        "If checked, describe appliance:"
+      ]
+    },
+    {
+      "title": "SECTION 13 - ENDOMETRIOSIS",
+      "items": [
+        "Has the Veteran been diagnosed with endometriosis?"
+      ]
+    },
+    {
+      "title": "SECTION 14 - PELVIC ORGAN PROLAPSE",
+      "items": [
+        "Complete pelvic organ prolapse due to injury, disease, or surgical complications of pregnancy",
+        "Incomplete pelvic organ prolapse due to injury, disease, or surgical complications of pregnancy",
+        "Note: Pelvic organ prolapse occurs when a pelvic organ such as bladder, urethra, uterus, vagina, small bowel, or rectum drops (prolapse) from its normal place in the",
+        "Has the Veteran had any other complications resulting from obstetrical or gynecologic conditions or procedures?",
+        "Note - If obstetrical or gynecologic complications impact other body systems, also complete the additional appropriate Questionnaire(s)"
+      ]
+    },
+    {
+      "title": "SECTION 15 - TUMORS AND NEOPLASMS",
+      "items": [
+        "Is the neoplasm:",
+        "If checked, describe:",
+        "If checked, describe procedure:",
+        "If checked, describe treatment:",
+        "If there are additional benign or malignant neoplasms or metastases related to any of the diagnoses in the diagnosis section, describe using the above format:"
+      ]
+    },
+    {
+      "title": "SECTION 16 - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": [
+        "If \"Yes,\" also complete appropriate dermatological questionnaire.",
+        "Comments, if any:"
+      ]
+    },
+    {
+      "title": "SECTION 17 - DIAGNOSTIC TESTING",
+      "items": [
+        "Has the Veteran had laparoscopy?",
+        "Has the Veteran been diagnosed with anemia?",
+        "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in"
+      ]
+    },
+    {
+      "title": "SECTION 19 - FEMALE SEXUAL AROUSAL DISORDER (FSAD)",
+      "items": [
+        "Note: Female Sexual Arousal Disorder (FSAD) refers to the continual or recurrent physical inability of a woman to accomplish or maintain an ample lubrication-",
+        "swelling reaction during sexual intercourse. Decreased blood flow to the genital area is believed to contribute to FSAD similar to the role of vascular disease in male",
+        "erectile dysfunction. Other causes may include nerve and/or tissue damage."
+      ]
+    },
+    {
+      "title": "SECTION 20 - REMARKS",
+      "items": [
+        "Remarks (if any – please identify the section to which the remark pertains when appropriate)"
+      ]
+    },
+    {
+      "title": "SECTION 21 - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 21B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's area of practice/specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 21D. Date signed:",
+        "Examiner's phone/fax numbers: 21F. National Provider Identifier (NPI) number: 21G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "gu",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or several times per week",
+      "duration": "throughout the day or in episodes lasting hours",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "2–4 flares per month",
+      "triggers": "cycle changes, activity, intimacy, stress, prolonged standing, or flare-ups",
+      "limitation": "work attendance, bathroom access, intimacy, exercise, chores, sleep, and daily planning",
+      "treatment": "medication, pads or devices if prescribed/used, procedures, lab monitoring, specialist care, and medical follow-up",
+      "flareCare": "staying near a bathroom, hydration as directed, medication, rest, hygiene measures, and seeking care for infections or worsening symptoms",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Gynecological Conditions",
+      "workImpact": "I need frequent bathroom breaks, may have disrupted sleep, and have to plan meetings, travel, and tasks around symptoms.",
+      "dailyImpact": "Sleep, errands, intimacy, exercise, travel, and social activities are affected by symptoms and planning needs.",
+      "mainSymptoms": "pelvic pain, heavy or irregular bleeding, cramping, urinary/bowel symptoms, pain with intercourse, infections, or treatment side effects if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current genitourinary/reproductive diagnosis, onset, treatment, labs/testing/procedures, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; medication, pads/devices if used, procedures, labs/imaging, specialist care, and follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or several times per week",
+          "duration": "throughout the day or in episodes lasting hours",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "2–4 flares per month",
+          "triggers": "cycle changes, activity, intimacy, stress, prolonged standing, or flare-ups",
+          "limitation": "work attendance, bathroom access, intimacy, exercise, chores, sleep, and daily planning",
+          "treatment": "medication, pads or devices if prescribed/used, procedures, lab monitoring, specialist care, and medical follow-up",
+          "flareCare": "staying near a bathroom, hydration as directed, medication, rest, hygiene measures, and seeking care for infections or worsening symptoms",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Gynecological Conditions",
+          "workImpact": "I need frequent bathroom breaks, may have disrupted sleep, and have to plan meetings, travel, and tasks around symptoms.",
+          "dailyImpact": "Sleep, errands, intimacy, exercise, travel, and social activities are affected by symptoms and planning needs.",
+          "mainSymptoms": "pelvic pain, heavy or irregular bleeding, cramping, urinary/bowel symptoms, pain with intercourse, infections, or treatment side effects if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "urinary frequency/urgency/leakage, infections, pain, sleep disruption, bathroom access, intimacy, and work/daily planning",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, urinary, kidney, reproductive, or pelvic symptoms happen {{frequency}} and can affect me throughout the day or night.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or several times per week",
+          "duration": "throughout the day or in episodes lasting hours",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "2–4 flares per month",
+          "triggers": "cycle changes, activity, intimacy, stress, prolonged standing, or flare-ups",
+          "limitation": "work attendance, bathroom access, intimacy, exercise, chores, sleep, and daily planning",
+          "treatment": "medication, pads or devices if prescribed/used, procedures, lab monitoring, specialist care, and medical follow-up",
+          "flareCare": "staying near a bathroom, hydration as directed, medication, rest, hygiene measures, and seeking care for infections or worsening symptoms",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Gynecological Conditions",
+          "workImpact": "I need frequent bathroom breaks, may have disrupted sleep, and have to plan meetings, travel, and tasks around symptoms.",
+          "dailyImpact": "Sleep, errands, intimacy, exercise, travel, and social activities are affected by symptoms and planning needs.",
+          "mainSymptoms": "pelvic pain, heavy or irregular bleeding, cramping, urinary/bowel symptoms, pain with intercourse, infections, or treatment side effects if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, urinary, kidney, reproductive, or pelvic symptoms happen {{frequency}} and can affect me throughout the day or night."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Voiding: frequency, urgency, leakage, pads/absorbent changes, nighttime urination if true",
+          "Pain/infection: burning, pelvic/flank pain, recurrent UTIs, stones, blood in urine if true",
+          "Timing: daytime interval [__], nighttime waking [__] times if true",
+          "Treatment: medication, pads/devices, labs, procedures, specialist care"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "urinary frequency/urgency/leakage, infections, pain, sleep disruption, bathroom access, intimacy, and work/daily planning",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are around {{bestPain}} when active and are worse with {{triggers}}.\n\nWorst days: Flares or urgent episodes happen {{flareUps}} and can affect me {{duration}}. During them, symptoms worsen enough that I stay near a bathroom, reduce activity or intimacy, rest, use treatment, or seek care if infection/worsening occurs.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or several times per week",
+          "duration": "throughout the day or in episodes lasting hours",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "2–4 flares per month",
+          "triggers": "cycle changes, activity, intimacy, stress, prolonged standing, or flare-ups",
+          "limitation": "work attendance, bathroom access, intimacy, exercise, chores, sleep, and daily planning",
+          "treatment": "medication, pads or devices if prescribed/used, procedures, lab monitoring, specialist care, and medical follow-up",
+          "flareCare": "staying near a bathroom, hydration as directed, medication, rest, hygiene measures, and seeking care for infections or worsening symptoms",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Gynecological Conditions",
+          "workImpact": "I need frequent bathroom breaks, may have disrupted sleep, and have to plan meetings, travel, and tasks around symptoms.",
+          "dailyImpact": "Sleep, errands, intimacy, exercise, travel, and social activities are affected by symptoms and planning needs.",
+          "mainSymptoms": "pelvic pain, heavy or irregular bleeding, cramping, urinary/bowel symptoms, pain with intercourse, infections, or treatment side effects if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: I plan around bathroom access, sleep disruption, pain, appointments, or treatment needs and may need breaks or schedule changes."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, symptoms worsen enough that I stay near a bathroom, reduce activity or intimacy, rest, use treatment, or seek care if infection/worsening occurs."
+          }
+        ],
+        "bullet_templates": [
+          "Work: bathroom breaks, meetings interrupted, travel planning, sleep loss affecting reliability",
+          "Daily life: errands, intimacy, exercise, long drives, social activities planned around symptoms",
+          "Supplies/devices: pads, extra clothes, bathroom mapping, hydration planning if true",
+          "Worst days: stay near bathroom, reduce activity, seek care for infection/pain"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,353 @@
+{
+  "id": "guidance-for-separation-health-assessment-dbq-part-a",
+  "document_type": "DBQ guidance",
+  "title": "Guidance for Separation Health Assessment DBQ - Part A",
+  "category": "General",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/SHA_DBQ_Part_A_Guidance.pdf",
+    "local_pdf": "sources/dbq_pdfs/guidance-for-separation-health-assessment-dbq-part-a.pdf",
+    "page_count": 8,
+    "verified_on": "2026-07-20",
+    "updated_on": null,
+    "version": null
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [],
+    "medical_history_onset_course_treatment": [],
+    "symptoms_signs_findings": [],
+    "frequency_duration_prompts": [],
+    "severity_prompts": [],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": []
+  },
+  "sections": [
+    {
+      "title": "PREFACE",
+      "items": [
+        "A.I.1 Contact Information .............................................................................................................. 3",
+        "A.I.2 Personal Information ............................................................................................................ 3",
+        "A.I.3 Occupational Information ..................................................................................................... 3",
+        "A.I.4 Examination Information ...................................................................................................... 3",
+        "A.II.1 General Medical Review ....................................................................................................... 5",
+        "A.II.2 Joint, Spine, & Musculo-Skeletal System ............................................................................... 5",
+        "A.II.3 Health & Wellness ................................................................................................................ 5",
+        "A.II.4 Hearing ................................................................................................................................. 6",
+        "A.II.5 Vision ................................................................................................................................... 6",
+        "A.II.6 Head Injury ........................................................................................................................... 6",
+        "A.II.7 Environmental/Occupational ................................................................................................. 6",
+        "A.II.8 Dental ................................................................................................................................... 7",
+        "A.II.9 Women’s Health/Female Reproductive Organs ..................................................................... 7",
+        "A.II.10 Mental Health Screening Questionnaires ............................................................................. 8",
+        "AOC Area of Concentration",
+        "COPD Chronic Obstructive Pulmonary Disease",
+        "CPAP Continuous Positive Airway Pressure Therapy",
+        "IUD Intrauterine Device",
+        "MOS Military Occupational Specialty",
+        "A.I.1 Contact Information",
+        "provide a cell phone number and personal email where you can be reached before, during, and after",
+        "A.I.2 Personal Information",
+        "A.I.3 Occupational Information",
+        "military service. Please note if your usual occupation is different than your military occupational specialty",
+        "A.I.4 Examination Information",
+        "active duty. It is meant to help you complete the claims process sooner. To qualify for the BDD",
+        "If you have less than 90 days left on active duty, you can still file a disability claim with VA, but it",
+        "obtain evidence, the total processing time may be longer than for a FDC claim, where you collected",
+        "Please complete all information in the medical history questionnaire as completely as possible. This",
+        "to comment on any occupational exposures, injuries, illnesses, or health concerns you may have. For",
+        "If you are submitting a VA disability compensation claim, then VA will complete an appropriate",
+        "NOTE: “Qualifying military service” includes active duty; on orders 30 days or more in support of",
+        "A.II.1 General Medical Review",
+        "loss, vitamins, etc.",
+        "Q5. Hearing Aids, Special Medical Supplies, Equipment, Assistive Technology Devices, Special",
+        "A.II.2 Joint, Spine, & Musculo-Skeletal System",
+        "For each “yes” response, please state whether you received care for the condition, if you have any",
+        "A.II.3 Health & Wellness",
+        "A.II.4 Hearing",
+        "A.II.5 Vision",
+        "provider; for example, a primary care provider; an ophthalmologist (a medical doctor or doctor of",
+        "A.II.6 Head Injury",
+        "Q2. Total Times: On how many occasions did a jolt or blow to your head cause an immediate result such",
+        "as losing consciousness, losing memory, or seeing stars? Give a numerical (1, 2, 3, etc.) response.",
+        "“yes” and explain what those symptoms are and how often you experience them. For example,",
+        "are the symptoms chronic (they are always present) or periodic (they come and go)?",
+        "A.II.7 Environmental/Occupational",
+        "This section covers various potentially hazardous or unusual occupational and environmental exposures",
+        "You are asked to consider your potential exposure to burn pits, oil well fires, burning trash, dust storms,",
+        "Bromide [PB], Lariam [Mefloquine] pills), persistent chemicals such as polychlorinated biphenyls [PCBs],",
+        "provided by DoD to determine eligibility. You may join the AHOBPR even if:",
+        "A.II.8 Dental",
+        "For each “yes” response, please state whether you received care for any condition, if you have any",
+        "A.II.9 Women’s Health/Female Reproductive Organs",
+        "provider(s) as applicable.",
+        "complication of post-partum depression, so you would select both boxes). Please provide any additional",
+        "are still under surveillance or need any further follow up testing or care.",
+        "A.II.10 Mental Health Screening Questionnaires",
+        "Please complete all information in the mental health screening questionnaires. Responses will be",
+        "NOTE: If you are struggling with any mental health concerns and would like to speak to someone"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "general",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily",
+      "duration": "several hours at a time",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "3 times per month",
+      "triggers": "activity, stress, or repeated use",
+      "limitation": "work, duty, exercise, sleep, and regular daily activities",
+      "treatment": "medication, rest, and medical follow-up",
+      "flareCare": "rest, medication, pacing, and avoiding triggers",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Guidance for Separation Health Assessment DBQ - Part A",
+      "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+      "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+      "mainSymptoms": "the current symptoms and medical issues I need documented accurately",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current diagnosis or claimed condition, onset, course, treatment history, medications, testing, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; treatment records, medications, tests, imaging/labs, specialist care, therapy, devices, and supporting evidence",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "several hours at a time",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "activity, stress, or repeated use",
+          "limitation": "work, duty, exercise, sleep, and regular daily activities",
+          "treatment": "medication, rest, and medical follow-up",
+          "flareCare": "rest, medication, pacing, and avoiding triggers",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Guidance for Separation Health Assessment DBQ - Part A",
+          "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+          "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+          "mainSymptoms": "the current symptoms and medical issues I need documented accurately",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "frequency, duration, severity, flare-ups, treatment, work impact, and daily activity limits",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, symptoms happen {{frequency}}, last {{duration}}, and worsen with {{triggers}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "several hours at a time",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "activity, stress, or repeated use",
+          "limitation": "work, duty, exercise, sleep, and regular daily activities",
+          "treatment": "medication, rest, and medical follow-up",
+          "flareCare": "rest, medication, pacing, and avoiding triggers",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Guidance for Separation Health Assessment DBQ - Part A",
+          "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+          "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+          "mainSymptoms": "the current symptoms and medical issues I need documented accurately",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, symptoms happen {{frequency}}, last {{duration}}, and worsen with {{triggers}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "frequency, duration, severity, flare-ups, treatment, work impact, and daily activity limits",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, symptoms worsen to {{worstPain}}, I reduce activity, use {{flareCare}}, and may need help or time to recover.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily",
+          "duration": "several hours at a time",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "3 times per month",
+          "triggers": "activity, stress, or repeated use",
+          "limitation": "work, duty, exercise, sleep, and regular daily activities",
+          "treatment": "medication, rest, and medical follow-up",
+          "flareCare": "rest, medication, pacing, and avoiding triggers",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Guidance for Separation Health Assessment DBQ - Part A",
+          "workImpact": "I need breaks, work slower, avoid certain tasks, or miss time when symptoms flare.",
+          "dailyImpact": "I plan activities around symptoms and need extra time, rest, or help with harder tasks.",
+          "mainSymptoms": "the current symptoms and medical issues I need documented accurately",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: symptoms affect reliability, pace, attendance, safety, or task completion, and I need breaks or modifications."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, symptoms worsen to {{worstPain}}, I reduce activity, use {{flareCare}}, and may need help or time to recover."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}

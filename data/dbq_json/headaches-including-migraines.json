@@ -1,0 +1,414 @@
+{
+  "id": "headaches-including-migraines",
+  "document_type": "Public VA DBQ",
+  "title": "Headaches (including Migraines)",
+  "category": "Neurological",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/Headaches_Including_Migraines.pdf",
+    "local_pdf": "sources/dbq_pdfs/headaches-including-migraines.pdf",
+    "page_count": 5,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-07-09",
+    "version": "v24_1"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "IF THERE ARE ADDITIONAL DIAGNOSES THAT PERTAIN TO A HEADACHE CONDITION, LIST USING ABOVE FORMAT:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "DESCRIBE THE HISTORY (including onset and course) OF THE VETERAN'S HEADACHE CONDITIONS (brief summary):"
+    ],
+    "symptoms_signs_findings": [
+      "(If \"Yes,\" check all that apply to headache pain):",
+      "Constant head pain",
+      "Pulsating or throbbing head pain",
+      "Pain localized to one side of the head",
+      "Pain on both sides of the head",
+      "Pain worsens with physical activity",
+      "to headache pain)",
+      "INDICATE DURATION OF TYPICAL HEAD PAIN",
+      "INDICATE LOCATION OF TYPICAL HEAD PAIN",
+      "square inches); OR ARE LOCATED ON THE HEAD, FACE OR NECK? (An \"unstable scar\" is one where, for any reason, there is frequent loss of",
+      "covering of the skin over the scar.)",
+      "NOTE: If there are multiple scars, enter additional locations and measurements in Comment section below. It is not necessary to also complete a Scars DBQ.",
+      "COMMENTS, IF ANY:",
+      "NOTE: Diagnostic testing is not required for this examination report; if studies have already been completed, provide the most recent results below.",
+      "ARE THERE ANY OTHER SIGNIFICANT DIAGNOSTIC TEST FINDINGS AND/OR RESULTS?",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 9B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 9D. Date Signed:",
+      "Examiner's phone/fax numbers: 9F. National Provider Identifier (NPI) number: 9G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [
+      "Constant head pain",
+      "INDICATE DURATION OF TYPICAL HEAD PAIN",
+      "Note: For VA purposes, the term prostrating means “causing extreme exhaustion, powerlessness, debilitation or incapacitation with substantial inability to engage in",
+      "(If \"Yes,\" indicate frequency, on average, of prostrating attacks over the last several months):",
+      "With less frequent attacks",
+      "(If \"Yes,\" indicate frequency, on average, of completely prostrating attacks over the last several months):"
+    ],
+    "severity_prompts": [
+      "Constant head pain",
+      "ordinary activities.” Please complete both questions 4A and 4B.",
+      "NOTE: If there are multiple scars, enter additional locations and measurements in Comment section below. It is not necessary to also complete a Scars DBQ.",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [
+      "(If \"Yes,\" indicate frequency, on average, of prostrating attacks over the last several months):",
+      "With less frequent attacks",
+      "(If \"Yes,\" indicate frequency, on average, of completely prostrating attacks over the last several months):"
+    ],
+    "functional_impact_prompts": [
+      "(If \"Yes,\" describe impact of the veteran's headache condition, providing one or more examples):"
+    ]
+  },
+  "sections": [
+    {
+      "title": "PREFACE",
+      "items": [
+        "HEADACHES (INCLUDING MIGRAINE HEADACHES)"
+      ]
+    },
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "IF THERE ARE ADDITIONAL DIAGNOSES THAT PERTAIN TO A HEADACHE CONDITION, LIST USING ABOVE FORMAT:"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "DESCRIBE THE HISTORY (including onset and course) OF THE VETERAN'S HEADACHE CONDITIONS (brief summary):"
+      ]
+    },
+    {
+      "title": "SECTION III - SYMPTOMS",
+      "items": [
+        "(If \"Yes,\" check all that apply to headache pain):",
+        "Constant head pain",
+        "Pulsating or throbbing head pain",
+        "Pain localized to one side of the head",
+        "Pain on both sides of the head",
+        "Pain worsens with physical activity",
+        "to headache pain)",
+        "INDICATE DURATION OF TYPICAL HEAD PAIN",
+        "INDICATE LOCATION OF TYPICAL HEAD PAIN"
+      ]
+    },
+    {
+      "title": "SECTION IV - PROSTRATING ATTACKS OF HEADACHE PAIN",
+      "items": [
+        "Note: For VA purposes, the term prostrating means “causing extreme exhaustion, powerlessness, debilitation or incapacitation with substantial inability to engage in",
+        "ordinary activities.” Please complete both questions 4A and 4B.",
+        "(If \"Yes,\" indicate frequency, on average, of prostrating attacks over the last several months):",
+        "With less frequent attacks",
+        "(If \"Yes,\" indicate frequency, on average, of completely prostrating attacks over the last several months):"
+      ]
+    },
+    {
+      "title": "SECTION V - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": [
+        "square inches); OR ARE LOCATED ON THE HEAD, FACE OR NECK? (An \"unstable scar\" is one where, for any reason, there is frequent loss of",
+        "covering of the skin over the scar.)",
+        "NOTE: If there are multiple scars, enter additional locations and measurements in Comment section below. It is not necessary to also complete a Scars DBQ.",
+        "COMMENTS, IF ANY:"
+      ]
+    },
+    {
+      "title": "SECTION VI - DIAGNOSTIC TESTING",
+      "items": [
+        "NOTE: Diagnostic testing is not required for this examination report; if studies have already been completed, provide the most recent results below.",
+        "ARE THERE ANY OTHER SIGNIFICANT DIAGNOSTIC TEST FINDINGS AND/OR RESULTS?"
+      ]
+    },
+    {
+      "title": "SECTION VII - FUNCTIONAL IMPACT",
+      "items": [
+        "(If \"Yes,\" describe impact of the veteran's headache condition, providing one or more examples):"
+      ]
+    },
+    {
+      "title": "SECTION VIII - REMARKS",
+      "items": [
+        "Remarks (if any) – please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION IX - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 9B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 9D. Date Signed:",
+        "Examiner's phone/fax numbers: 9F. National Provider Identifier (NPI) number: 9G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "headache",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "2–4 headache episodes per month",
+      "duration": "4–24 hours",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "2–4 severe attacks per month",
+      "triggers": "light, noise, stress, poor sleep, screens, heat, or certain smells",
+      "limitation": "screens, driving, concentration, meetings, attendance, and productivity",
+      "treatment": "prescribed medication, over-the-counter medication if used, dark-room rest, hydration, sleep, and avoiding triggers",
+      "flareCare": "lying down in a dark quiet room, medication, hydration, sleep, and avoiding light/noise",
+      "limitBeforeStopping": "15–30 minutes once a severe headache starts",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Headaches (including Migraines)",
+      "workImpact": "During severe attacks I cannot concentrate, use screens, drive safely, or stay productive, and I may need to leave work or miss work.",
+      "dailyImpact": "I cancel plans, avoid light and noise, lie down, and need help with chores or childcare during severe attacks.",
+      "mainSymptoms": "head pain, throbbing or pulsating pain, nausea, light sensitivity, sound sensitivity, vision changes, and needing to lie down if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "headache/migraine diagnosis, onset, frequency, duration, treatment, and current symptom pattern; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; abortive/preventive medication, dark-room rest, hydration, sleep, neurology/primary care, and trigger avoidance",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "2–4 headache episodes per month",
+          "duration": "4–24 hours",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "2–4 severe attacks per month",
+          "triggers": "light, noise, stress, poor sleep, screens, heat, or certain smells",
+          "limitation": "screens, driving, concentration, meetings, attendance, and productivity",
+          "treatment": "prescribed medication, over-the-counter medication if used, dark-room rest, hydration, sleep, and avoiding triggers",
+          "flareCare": "lying down in a dark quiet room, medication, hydration, sleep, and avoiding light/noise",
+          "limitBeforeStopping": "15–30 minutes once a severe headache starts",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Headaches (including Migraines)",
+          "workImpact": "During severe attacks I cannot concentrate, use screens, drive safely, or stay productive, and I may need to leave work or miss work.",
+          "dailyImpact": "I cancel plans, avoid light and noise, lie down, and need help with chores or childcare during severe attacks.",
+          "mainSymptoms": "head pain, throbbing or pulsating pain, nausea, light sensitivity, sound sensitivity, vision changes, and needing to lie down if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "headache frequency, duration, prostrating attacks, nausea, light/sound sensitivity, missed work, and economic impact",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, headaches happen {{frequency}}, severe attacks happen {{flareUps}}, and the worst ones last {{duration}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "2–4 headache episodes per month",
+          "duration": "4–24 hours",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "2–4 severe attacks per month",
+          "triggers": "light, noise, stress, poor sleep, screens, heat, or certain smells",
+          "limitation": "screens, driving, concentration, meetings, attendance, and productivity",
+          "treatment": "prescribed medication, over-the-counter medication if used, dark-room rest, hydration, sleep, and avoiding triggers",
+          "flareCare": "lying down in a dark quiet room, medication, hydration, sleep, and avoiding light/noise",
+          "limitBeforeStopping": "15–30 minutes once a severe headache starts",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Headaches (including Migraines)",
+          "workImpact": "During severe attacks I cannot concentrate, use screens, drive safely, or stay productive, and I may need to leave work or miss work.",
+          "dailyImpact": "I cancel plans, avoid light and noise, lie down, and need help with chores or childcare during severe attacks.",
+          "mainSymptoms": "head pain, throbbing or pulsating pain, nausea, light sensitivity, sound sensitivity, vision changes, and needing to lie down if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, headaches happen {{frequency}}, severe attacks happen {{flareUps}}, and the worst ones last {{duration}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Attack count: {{frequency}}; severe/prostrating attacks: {{flareUps}}",
+          "Duration: {{duration}}",
+          "Associated symptoms: nausea, vomiting, light sensitivity, sound sensitivity, vision changes if true",
+          "Rescue behavior: dark quiet room, lie down, medication, sleep, avoid screens/driving"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "headache frequency, duration, prostrating attacks, nausea, light/sound sensitivity, missed work, and economic impact",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Headache symptoms are around {{bestPain}} when present.\n\nWorst days: Severe attacks happen {{flareUps}} and usually last {{duration}}. During an attack, head pain reaches {{worstPain}}, light/noise or nausea may be present if true, and I need {{flareCare}} until the attack passes.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "2–4 headache episodes per month",
+          "duration": "4–24 hours",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "2–4 severe attacks per month",
+          "triggers": "light, noise, stress, poor sleep, screens, heat, or certain smells",
+          "limitation": "screens, driving, concentration, meetings, attendance, and productivity",
+          "treatment": "prescribed medication, over-the-counter medication if used, dark-room rest, hydration, sleep, and avoiding triggers",
+          "flareCare": "lying down in a dark quiet room, medication, hydration, sleep, and avoiding light/noise",
+          "limitBeforeStopping": "15–30 minutes once a severe headache starts",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Headaches (including Migraines)",
+          "workImpact": "During severe attacks I cannot concentrate, use screens, drive safely, or stay productive, and I may need to leave work or miss work.",
+          "dailyImpact": "I cancel plans, avoid light and noise, lie down, and need help with chores or childcare during severe attacks.",
+          "mainSymptoms": "head pain, throbbing or pulsating pain, nausea, light sensitivity, sound sensitivity, vision changes, and needing to lie down if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: during severe attacks, I cannot use screens, handle light/noise, drive safely, or stay productive, and I may need to lie down or miss work."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, head pain reaches {{worstPain}}, light/noise or nausea may be present if true, and I need {{flareCare}} until the attack passes."
+          }
+        ],
+        "bullet_templates": [
+          "Work: missed shifts, leaving early, no screens, no driving, reduced productivity",
+          "Home: cancelled plans, dark room, help with kids/chores, no cooking/driving during attacks",
+          "Economic impact: missed work, accommodations, reduced hours, or write-ups if true",
+          "Worst attack: pain {{worstPain}}, lasts {{duration}}, cannot continue normal activity"
+        ]
+      }
+    ]
+  }
+}

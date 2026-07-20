@@ -1,0 +1,450 @@
+{
+  "id": "oral-and-dental",
+  "document_type": "Public VA DBQ",
+  "title": "Oral and Dental",
+  "category": "Dental & Oral",
+  "source": {
+    "agency": "U.S. Department of Veterans Affairs",
+    "inventory_page": "https://www.benefits.va.gov/compensation/dbq_publicdbqs.asp",
+    "pdf_url": "https://www.benefits.va.gov/compensation/docs/oral-and-dental.pdf",
+    "local_pdf": "sources/dbq_pdfs/oral-and-dental.pdf",
+    "page_count": 7,
+    "verified_on": "2026-07-20",
+    "updated_on": "2024-07-03",
+    "version": "v24_2"
+  },
+  "purpose": "DBQs collect clinician-documented medical information VA may use when evaluating disability compensation claims.",
+  "exam_question_categories": {
+    "diagnosis_current_condition": [
+      "What condition are you claiming, and what diagnosis has a clinician given you?",
+      "When did symptoms begin, how have they progressed, and what treatment/medications do you use?",
+      "What records, tests, imaging, labs, or specialist visits support the diagnosis?"
+    ],
+    "nexus_service_connection": [
+      "What in-service event, injury, illness, exposure, or aggravation do you believe is connected?",
+      "When and where did it happen, what unit/job/exposure was involved, and what records or witnesses can support it?",
+      "If secondary, what service-connected condition caused or worsened this condition, and what medical evidence says so?"
+    ],
+    "functional_impact_severity": [
+      "How does the condition limit work, attendance, physical tasks, concentration, relationships, sleep, travel, or daily self-care?",
+      "What can you no longer do, do less often, or do only with breaks, medication, assistive devices, or help?",
+      "Give truthful examples using frequency, duration, severity, and flare-up details."
+    ],
+    "rating_breakers_to_document_truthfully": {
+      "frequency_duration": "How often symptoms occur and how long they last, including daily baseline and episode/attack patterns.",
+      "severity_scale": "Best, typical, and worst severity using a clear scale when appropriate, such as pain 0-10.",
+      "work_daily_life_impact": "Concrete limits: sitting, standing, walking, lifting, sleep, missed work, concentration, hygiene, chores, driving, relationships.",
+      "flare_ups": "How often flare-ups occur, triggers, duration, what gets worse, what you cannot do, and what helps."
+    }
+  },
+  "dbq_criteria": {
+    "diagnosis_current_condition": [
+      "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+      "If there are additional diagnoses that pertain to oral and dental conditions, list using above format:"
+    ],
+    "medical_history_onset_course_treatment": [
+      "Describe the history (including onset and course) of the Veteran's oral and/or dental condition(s) (brief summary):"
+    ],
+    "symptoms_signs_findings": [
+      "Have clinically relevant diagnostic imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+      "loss of teeth, mandible or maxilla",
+      "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in",
+      "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+      "Examiner's signature: 13B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+      "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 13D. Date Signed:",
+      "Examiner's phone/fax numbers: 13F. National Provider Identifier (NPI) number: 13G. Medical license number and state:",
+      "Examiner's address:"
+    ],
+    "frequency_duration_prompts": [],
+    "severity_prompts": [
+      "and additional oral and dental conditions, complete this questionnaire and",
+      "also complete the TMD questionnaire)",
+      "TMD (If checked, complete this questionnaire and also complete the TMD",
+      "Complete loss of the mandible between angles",
+      "Malunion, displacement, causing only mild or no anterior or posterior open bite",
+      "Malunion, displacement, causing moderate open bite anterior posterior",
+      "Malunion, displacement, causing severe open bite anterior posterior",
+      "Nonunion, confirmed by diagnostic imaging, moderate without false motion",
+      "Nonunion, confirmed by diagnostic imaging, severe with false motion",
+      "Note - The assessment of the severity of malunion or nonunion of the mandible is dependent upon degree of motion and relative loss of masticatory function.",
+      "Malunion, displacement, causing only mild or no open bite anterior posterior",
+      "Note - For VA compensation purposes, the severity of maxillary nonunion is dependent upon the degree of abnormal mobility of maxilla fragments following treatment",
+      "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+      "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,"
+    ],
+    "flare_up_prompts": [],
+    "functional_impact_prompts": [
+      "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+      "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of",
+      "occupational task?"
+    ]
+  },
+  "sections": [
+    {
+      "title": "SECTION I - DIAGNOSIS",
+      "items": [
+        "Note: These are condition(s) for which an evaluation has been requested on the exam request form (Internal VA) or for which the Veteran has requested medical",
+        "Note: These are the diagnoses determined during this current evaluation of the claimed condition(s) listed above. If there is no diagnosis, if the diagnosis is different",
+        "Note: This questionnaire is appropriate for bone loss due to trauma or disease such as osteomyelitis and not to the loss of the alveolar process as a result of",
+        "periodontal disease since such loss is not considered disabling. This is intended for loss of teeth due to service-related trauma.",
+        "Loss of any portion of mandible (for reasons other than periodontal disease",
+        "or edentulous atrophy)",
+        "Loss of any portion of maxilla (for reasons other than periodontal disease or",
+        "edentulous atrophy)",
+        "Loss of teeth (for reasons other than periodontal disease, or other routine",
+        "dental maladies: this is intended for loss of teeth due to service-related",
+        "and additional oral and dental conditions, complete this questionnaire and",
+        "also complete the TMD questionnaire)",
+        "Limitation of motion of the temporomandibular joint due to causes other than",
+        "TMD (If checked, complete this questionnaire and also complete the TMD",
+        "If there are additional diagnoses that pertain to oral and dental conditions, list using above format:"
+      ]
+    },
+    {
+      "title": "SECTION II - MEDICAL HISTORY",
+      "items": [
+        "Describe the history (including onset and course) of the Veteran's oral and/or dental condition(s) (brief summary):"
+      ]
+    },
+    {
+      "title": "SECTION III - MANDIBLE, INCLUDING ANATOMICAL LOSS OR BONY INJURY",
+      "items": [
+        "Has the Veteran lost any part of the mandible to include the ramus (not due to edentulous atrophy or periodontal disease)?",
+        "Loss of less than one-half of the mandible including the ramus, not involving the temporomandibular articulation",
+        "Loss of less than one-half of the mandible including the ramus, involving the temporomandibular articulation",
+        "Complete loss of the mandible between angles",
+        "Loss of one-half or more of mandible including the ramus, without loss of temporomandibular articulation",
+        "Loss of one-half or more of mandible including the ramus, involving loss of temporomandibular articulation",
+        "If the Veteran has lost any part of the mandible, is the loss replaceable by prosthesis? Yes No Not Applicable",
+        "Has the Veteran lost either condyle (condyloid process) of the mandible? Yes No",
+        "Has the Veteran lost either coronoid process of the mandible? Yes No",
+        "Malunion, displacement, causing only mild or no anterior or posterior open bite",
+        "Malunion, displacement, causing moderate open bite anterior posterior",
+        "Malunion, displacement, causing severe open bite anterior posterior",
+        "Nonunion, confirmed by diagnostic imaging, moderate without false motion",
+        "Nonunion, confirmed by diagnostic imaging, severe with false motion",
+        "Note - The assessment of the severity of malunion or nonunion of the mandible is dependent upon degree of motion and relative loss of masticatory function."
+      ]
+    },
+    {
+      "title": "SECTION IV - MAXILLA, INCLUDING ANATOMICAL LOSS OR BONY INJURY",
+      "items": [
+        "Has the Veteran lost any part of the maxilla? (Not due to endentulous atrophy or periodontal disease)",
+        "Loss of less than 25% Loss of 25% - 50% Loss of more than half",
+        "If the Veteran has lost any part of the maxilla, is the loss replaceable by prosthesis? Yes No Not applicable",
+        "Has the Veteran lost any part of the hard palate? Yes No",
+        "If the Veteran has lost any part of the hard palate, is the loss replaceable by prosthesis? Yes No Not Applicable",
+        "Malunion, displacement, causing only mild or no open bite anterior posterior",
+        "Malunion, displacement, causing moderate open bite anterior posterior",
+        "Malunion, displacement, causing severe open bite anterior posterior",
+        "Nonunion, confirmed by diagnostic imaging, moderate without false motion",
+        "Nonunion, confirmed by diagnostic imaging, severe with false motion",
+        "Note - For VA compensation purposes, the severity of maxillary nonunion is dependent upon the degree of abnormal mobility of maxilla fragments following treatment"
+      ]
+    },
+    {
+      "title": "SECTION V - TEETH, INCLUDING ANATOMICAL LOSS OR BONY INJURY LEADING TO LOSS OF ANY TEETH",
+      "items": [
+        "Is the loss of teeth due to loss of substance of body of maxilla or mandible without loss of continuity? Yes No",
+        "Is the loss of teeth due to trauma or disease (such as osteomyelitis)? Yes No",
+        "Can the masticatory surfaces be restored by suitable prosthesis? Yes No",
+        "List missing teeth by number:"
+      ]
+    },
+    {
+      "title": "SECTION VI - INJURY OF MOUTH, LIPS, TONGUE AND DISFIGURING SCARS TO THE MOUTH OR LIPS",
+      "items": []
+    },
+    {
+      "title": "SECTION VII - OSTEOMYELITIS/OSTEORADIONECROSIS/OSTEONECROSIS OF THE JAW",
+      "items": []
+    },
+    {
+      "title": "SECTION VIII - TUMORS AND NEOPLASMS",
+      "items": [
+        "Is the neoplasm:",
+        "If checked, describe:",
+        "If checked, describe procedure:",
+        "If checked, describe treatment:",
+        "If there are additional benign or malignant neoplasms or metastases related to any of the diagnoses in the diagnosis section, describe using the above format:"
+      ]
+    },
+    {
+      "title": "SECTION IX - OTHER PERTINENT PHYSICAL FINDINGS, COMPLICATIONS, CONDITIONS, SIGNS, SYMPTOMS, AND SCARS",
+      "items": []
+    },
+    {
+      "title": "SECTION X - DIAGNOSTIC TESTING",
+      "items": [
+        "Have clinically relevant diagnostic imaging studies or other diagnostic procedures been performed or reviewed in conjunction with this examination?",
+        "loss of teeth, mandible or maxilla",
+        "Are there any other clinically relevant diagnostic test findings or results related to the claimed condition(s) and/or diagnosis(es), that were reviewed in",
+        "If any test results are other than normal, indicate relationship of abnormal findings to diagnosed conditions:"
+      ]
+    },
+    {
+      "title": "SECTION XI - FUNCTIONAL IMPACT",
+      "items": [
+        "Note: Provide the impact of only the diagnosed condition(s), without consideration of the impact of other medical conditions or factors, such as age.",
+        "Regardless of the Veteran's current employment status, do the conditions listed in the diagnosis section impact his/her ability to perform any type of",
+        "occupational task?"
+      ]
+    },
+    {
+      "title": "SECTION XII - REMARKS",
+      "items": [
+        "Remarks (if any – please identify the section to which the remark pertains when appropriate)."
+      ]
+    },
+    {
+      "title": "SECTION XIII - EXAMINER'S CERTIFICATION AND SIGNATURE",
+      "items": [
+        "CERTIFICATION - To the best of my knowledge, the information contained herein is accurate, complete and current.",
+        "PENALTY: The law provides severe penalties which include fine or imprisonment, or both, for the willful submission of any statement or evidence of a material fact,",
+        "Examiner's signature: 13B. Examiner's printed name and title (e.g. MD, DO, DDS, DMD, Ph.D, Psy.D, NP, PA-C):",
+        "Examiner's Area of Practice/Specialty (e.g. Cardiology, Orthopedics, Psychology/Psychiatry, General Practice): 13D. Date Signed:",
+        "Examiner's phone/fax numbers: 13F. National Provider Identifier (NPI) number: 13G. Medical license number and state:",
+        "Examiner's address:"
+      ]
+    }
+  ],
+  "cheat_sheet_use": {
+    "recommended_user_inputs": [
+      "Claimed condition and formal diagnosis, if known",
+      "Onset date/timeframe and service event, exposure, injury, or secondary condition theory",
+      "Treatment history, medications, devices, surgeries, hospitalizations, therapy, labs, imaging, or tests",
+      "Baseline symptom frequency, duration, and severity",
+      "Flare-up frequency, triggers, duration, severity, and functional loss",
+      "Work limitations, missed work, accommodations, daily activity limits, relationship/social effects"
+    ],
+    "truthfulness_guardrail": "Use this only to organize accurate personal facts. Do not exaggerate symptoms, invent diagnoses, or state medical causation unless supported by a qualified medical opinion."
+  },
+  "script_templates": {
+    "schema_version": "3.0",
+    "formula_source": "Categories.md",
+    "truthfulness_guardrail": "Fill in only what is true. Skip wording that does not apply. Do not exaggerate, invent symptoms, stressors, exposures, test results, or medical nexus opinions.",
+    "claim_kind": "dental",
+    "default_options": {
+      "severity": "Moderate to severe",
+      "frequency": "Daily or with chewing/talking",
+      "duration": "minutes to hours after use, with flares lasting longer",
+      "bestPain": "4/10",
+      "worstPain": "8/10",
+      "flareUps": "several times per month",
+      "triggers": "chewing, talking, hard foods, dental appliances, stress, or jaw clenching",
+      "limitation": "chewing, speaking, diet choices, sleep, work communication, and social comfort",
+      "treatment": "dental care, mouth guard or appliance if prescribed, medication, soft diet, procedures, and follow-up care",
+      "flareCare": "soft foods, rest, medication, heat/ice if helpful, appliance use if prescribed, and avoiding hard foods",
+      "limitBeforeStopping": "20–30 minutes",
+      "onset": "around [timeframe]",
+      "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+      "currentDiagnosis": "Oral and Dental",
+      "workImpact": "Pain or dental issues affect speaking, eating during work, concentration, and scheduling dental treatment.",
+      "dailyImpact": "Meals, talking, sleep, social activities, and hygiene routines are affected.",
+      "mainSymptoms": "jaw pain, tooth loss, chewing problems, speech changes, mouth pain, infections, or limited opening if true",
+      "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+      "aliases": ""
+    },
+    "sections": [
+      {
+        "id": "medical_history",
+        "number": 1,
+        "title": "Medical History / Onset & Nexus",
+        "formula_category": "Categories.md major category 1",
+        "intent": "Answer when/where symptoms started, what service event/exposure/aggravation may connect them, and what treatment has been tried.",
+        "dbq_wording_to_hit": "current oral/dental/TMJ diagnosis, onset, dental treatment, appliances/procedures, and current symptoms; in-service event, injury, illness, hazardous exposure, aggravation, or secondary service connection timeline; dental care, appliances/mouth guard if prescribed, medication, soft diet, procedures, and follow-up",
+        "what_to_say_template": "My claimed condition is {{currentDiagnosis}}. It first started or became noticeable {{onset}} after {{serviceEvent}}. Since then, the condition has continued with {{mainSymptoms}}. I have tried {{treatment}}, but symptoms still happen {{frequency}}. Evidence that may support the timeline includes {{evidence}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or with chewing/talking",
+          "duration": "minutes to hours after use, with flares lasting longer",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "chewing, talking, hard foods, dental appliances, stress, or jaw clenching",
+          "limitation": "chewing, speaking, diet choices, sleep, work communication, and social comfort",
+          "treatment": "dental care, mouth guard or appliance if prescribed, medication, soft diet, procedures, and follow-up care",
+          "flareCare": "soft foods, rest, medication, heat/ice if helpful, appliance use if prescribed, and avoiding hard foods",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Oral and Dental",
+          "workImpact": "Pain or dental issues affect speaking, eating during work, concentration, and scheduling dental treatment.",
+          "dailyImpact": "Meals, talking, sleep, social activities, and hygiene routines are affected.",
+          "mainSymptoms": "jaw pain, tooth loss, chewing problems, speech changes, mouth pain, infections, or limited opening if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "bullet_templates": [
+          "Onset: {{onset}}",
+          "Service event / exposure / aggravation: {{serviceEvent}}",
+          "Treatment tried: {{treatment}}",
+          "Records to mention if true: {{evidence}}"
+        ]
+      },
+      {
+        "id": "symptom_evaluation",
+        "number": 2,
+        "title": "Symptom Evaluation",
+        "formula_category": "Categories.md major category 2",
+        "intent": "Answer DBQ-style symptom questions with exact frequency, duration, severity, triggers, and condition-specific symptoms.",
+        "dbq_wording_to_hit": "chewing, speaking, jaw motion, pain, diet restrictions, tooth loss, mouth opening, and work/social impact",
+        "what_to_say_template": "My symptoms are {{mainSymptoms}}. They happen {{frequency}}, usually last {{duration}}, and are triggered or worsened by {{triggers}}. On better days they are about {{bestPain}}; on worst days they reach {{worstPain}}. For example, oral, dental, or jaw symptoms happen {{frequency}} and worsen with {{triggers}}.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or with chewing/talking",
+          "duration": "minutes to hours after use, with flares lasting longer",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "chewing, talking, hard foods, dental appliances, stress, or jaw clenching",
+          "limitation": "chewing, speaking, diet choices, sleep, work communication, and social comfort",
+          "treatment": "dental care, mouth guard or appliance if prescribed, medication, soft diet, procedures, and follow-up care",
+          "flareCare": "soft foods, rest, medication, heat/ice if helpful, appliance use if prescribed, and avoiding hard foods",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Oral and Dental",
+          "workImpact": "Pain or dental issues affect speaking, eating during work, concentration, and scheduling dental treatment.",
+          "dailyImpact": "Meals, talking, sleep, social activities, and hygiene routines are affected.",
+          "mainSymptoms": "jaw pain, tooth loss, chewing problems, speech changes, mouth pain, infections, or limited opening if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "frequency_duration",
+            "title": "Frequency & Duration",
+            "dbq_wording_to_hit": "Document frequency, duration, pattern, triggers, and whether symptoms are constant, intermittent, recurrent, or episodic.",
+            "what_to_say_template": "My {{currentDiagnosis}} symptoms are {{frequency}}. They usually last {{duration}}. The symptoms I need documented are {{mainSymptoms}}. They get worse with {{triggers}}.",
+            "example_template": "For example, oral, dental, or jaw symptoms happen {{frequency}} and worsen with {{triggers}}."
+          },
+          {
+            "id": "severity_scale",
+            "title": "Severity Scale",
+            "dbq_wording_to_hit": "Describe severity using measurable words, worst-day impairment, and any DBQ-specific severe-episode language that truthfully applies.",
+            "what_to_say_template": "On better days, severity is about {{bestPain}}. On worst days, it reaches {{worstPain}}. Overall, I would describe it as {{severity}} because it interferes with {{limitation}}.",
+            "example_template": "On a bad day, symptoms reach {{worstPain}} and I have to stop or reduce {{limitation}} instead of pushing through."
+          }
+        ],
+        "bullet_templates": [
+          "Frequency: {{frequency}}",
+          "Duration: {{duration}}",
+          "Severity: best {{bestPain}}, worst {{worstPain}}",
+          "Triggers / locations / activities: {{triggers}}"
+        ]
+      },
+      {
+        "id": "functional_impact",
+        "number": 3,
+        "title": "Functional Impact / Occupational Assessment",
+        "formula_category": "Categories.md major category 3",
+        "intent": "Answer how the disability limits work, daily activities, relationships/social function, reliability, and worst-day functioning.",
+        "dbq_wording_to_hit": "chewing, speaking, jaw motion, pain, diet restrictions, tooth loss, mouth opening, and work/social impact",
+        "what_to_say_template": "For work: {{workImpact}}\n\nFor daily life: {{dailyImpact}}\n\nAverage day: Symptoms are usually around {{bestPain}} and I can continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.\n\nWorst days: My worst days or flare-ups happen {{flareUps}}; during them, jaw/mouth pain or chewing/speaking limits worsen and I switch to {{flareCare}} until symptoms calm down.",
+        "personalized_example_template": "",
+        "blank_fields": [
+          "severity",
+          "frequency",
+          "duration",
+          "bestPain",
+          "worstPain",
+          "flareUps",
+          "triggers",
+          "limitation",
+          "treatment",
+          "flareCare",
+          "limitBeforeStopping",
+          "onset",
+          "serviceEvent",
+          "currentDiagnosis",
+          "workImpact",
+          "dailyImpact"
+        ],
+        "default_options": {
+          "severity": "Moderate to severe",
+          "frequency": "Daily or with chewing/talking",
+          "duration": "minutes to hours after use, with flares lasting longer",
+          "bestPain": "4/10",
+          "worstPain": "8/10",
+          "flareUps": "several times per month",
+          "triggers": "chewing, talking, hard foods, dental appliances, stress, or jaw clenching",
+          "limitation": "chewing, speaking, diet choices, sleep, work communication, and social comfort",
+          "treatment": "dental care, mouth guard or appliance if prescribed, medication, soft diet, procedures, and follow-up care",
+          "flareCare": "soft foods, rest, medication, heat/ice if helpful, appliance use if prescribed, and avoiding hard foods",
+          "limitBeforeStopping": "20–30 minutes",
+          "onset": "around [timeframe]",
+          "serviceEvent": "[specific service event, injury, exposure, aggravation, or secondary condition]",
+          "currentDiagnosis": "Oral and Dental",
+          "workImpact": "Pain or dental issues affect speaking, eating during work, concentration, and scheduling dental treatment.",
+          "dailyImpact": "Meals, talking, sleep, social activities, and hygiene routines are affected.",
+          "mainSymptoms": "jaw pain, tooth loss, chewing problems, speech changes, mouth pain, infections, or limited opening if true",
+          "evidence": "service records, treatment records, VA/private records, medications, imaging/labs/testing, profiles, buddy statements, or lay statements if true",
+          "aliases": ""
+        },
+        "subsections": [
+          {
+            "id": "work_daily_life",
+            "title": "Daily Activities",
+            "dbq_wording_to_hit": "Explain work limitations, daily activity limits, missed time, accommodations, safety concerns, and reduced reliability/productivity.",
+            "what_to_say_template": "This affects work because {{workImpact}} It affects daily life because {{dailyImpact}} I can usually continue for about {{limitBeforeStopping}} before I need to stop, rest, modify the task, or get help.",
+            "example_template": "A real-life example is: pain affects speaking, eating, concentration, and communication, especially after chewing or talking for {{limitBeforeStopping}}."
+          },
+          {
+            "id": "flare_ups",
+            "title": "Flare-Ups / Worst Days",
+            "dbq_wording_to_hit": "Describe flare-up frequency, triggers, duration, worst-day functional loss, and what helps relieve symptoms.",
+            "what_to_say_template": "Flare-ups or worst episodes happen {{flareUps}}. They are triggered by {{triggers}} and can last {{duration}}. During them, I cannot keep up with {{limitation}}, and I use {{flareCare}}.",
+            "example_template": "During a flare-up, jaw/mouth pain or chewing/speaking limits worsen and I switch to {{flareCare}} until symptoms calm down."
+          }
+        ],
+        "bullet_templates": [
+          "Work impact: {{workImpact}}",
+          "Daily impact: {{dailyImpact}}",
+          "Limit before stopping: {{limitBeforeStopping}}",
+          "Worst days / flare-ups: {{flareUps}}; care used: {{flareCare}}"
+        ]
+      }
+    ]
+  }
+}
