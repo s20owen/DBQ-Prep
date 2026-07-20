@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>DBQ Prep Workspace</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to prep workspace</a>
+
+    <div class="app-shell">
+      <aside class="rail" aria-label="Claim list">
+        <header class="brand">
+          <div class="brand-mark" aria-hidden="true">DBQ</div>
+          <div>
+            <strong>Prep Workspace</strong>
+            <span>Specific. Measurable. Documentable.</span>
+          </div>
+        </header>
+
+        <section class="rail-section">
+          <div class="section-kicker">Exam list</div>
+          <div id="claimList" class="claim-list"></div>
+        </section>
+
+        <section class="rail-section rail-actions">
+          <button id="exportButton" class="subtle-button" type="button">Export selected claims</button>
+          <button id="resetButton" class="subtle-button danger" type="button">Reset workspace</button>
+        </section>
+
+        <p class="rail-note">Guest mode stores selected claims in this browser only. This is not VA, legal advice, or medical advice.</p>
+      </aside>
+
+      <main id="main" class="main">
+        <section class="hero" aria-labelledby="pageTitle">
+          <div>
+            <p class="section-kicker">C&P exam preparation</p>
+            <h1 id="pageTitle">Find a DBQ. Add a claim. Know what to say.</h1>
+            <p class="hero-copy">Search the DBQ library and open a disability-specific prep view built around medical history, symptom evaluation, and functional impact.</p>
+          </div>
+
+        
+        </section>
+
+        <section class="search-panel" aria-label="Search DBQ library">
+          <label for="searchInput" class="section-kicker">Search DBQs</label>
+          <div class="search-command">
+            <input id="searchInput" type="search" autocomplete="off" placeholder="Try migraines, tinnitus, sleep apnea, knee, back, PTSD..." />
+            <button id="clearSearch" class="subtle-button" type="button">Clear</button>
+          </div>
+          <div class="search-meta">
+            <span id="catalogCount">Loading DBQs…</span>
+            <span id="selectedCount">0 selected</span>
+          </div>
+          <div id="searchResults" class="results-list"></div>
+        </section>
+
+        <section class="active-inputs-shell" aria-label="Claim script inputs">
+          <div id="activeInputs"></div>
+        </section>
+
+        <section class="detail-shell" aria-label="Selected claim preparation view">
+          <article id="claimDetail" class="claim-detail"></article>
+        </section>
+      </main>
+    </div>
+
+    <script src="data/dbq-catalog.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
